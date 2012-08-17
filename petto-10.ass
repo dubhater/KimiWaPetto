@@ -17,11 +17,11 @@ Last Style Storage: petto
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: petto,Fansub,28,&H00FFFFFF,&H009F9F9F,&H00000008,&H00000008,0,0,0,0,100,100,0,0,1,3,0,2,30,30,70,204
-Style: petto overlap,Fansub,28,&H00CFCFCF,&H008F8F8F,&H00000008,&H00000008,0,0,0,0,100,100,0,0,1,3,0,2,30,30,70,204
-Style: announcement2,Fansub,28,&H00F1FFDF,&H00F1FFDF,&H003F3F1F,&H003F3F1F,0,0,0,0,100,100,0,0,1,3,0,5,30,30,290,204
-Style: episode,Verdana,30,&H00F5ECFF,&H00F3E8FF,&H00400080,&H00400080,0,0,0,0,100,100,0,0,1,3,0,5,30,30,85,204
-Style: title,Verdana,36,&H00E2C6FF,&H00E0C1FF,&H003F007D,&H003F007D,0,0,0,0,100,100,0,0,1,3,0,5,30,30,150,204
+Style: petto,Fansub,30,&H00FFFFFF,&H009F9F9F,&H00000000,&H00000000,0,0,0,0,82,100,0,0,1,2.5,0,2,30,30,45,1
+Style: petto overlap,Fansub,30,&H0073FFD9,&H008F8F8F,&H00000000,&H00000000,0,0,0,0,82,100,0,0,1,2.5,0,2,30,30,45,1
+Style: announcement2,Fansub,30,&H00F1FFDF,&H00F1FFDF,&H003F3F1F,&H003F3F1F,0,0,0,0,82,100,0,0,1,2.5,1,2,30,30,45,1
+Style: episode,Verdana,30,&H00F5ECFF,&H00F3E8FF,&H00400080,&H00400080,0,0,0,0,100,100,0,0,1,3,0,5,30,30,85,1
+Style: title,Verdana,36,&H00E2C6FF,&H00E0C1FF,&H003F007D,&H003F007D,0,0,0,0,100,100,0,0,1,3,0,5,30,30,150,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
