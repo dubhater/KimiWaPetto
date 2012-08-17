@@ -3,14 +3,10 @@
 ; http://www.aegisub.org/
 Title: Kimi wa Petto ep 3
 Original Script: Japan-tv (English translation)
-Original Translation: Настя Губарь aka Asja Ra-coon
-Original Editing: none
-Original Script Checking: none
 ScriptType: v4.00+
 Collisions: Normal
 PlayResX: 868
 PlayResY: 480
-PlayDepth: 0
 Last Style Storage: petto
 Scroll Position: 621
 Active Line: 631
@@ -18,7 +14,6 @@ Video File: ../../jtv/kimi_wa_petto_dvd_ep03_[jtv].avi
 Video Colorspace: BT.601
 Video Aspect Ratio: c1.81818
 Video Position: 82413
-Timer: 100,0000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
