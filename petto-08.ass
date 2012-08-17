@@ -16,621 +16,620 @@ Video Position: 82489
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Petto_basic,Verdana,26,&H00FFFFFF,&H009F9F9F,&H80000008,&H80000008,-1,0,0,0,100,100,0,0,1,2,1,5,30,30,15,204
-Style: Petto_basic_2,Verdana,26,&H00CFCFCF,&H008F8F8F,&H80000008,&H80000008,-1,0,0,0,100,100,0,0,1,2,1,5,30,30,15,204
-Style: Petto_basic_ending,Verdana,26,&H00FFFFFF,&H009F9F9F,&H80000008,&H80000008,-1,0,0,0,100,100,0,0,1,2,1,5,5,30,35,204
+Style: petto,Verdana,26,&H00FFFFFF,&H009F9F9F,&H80000008,&H80000008,-1,0,0,0,100,100,0,0,1,2,1,5,30,30,15,204
+Style: petto overlap,Verdana,26,&H00CFCFCF,&H008F8F8F,&H80000008,&H80000008,-1,0,0,0,100,100,0,0,1,2,1,5,30,30,15,204
 Style: episode,Verdana,30,&H00F5ECFF,&H00F3E8FF,&H00400080,&H00400080,0,0,0,0,100,100,0,0,1,3,0,2,30,30,85,204
 Style: title,Verdana,36,&H00E2C6FF,&H00E0C1FF,&H003F007D,&H003F007D,0,0,0,0,100,100,0,0,1,3,0,2,30,30,150,204
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.26,0:00:01.50,Petto_basic,Hasumi,0,0,0,,I want you to marry me.
-Dialogue: 0,0:00:04.57,0:00:06.43,Petto_basic,Fukushima,0,0,0,,I want you to steal that woman from him.
-Dialogue: 0,0:00:07.34,0:00:09.44,Petto_basic,Takeshi,0,0,0,,I don't have to be told by you.
-Dialogue: 0,0:00:10.31,0:00:12.37,Petto_basic,Takeshi,0,0,0,,I will never let go of that hand.
-Dialogue: 0,0:00:19.51,0:00:22.02,Petto_basic,Hasumi,0,0,0,,I'm not in a rush, but I just want an answer.
-Dialogue: 0,0:00:32.99,0:00:33.90,Petto_basic,Sumire,0,0,0,,Well…
-Dialogue: 0,0:00:39.30,0:00:40.54,Petto_basic,Sumire,0,0,0,,No, I…
-Dialogue: 0,0:00:42.00,0:00:42.84,Petto_basic,Hasumi,0,0,0,,I'm sorry.
-Dialogue: 0,0:00:43.64,0:00:44.21,Petto_basic,Sumire,0,0,0,,
-Dialogue: 0,0:00:45.07,0:00:48.64,Petto_basic,Hasumi,0,0,0,,Honestly, I didn't think you would be this surprised.
-Dialogue: 0,0:00:49.54,0:00:54.82,Petto_basic,Hasumi,0,0,0,,I thought you would be at least a tad bit happy…
-Dialogue: 0,0:00:55.35,0:00:59.05,Petto_basic,Hasumi,0,0,0,,I was wondering what would be a good gift for your 29th birthday, and…
-Dialogue: 0,0:00:59.85,0:01:03.79,Petto_basic,Hasumi,0,0,0,,I'm such a fool, I guess I must've gotten everything wrong.
-Dialogue: 0,0:01:03.86,0:01:05.39,Petto_basic,Hasumi,0,0,0,,I don't seem to understand you at all, Iwaya.
-Dialogue: 0,0:01:05.39,0:01:06.29,Petto_basic,Sumire,0,0,0,,No, it's not that…
-Dialogue: 0,0:01:06.29,0:01:10.77,Petto_basic,Hasumi,0,0,0,,I didn't mean to corner you like that.
-Dialogue: 0,0:01:11.03,0:01:16.91,Petto_basic,Hasumi,0,0,0,,I just wanted you to be a little more at ease.
-Dialogue: 0,0:01:17.30,0:01:18.40,Petto_basic,Hasumi,0,0,0,,So…
-Dialogue: 0,0:01:19.21,0:01:21.28,Petto_basic,Hasumi,0,0,0,,I thought maybe a marriage would be for the best.
-Dialogue: 0,0:01:23.88,0:01:24.85,Petto_basic,Sumire,0,0,0,,I'm sorry…
-Dialogue: 0,0:01:25.38,0:01:28.22,Petto_basic,Hasumi,0,0,0,,I didn't mean to make you frown like that.
-Dialogue: 0,0:01:28.22,0:01:29.95,Petto_basic,Sumire,0,0,0,,Oh… no, it's my fault.
-Dialogue: 0,0:01:29.95,0:01:34.29,Petto_basic,Hasumi,0,0,0,,No, but you have your own job and everything.
-Dialogue: 0,0:01:34.46,0:01:37.59,Petto_basic,Hasumi,0,0,0,,I guess I can't expect you to just suddenly accept marriage and a foreign country.
-Dialogue: 0,0:01:38.13,0:01:40.13,Petto_basic,Hasumi,0,0,0,,It's too sudden, isn't it?
-Dialogue: 0,0:01:40.40,0:01:43.40,Petto_basic,Hasumi,0,0,0,,Well, for now, let's just forget about this.
-Dialogue: 0,0:01:43.40,0:01:44.77,Petto_basic,Sumire,0,0,0,,No, it's not like that.
-Dialogue: 0,0:01:46.43,0:01:50.74,Petto_basic,Sumire,0,0,0,,Umm, I…
-Dialogue: 0,0:01:52.57,0:01:54.08,Petto_basic,Sumire,0,0,0,,I love…
-Dialogue: 0,0:01:59.38,0:02:01.02,Petto_basic,Sumire,0,0,0,,I love you.
-Dialogue: 0,0:02:03.69,0:02:06.89,Petto_basic,Sumire,0,0,0,,I always have, a lot.
-Dialogue: 0,0:02:09.29,0:02:14.50,Petto_basic,Sumire,0,0,0,,But it was just so sudden right now, and I didn't know how to react.
-Dialogue: 0,0:02:15.96,0:02:18.90,Petto_basic,Sumire,0,0,0,,I'm really happy about your feelings for me.
-Dialogue: 0,0:02:24.61,0:02:25.84,Petto_basic,Sumire,0,0,0,,{\i1}What should I do…?
-Dialogue: 0,0:02:28.08,0:02:31.31,Petto_basic,Hasumi,0,0,0,,I love you too.
-Dialogue: 0,0:02:33.31,0:02:36.28,Petto_basic,Hasumi,0,0,0,,So that's enough for me.
-Dialogue: 0,0:02:37.25,0:02:39.69,Petto_basic,Hasumi,0,0,0,,I'm not going to rush you.
-Dialogue: 0,0:02:42.39,0:02:43.59,Petto_basic,Sumire,0,0,0,,Senpai.
-Dialogue: 0,0:02:47.10,0:02:52.33,Petto_basic,Hasumi,0,0,0,,Wow, we're talking about some very embarrassing stuff really early in the day, huh?
-Dialogue: 0,0:02:54.94,0:02:56.04,Petto_basic,Sumire,0,0,0,,You're right.
-Dialogue: 0,0:02:59.51,0:03:02.34,Petto_basic,Hasumi,0,0,0,,Let's go someplace where there's nobody around.
+Dialogue: 0,0:00:00.26,0:00:01.50,petto,Hasumi,0,0,0,,I want you to marry me.
+Dialogue: 0,0:00:04.57,0:00:06.43,petto,Fukushima,0,0,0,,I want you to steal that woman from him.
+Dialogue: 0,0:00:07.34,0:00:09.44,petto,Takeshi,0,0,0,,I don't have to be told by you.
+Dialogue: 0,0:00:10.31,0:00:12.37,petto,Takeshi,0,0,0,,I will never let go of that hand.
+Dialogue: 0,0:00:19.51,0:00:22.02,petto,Hasumi,0,0,0,,I'm not in a rush, but I just want an answer.
+Dialogue: 0,0:00:32.99,0:00:33.90,petto,Sumire,0,0,0,,Well…
+Dialogue: 0,0:00:39.30,0:00:40.54,petto,Sumire,0,0,0,,No, I…
+Dialogue: 0,0:00:42.00,0:00:42.84,petto,Hasumi,0,0,0,,I'm sorry.
+Dialogue: 0,0:00:43.64,0:00:44.21,petto,Sumire,0,0,0,,
+Dialogue: 0,0:00:45.07,0:00:48.64,petto,Hasumi,0,0,0,,Honestly, I didn't think you would be this surprised.
+Dialogue: 0,0:00:49.54,0:00:54.82,petto,Hasumi,0,0,0,,I thought you would be at least a tad bit happy…
+Dialogue: 0,0:00:55.35,0:00:59.05,petto,Hasumi,0,0,0,,I was wondering what would be a good gift for your 29th birthday, and…
+Dialogue: 0,0:00:59.85,0:01:03.79,petto,Hasumi,0,0,0,,I'm such a fool, I guess I must've gotten everything wrong.
+Dialogue: 0,0:01:03.86,0:01:05.39,petto,Hasumi,0,0,0,,I don't seem to understand you at all, Iwaya.
+Dialogue: 0,0:01:05.39,0:01:06.29,petto,Sumire,0,0,0,,No, it's not that…
+Dialogue: 0,0:01:06.29,0:01:10.77,petto,Hasumi,0,0,0,,I didn't mean to corner you like that.
+Dialogue: 0,0:01:11.03,0:01:16.91,petto,Hasumi,0,0,0,,I just wanted you to be a little more at ease.
+Dialogue: 0,0:01:17.30,0:01:18.40,petto,Hasumi,0,0,0,,So…
+Dialogue: 0,0:01:19.21,0:01:21.28,petto,Hasumi,0,0,0,,I thought maybe a marriage would be for the best.
+Dialogue: 0,0:01:23.88,0:01:24.85,petto,Sumire,0,0,0,,I'm sorry…
+Dialogue: 0,0:01:25.38,0:01:28.22,petto,Hasumi,0,0,0,,I didn't mean to make you frown like that.
+Dialogue: 0,0:01:28.22,0:01:29.95,petto,Sumire,0,0,0,,Oh… no, it's my fault.
+Dialogue: 0,0:01:29.95,0:01:34.29,petto,Hasumi,0,0,0,,No, but you have your own job and everything.
+Dialogue: 0,0:01:34.46,0:01:37.59,petto,Hasumi,0,0,0,,I guess I can't expect you to just suddenly accept marriage and a foreign country.
+Dialogue: 0,0:01:38.13,0:01:40.13,petto,Hasumi,0,0,0,,It's too sudden, isn't it?
+Dialogue: 0,0:01:40.40,0:01:43.40,petto,Hasumi,0,0,0,,Well, for now, let's just forget about this.
+Dialogue: 0,0:01:43.40,0:01:44.77,petto,Sumire,0,0,0,,No, it's not like that.
+Dialogue: 0,0:01:46.43,0:01:50.74,petto,Sumire,0,0,0,,Umm, I…
+Dialogue: 0,0:01:52.57,0:01:54.08,petto,Sumire,0,0,0,,I love…
+Dialogue: 0,0:01:59.38,0:02:01.02,petto,Sumire,0,0,0,,I love you.
+Dialogue: 0,0:02:03.69,0:02:06.89,petto,Sumire,0,0,0,,I always have, a lot.
+Dialogue: 0,0:02:09.29,0:02:14.50,petto,Sumire,0,0,0,,But it was just so sudden right now, and I didn't know how to react.
+Dialogue: 0,0:02:15.96,0:02:18.90,petto,Sumire,0,0,0,,I'm really happy about your feelings for me.
+Dialogue: 0,0:02:24.61,0:02:25.84,petto,Sumire,0,0,0,,{\i1}What should I do…?
+Dialogue: 0,0:02:28.08,0:02:31.31,petto,Hasumi,0,0,0,,I love you too.
+Dialogue: 0,0:02:33.31,0:02:36.28,petto,Hasumi,0,0,0,,So that's enough for me.
+Dialogue: 0,0:02:37.25,0:02:39.69,petto,Hasumi,0,0,0,,I'm not going to rush you.
+Dialogue: 0,0:02:42.39,0:02:43.59,petto,Sumire,0,0,0,,Senpai.
+Dialogue: 0,0:02:47.10,0:02:52.33,petto,Hasumi,0,0,0,,Wow, we're talking about some very embarrassing stuff really early in the day, huh?
+Dialogue: 0,0:02:54.94,0:02:56.04,petto,Sumire,0,0,0,,You're right.
+Dialogue: 0,0:02:59.51,0:03:02.34,petto,Hasumi,0,0,0,,Let's go someplace where there's nobody around.
 Dialogue: 0,0:03:11.05,0:03:15.26,title,text,0,0,0,,[sign]Kimi wa petto\NYou are my pet
 Dialogue: 0,0:03:11.05,0:03:15.26,episode,text,0,0,0,,8. The end of moratorium
-Dialogue: 0,0:03:16.12,0:03:18.43,Petto_basic,Yuri,0,0,0,,In a sense, it's ideal…
-Dialogue: 0,0:03:18.63,0:03:22.40,Petto_basic,Yuri,0,0,0,,Getting proposed to by your beloved on your 29th birthday.
-Dialogue: 0,0:03:22.40,0:03:27.30,Petto_basic,Sumire,0,0,0,,But you know, I think senpai thought I would be more excited like, "Oh my gosh, I'd love to get married!"
-Dialogue: 0,0:03:27.67,0:03:29.14,Petto_basic,Sumire,0,0,0,,But I totally let him down.
-Dialogue: 0,0:03:29.14,0:03:30.91,Petto_basic,Yuri,0,0,0,,So what are you going to do now?
-Dialogue: 0,0:03:32.54,0:03:33.61,Petto_basic,Sumire,0,0,0,,I don't know.
-Dialogue: 0,0:03:34.54,0:03:36.88,Petto_basic,Sumire,0,0,0,,I like him, but it's still early for marriage.
-Dialogue: 0,0:03:36.88,0:03:39.35,Petto_basic,Yuri,0,0,0,,You're right, you guys haven't even had sex yet.
-Dialogue: 0,0:03:42.62,0:03:43.08,Petto_basic,Yuri,0,0,0,,Wait.
-Dialogue: 0,0:03:43.85,0:03:44.52,Petto_basic,Sumire,0,0,0,,
-Dialogue: 0,0:03:45.05,0:03:46.99,Petto_basic,Yuri,0,0,0,,You're kidding me, you've done it?
-Dialogue: 0,0:03:50.33,0:03:51.63,Petto_basic,Yuri,0,0,0,,You've done it!
-Dialogue: 0,0:03:52.89,0:03:54.33,Petto_basic,Sumire,0,0,0,,Just a litle while ago, finally.
-Dialogue: 0,0:03:54.33,0:03:57.50,Petto_basic,Yuri,0,0,0,,I'm so happy for you!
-Dialogue: 0,0:03:57.50,0:03:59.00,Petto_basic,Yuri,0,0,0,,And? And? And?
-Dialogue: 0,0:03:59.01,0:04:00.37,Petto_basic,Yuri,0,0,0,,How was it?
-Dialogue: 0,0:04:00.37,0:04:01.47,Petto_basic,Sumire,0,0,0,,What do you mean, how was it?
-Dialogue: 0,0:04:01.80,0:04:06.51,Petto_basic,Sumire,0,0,0,,Actually, he was pretty good. His technique was pretty impressive.
-Dialogue: 0,0:04:06.51,0:04:09.91,Petto_basic,Yuri,0,0,0,,That's to be expected, since he's such a good catch.
-Dialogue: 0,0:04:09.91,0:04:11.65,Petto_basic,Sumire,0,0,0,,But you know, honestly…
-Dialogue: 0,0:04:11.65,0:04:14.92,Petto_basic,Sumire,0,0,0,,things like marriage and Rio de Janeiro were going round and round in my head.
-Dialogue: 0,0:04:14.92,0:04:16.89,Petto_basic,Sumire,0,0,0,,Honestly, I wasn't able to concentrate very well.
-Dialogue: 0,0:04:16.89,0:04:18.32,Petto_basic,Yuri,0,0,0,,Oh, what a waste…
-Dialogue: 0,0:04:18.32,0:04:23.99,Petto_basic,Sumire,0,0,0,,But most of all, senpai can just take me to Rio de Janeiro, and work his butt off, but I…
-Dialogue: 0,0:04:23.99,0:04:26.49,Petto_basic,Yuri,0,0,0,,Will lose your career as well as your current life.
-Dialogue: 0,0:04:27.13,0:04:27.96,Petto_basic,Sumire,0,0,0,,Exactly.
-Dialogue: 0,0:04:28.33,0:04:31.90,Petto_basic,Yuri,0,0,0,,But you know, there are women who think of that as happiness.
-Dialogue: 0,0:04:34.97,0:04:35.67,Petto_basic,Sumire,0,0,0,,Yeah…
-Dialogue: 0,0:04:37.94,0:04:42.14,Petto_basic,Sumire,0,0,0,,I can't do this, I don't think I'm mature enough for marriage yet.
-Dialogue: 0,0:04:42.14,0:04:44.28,Petto_basic,Yuri,0,0,0,,What are you saying at the age of 29?
-Dialogue: 0,0:04:44.28,0:04:45.48,Petto_basic,Yuri,0,0,0,,Let me tell you this…
-Dialogue: 0,0:04:45.48,0:04:49.05,Petto_basic,Yuri,0,0,0,,It's not that you're not mature enough, it's just that you don't want to become mature.
-Dialogue: 0,0:04:49.05,0:04:51.59,Petto_basic,Sumire,0,0,0,,That's not true, it's been seven years since I left my parents' house.
-Dialogue: 0,0:04:51.59,0:04:54.26,Petto_basic,Yuri,0,0,0,,Financial independence and psychological independence are different.
-Dialogue: 0,0:04:54.29,0:04:57.36,Petto_basic,Yuri,0,0,0,,You are still stuck in a sea of moratorium.
-Dialogue: 0,0:04:57.59,0:04:58.86,Petto_basic,Sumire,0,0,0,,Moratorium?
-Dialogue: 0,0:04:59.03,0:05:00.40,Petto_basic,Momo,0,0,0,,I'm home!
-Dialogue: 0,0:05:00.40,0:05:02.90,Petto_basic,Yuri,0,0,0,,Yup, with him.
-Dialogue: 0,0:05:04.67,0:05:06.50,Petto_basic,Momo,0,0,0,,Sumire-chan, sorry I was late!
-Dialogue: 0,0:05:06.50,0:05:08.20,Petto_basic,Sumire,0,0,0,,Wait a minute. Let go of me, Momo!
-Dialogue: 0,0:05:08.77,0:05:09.30,Petto_basic,Momo,0,0,0,,
-Dialogue: 0,0:05:11.34,0:05:13.00,Petto_basic,Momo,0,0,0,,The shampoo doesn't smell like ours.
-Dialogue: 0,0:05:13.00,0:05:14.51,Petto_basic,Sumire,0,0,0,,What?! Just don't stick to me like that!
-Dialogue: 0,0:05:15.88,0:05:18.85,Petto_basic,Yuri,0,0,0,,That's because it's the smell of the shampoo at Hasumi-san's.
-Dialogue: 0,0:05:20.28,0:05:22.05,Petto_basic,Sumire,0,0,0,,Yuri-chan, don't talk about that in front of the pet…
-Dialogue: 0,0:05:22.05,0:05:24.00,Petto_basic,Momo,0,0,0,,You're joking! Even though it was a daytime date?
-Dialogue: 0,0:05:24.00,0:05:26.80,Petto_basic,Yuri,0,0,0,,On top of that, it was the memorable first time!
-Dialogue: 0,0:05:26.86,0:05:28.82,Petto_basic,Momo,0,0,0,,Really?! You hadn't done it with him yet?
-Dialogue: 0,0:05:28.82,0:05:31.73,Petto_basic,Yuri,0,0,0,,Well, there were apparently a few attempts until now…
-Dialogue: 0,0:05:31.79,0:05:34.00,Petto_basic,Momo,0,0,0,,Wow, and on your birthday too!
-Dialogue: 0,0:05:34.00,0:05:36.46,Petto_basic,Momo,0,0,0,,I can see Hasumi-kun liking that kind of a sappy situation.
-Dialogue: 0,0:05:36.46,0:05:39.47,Petto_basic,Yuri,0,0,0,,I know! And in the day, even though he has night duty!
-Dialogue: 0,0:05:40.54,0:05:43.64,Petto_basic,Sumire,0,0,0,,Hey, you two… stop making a conversation over people's sex lives!
-Dialogue: 0,0:05:45.11,0:05:46.74,Petto_basic,Sumire,0,0,0,,I wonder if I have another bottle of wine…
-Dialogue: 0,0:05:51.81,0:05:52.78,Petto_basic,Momo,0,0,0,,What?
-Dialogue: 0,0:05:53.08,0:05:54.92,Petto_basic,Yuri,0,0,0,,You're not hurt by this… are you?
-Dialogue: 0,0:05:55.95,0:05:56.95,Petto_basic,Momo,0,0,0,,No way.
-Dialogue: 0,0:05:56.95,0:06:01.36,Petto_basic,Momo,0,0,0,,If I were to get hurt by a little thing like my master having sex, being a pet would be a tough job.
-Dialogue: 0,0:06:14.80,0:06:16.91,Petto_basic,Momo,0,0,0,,What a tough job…
-Dialogue: 0,0:06:40.73,0:06:45.20,Petto_basic,counsel,0,0,0,,But to be asked for relationship advice at this late hour is rather unpleasant.
-Dialogue: 0,0:06:45.20,0:06:48.14,Petto_basic,Sumire,0,0,0,,Please forgive me. Today is my birthday.
-Dialogue: 0,0:06:49.37,0:06:52.24,Petto_basic,counsel,0,0,0,,I see… then it can't be helped.
-Dialogue: 0,0:06:52.87,0:06:57.28,Petto_basic,counsel,0,0,0,,Then I'll only listen to you for three minutes.
-Dialogue: 0,0:06:58.28,0:07:02.02,Petto_basic,counsel,0,0,0,,Iwaya-san, are you having a difficult time deciding on marriage?
-Dialogue: 0,0:07:02.82,0:07:04.52,Petto_basic,Sumire,0,0,0,,Yes, that's the problem.
-Dialogue: 0,0:07:05.09,0:07:06.29,Petto_basic,counsel,0,0,0,,And why is that?
-Dialogue: 0,0:07:07.52,0:07:09.59,Petto_basic,Sumire,0,0,0,,I don't know myself…
-Dialogue: 0,0:07:09.59,0:07:11.33,Petto_basic,counsel,0,0,0,,Are you dissatisfied with him at all?
-Dialogue: 0,0:07:11.80,0:07:12.70,Petto_basic,Sumire,0,0,0,,No.
-Dialogue: 0,0:07:13.36,0:07:15.26,Petto_basic,counsel,0,0,0,,Is there another man who interests you?
-Dialogue: 0,0:07:15.70,0:07:16.70,Petto_basic,Sumire,0,0,0,,No.
-Dialogue: 0,0:07:16.97,0:07:18.30,Petto_basic,counsel,0,0,0,,The sex isn't all that great.
-Dialogue: 0,0:07:18.30,0:07:18.99,Petto_basic,Sumire,0,0,0,,No!
-Dialogue: 0,0:07:19.50,0:07:20.30,Petto_basic,Sumire,0,0,0,,Excuse me…
-Dialogue: 0,0:07:20.90,0:07:24.21,Petto_basic,Sumire,0,0,0,,I just don't think I have the will to throw away my current lifestyle, my career,
-Dialogue: 0,0:07:24.31,0:07:30.37,Petto_basic,Sumire,0,0,0,,my house, my last name, nor my pet all at once.
-Dialogue: 0,0:07:30.37,0:07:34.78,Petto_basic,Sumire,0,0,0,,I just feel that women have to sacrifice more than men for the sake of marriage.
-Dialogue: 0,0:07:37.09,0:07:39.35,Petto_basic,Sumire,0,0,0,,I don't feel dissatisfaction with him at all.
-Dialogue: 0,0:07:39.65,0:07:43.63,Petto_basic,counsel,0,0,0,,But you think you'll feel cramped when it comes to spending the rest of your lives together.
-Dialogue: 0,0:07:44.09,0:07:45.53,Petto_basic,Sumire,0,0,0,,Yeah, maybe there's a little bit of that.
-Dialogue: 0,0:07:45.83,0:07:46.70,Petto_basic,counsel,0,0,0,,Makes sense.
-Dialogue: 0,0:07:48.50,0:07:49.56,Petto_basic,counsel,0,0,0,,I see.
-Dialogue: 0,0:07:51.13,0:07:53.17,Petto_basic,counsel,0,0,0,,Then maybe it's too early for you to marry.
-Dialogue: 0,0:07:53.37,0:07:56.60,Petto_basic,Sumire,0,0,0,,But it'll be so hard to be so far away from senpai.
-Dialogue: 0,0:07:56.60,0:08:00.28,Petto_basic,Sumire,0,0,0,,And starting todat, I'm already 29, and I feel bad sending him overseas on his own.
-Dialogue: 0,0:08:00.51,0:08:03.88,Petto_basic,counsel,0,0,0,,But it's not possible to choose both.
-Dialogue: 0,0:08:06.85,0:08:11.75,Petto_basic,Sumire,0,0,0,,If I was a little younger, I could get married just for the feeling of love.
-Dialogue: 0,0:08:13.32,0:08:14.62,Petto_basic,Sumire,0,0,0,,But now…
-Dialogue: 0,0:08:18.33,0:08:20.86,Petto_basic,Sumire,0,0,0,,But now, I want to stay like this a little longer…
-Dialogue: 0,0:08:20.86,0:08:23.90,Petto_basic,counsel,0,0,0,,Moratorium doesn't last forever.
-Dialogue: 0,0:08:30.14,0:08:31.17,Petto_basic,counsel,0,0,0,,You're out of time.
-Dialogue: 0,0:08:31.67,0:08:35.21,Petto_basic,counsel,0,0,0,,Well then, happy birthday to you ~
-Dialogue: 0,0:08:35.34,0:08:36.85,Petto_basic,Sumire,0,0,0,,Hey, wait…
-Dialogue: 0,0:08:54.83,0:08:56.97,Petto_basic,counsel,0,0,0,,She can't just keep running away.
-Dialogue: 0,0:09:02.80,0:09:04.24,Petto_basic,Momo,0,0,0,,Sumire-chan, the bathtub's free.
-Dialogue: 0,0:09:06.57,0:09:09.78,Petto_basic,Momo,0,0,0,,Are you serious?! Did you empty the entire bottle while I was taking a bath?
-Dialogue: 0,0:09:12.95,0:09:15.38,Petto_basic,Momo,0,0,0,,Sumire-chan, you'll catch a cold.
-Dialogue: 0,0:09:25.79,0:09:27.60,Petto_basic,Momo,0,0,0,,Sumire-chan, are you okay?
-Dialogue: 0,0:09:34.14,0:09:36.60,Petto_basic,Momo,0,0,0,,How defenseless you look.
-Dialogue: 0,0:09:38.51,0:09:40.08,Petto_basic,Momo,0,0,0,,Let's get you to bed.
-Dialogue: 0,0:09:40.58,0:09:43.14,Petto_basic,Momo,0,0,0,,C'mon, wake up! Come on!
-Dialogue: 0,0:09:44.61,0:09:47.75,Petto_basic,Momo,0,0,0,,Hey, Sumire! I'll check out your panties!
-Dialogue: 0,0:09:51.19,0:09:52.79,Petto_basic,Sumire,0,0,0,,I'll charge 100 yen if you do…
-Dialogue: 0,0:09:53.02,0:09:55.30,Petto_basic,Momo,0,0,0,,100 yen? Isn't that a little too cheap?
-Dialogue: 0,0:09:55.30,0:09:57.00,Petto_basic,Momo,0,0,0,,You have to value yourself more.
-Dialogue: 0,0:10:03.87,0:10:05.67,Petto_basic,Momo,0,0,0,,Geez, give me a break.
-Dialogue: 0,0:10:16.04,0:10:17.58,Petto_basic,Momo,0,0,0,,She's so heavy…
-Dialogue: 0,0:11:09.76,0:11:10.33,Petto_basic,man,0,0,0,,Hey!
-Dialogue: 0,0:11:11.47,0:11:13.64,Petto_basic,Hasumi,0,0,0,,Oh, Nishida-san!
-Dialogue: 0,0:11:13.64,0:11:16.20,Petto_basic,man,0,0,0,,Sorry, sorry… I didn't mean to surprise you like that.
-Dialogue: 0,0:11:17.34,0:11:20.38,Petto_basic,man,0,0,0,,Hey, isn't this Goda Takeshi?
-Dialogue: 0,0:11:20.48,0:11:21.54,Petto_basic,Hasumi,0,0,0,,You know him?
-Dialogue: 0,0:11:21.54,0:11:22.48,Petto_basic,man,0,0,0,,Sure I do.
-Dialogue: 0,0:11:22.48,0:11:25.15,Petto_basic,man,0,0,0,,Anyone who has an interest in dance should know him.
-Dialogue: 0,0:11:25.38,0:11:26.48,Petto_basic,man,0,0,0,,Is this your article?
-Dialogue: 0,0:11:26.48,0:11:28.68,Petto_basic,Hasumi,0,0,0,,No, no… I've just met him before, that's all.
-Dialogue: 0,0:11:28.88,0:11:30.75,Petto_basic,man,0,0,0,,Can you introduce him to me then?
-Dialogue: 0,0:11:30.95,0:11:34.09,Petto_basic,man,0,0,0,,I don't know his address. He seems to have run away from home.
-Dialogue: 0,0:11:34.42,0:11:34.96,Petto_basic,Hasumi,0,0,0,,What?
-Dialogue: 0,0:11:35.49,0:11:39.09,Petto_basic,man,0,0,0,,I heard he's going to have a performance soon at "Forest Hall 21".
-Dialogue: 0,0:11:40.00,0:11:43.23,Petto_basic,man,0,0,0,,I've been keeping an eye on him even before I had entered the Culture department.
-Dialogue: 0,0:12:02.52,0:12:03.69,Petto_basic,Sumire,0,0,0,,Momo?
-Dialogue: 0,0:12:06.25,0:12:11.96,Petto_basic,Sumire,0,0,0,,Huh? Why am I in bed? Huh? Pajamas…
-Dialogue: 0,0:12:11.96,0:12:14.50,Petto_basic,Momo,0,0,0,,Don't worry, I didn't take off your bra and panties.
-Dialogue: 0,0:12:14.50,0:12:15.56,Petto_basic,Sumire,0,0,0,,What?! Why—
-Dialogue: 0,0:12:16.43,0:12:18.37,Petto_basic,Sumire,0,0,0,,Oh, my head hurts…
-Dialogue: 0,0:12:18.90,0:12:20.07,Petto_basic,Momo,0,0,0,,Here's water.
-Dialogue: 0,0:12:22.04,0:12:23.20,Petto_basic,Sumire,0,0,0,,Thanks.
-Dialogue: 0,0:12:26.81,0:12:28.18,Petto_basic,Momo,0,0,0,,Here's some medicine.
-Dialogue: 0,0:12:32.81,0:12:34.22,Petto_basic,Sumire,0,0,0,,I don't feel so good.
-Dialogue: 0,0:12:36.25,0:12:38.69,Petto_basic,Momo,0,0,0,,Here's a barf bag. I'll put it behind you.
-Dialogue: 0,0:12:45.23,0:12:47.00,Petto_basic,Sumire,0,0,0,,What time is it now?
-Dialogue: 0,0:12:47.23,0:12:50.97,Petto_basic,Momo,0,0,0,,2:30 AM. Your birthday's over.
-Dialogue: 0,0:12:51.93,0:12:55.57,Petto_basic,Sumire,0,0,0,,This sucks, to drink too much and be sick on my birthday.
-Dialogue: 0,0:12:56.64,0:13:00.38,Petto_basic,Momo,0,0,0,,Don't worry about it, it can be just another memory for you.
-Dialogue: 0,0:13:02.01,0:13:02.98,Petto_basic,Sumire,0,0,0,,A memory?
-Dialogue: 0,0:13:03.00,0:13:04.00,Petto_basic,Momo,0,0,0,,Yeah.
-Dialogue: 0,0:13:19.83,0:13:24.40,Petto_basic,Momo,0,0,0,,You know, I'll stay around until you tell me to get out.
-Dialogue: 0,0:13:30.77,0:13:31.57,Petto_basic,Sumire,0,0,0,,Always?
-Dialogue: 0,0:13:33.17,0:13:34.08,Petto_basic,Momo,0,0,0,,Always.
-Dialogue: 0,0:13:36.41,0:13:37.81,Petto_basic,Sumire,0,0,0,,Even if it's decades?
-Dialogue: 0,0:13:38.81,0:13:41.72,Petto_basic,Momo,0,0,0,,Yup, even decades.
-Dialogue: 0,0:13:49.32,0:13:53.66,Petto_basic,Sumire,0,0,0,,Even if I become a grandma?
-Dialogue: 0,0:13:55.86,0:14:00.64,Petto_basic,Momo,0,0,0,,Yeah, even if you become a grandma, Sumire-chan.
-Dialogue: 0,0:14:15.08,0:14:17.69,Petto_basic,Rumi,0,0,0,,Hey, is it true that you've decided to not go to Germany?
-Dialogue: 0,0:14:17.69,0:14:19.09,Petto_basic,Takeshi,0,0,0,,Yup, I decided not to.
-Dialogue: 0,0:14:19.09,0:14:20.96,Petto_basic,Rumi,0,0,0,,Are you serious? I can't believe you.
-Dialogue: 0,0:14:20.96,0:14:22.69,Petto_basic,Takeshi,0,0,0,,Germany's so hard!
-Dialogue: 0,0:14:22.69,0:14:24.96,Petto_basic,Rumi,0,0,0,,You're lying. It's because of that woman, isn't it?
-Dialogue: 0,0:14:26.26,0:14:28.03,Petto_basic,Takeshi,0,0,0,,Yes, but is that anything to you?
-Dialogue: 0,0:14:28.23,0:14:29.16,Petto_basic,Rumi,0,0,0,,Why?
-Dialogue: 0,0:14:29.16,0:14:31.20,Petto_basic,Rumi,0,0,0,,It's not like she's your girlfriend, right?
-Dialogue: 0,0:14:31.20,0:14:33.30,Petto_basic,Rumi,0,0,0,,You're just a pet to her.
-Dialogue: 0,0:14:32.23,0:14:34.50,Petto_basic_2,Takeshi,0,0,0,,Whoa, what's that?!
-Dialogue: 0,0:14:35.54,0:14:38.57,Petto_basic,Rumi,0,0,0,,You're kidding me. What happened, Junpei?
-Dialogue: 0,0:14:39.34,0:14:41.71,Petto_basic,Junpei,0,0,0,,Nothing… I just came back from job interviews.
-Dialogue: 0,0:14:42.08,0:14:44.41,Petto_basic,Takeshi,0,0,0,,It looks great on you, Junpei!
-Dialogue: 0,0:14:44.01,0:14:45.75,Petto_basic_2,Rumi,0,0,0,,Yeah, it's not bad at all.
-Dialogue: 0,0:14:46.45,0:14:49.78,Petto_basic,Rumi,0,0,0,,Actually, I think I'm going to be able to get into a 2-year university too.
-Dialogue: 0,0:14:49.78,0:14:53.46,Petto_basic,Junpei,0,0,0,,Oh? That's going to work out for you? That's awesome!
-Dialogue: 0,0:14:54.26,0:14:56.12,Petto_basic,Rumi,0,0,0,,Everyone's changing so quickly.
-Dialogue: 0,0:14:56.96,0:14:59.66,Petto_basic,Junpei,0,0,0,,Is it really okay that you stay like that forever?
-Dialogue: 0,0:15:00.43,0:15:03.47,Petto_basic,girl,0,0,0,,And, he said that he wasn't in a rush, but he wanted an answer!
-Dialogue: 0,0:15:03.47,0:15:05.37,Petto_basic,girl,0,0,0,,Are you serious?! A real proposal?!
-Dialogue: 0,0:15:05.37,0:15:09.84,Petto_basic,girl,0,0,0,,Ohno-san from the Society department saw Hasumi-san giving her the ring at a restaurant!
-Dialogue: 0,0:15:10.01,0:15:12.01,Petto_basic,girl,0,0,0,,Then it's coming up!
-Dialogue: 0,0:15:12.01,0:15:14.98,Petto_basic,Kuraki,0,0,0,,Isn't that a shock?! You were such a fan of Hasumi-san's.
-Dialogue: 0,0:15:14.98,0:15:17.31,Petto_basic,Fukushima,0,0,0,,Not really. I was just a little disappointed.
-Dialogue: 0,0:15:17.31,0:15:22.68,Petto_basic,Fukushima,0,0,0,,Besides, right now I'm doing pretty well with a young dealer of foreign cars.
-Dialogue: 0,0:15:22.68,0:15:23.85,Petto_basic,Kuraki,0,0,0,,Oh, really?
-Dialogue: 0,0:15:23.85,0:15:26.19,Petto_basic,girl,0,0,0,,So do you think they're going to have the wedding ceremony and then fly over there?
-Dialogue: 0,0:15:32.89,0:15:34.10,Petto_basic,Ishida,0,0,0,,Umm, Iwaya-san?
-Dialogue: 0,0:15:34.10,0:15:35.03,Petto_basic,Sumire,0,0,0,,Yes?
-Dialogue: 0,0:15:35.80,0:15:38.87,Petto_basic,Ishida,0,0,0,,You're not going to quit your job, are you?
-Dialogue: 0,0:15:39.93,0:15:40.54,Petto_basic,Sumire,0,0,0,,
-Dialogue: 0,0:15:40.90,0:15:44.67,Petto_basic,Ishida,0,0,0,,I heard a rumor that you were going to get married and go to Rio de Janeiro.
-Dialogue: 0,0:15:44.84,0:15:47.14,Petto_basic,Sumire,0,0,0,,How did it get out so soon? No, I'm not really…
-Dialogue: 0,0:15:47.14,0:15:51.01,Petto_basic,boss2,0,0,0,,If you're going to quit just for marriage, then you shouldn't start working in the first place.
-Dialogue: 0,0:15:51.01,0:15:52.15,Petto_basic,Sumire,0,0,0,,What's that supposed to mean?
-Dialogue: 0,0:15:52.15,0:15:55.32,Petto_basic,Ishida,0,0,0,,But it can't really be helped if they're going overseas.
-Dialogue: 0,0:15:55.62,0:15:57.02,Petto_basic,boss2,0,0,0,,That's why I don't like women.
-Dialogue: 0,0:15:57.02,0:15:59.59,Petto_basic,boss2,0,0,0,,When you think they finally adapted to their jobs, they quit so easily.
-Dialogue: 0,0:15:59.59,0:16:01.46,Petto_basic,Ishida,0,0,0,,But you know… it hasn't been decided yet, right?
-Dialogue: 0,0:16:01.46,0:16:02.82,Petto_basic,Sumire,0,0,0,,Umm… I haven't said anything about quitting…
-Dialogue: 0,0:16:02.82,0:16:05.20,Petto_basic,boss2,0,0,0,,All right, let's go to lunch! Let's go.
-Dialogue: 0,0:16:05.20,0:16:06.20,Petto_basic,colleague,0,0,0,,Yes.
-Dialogue: 0,0:16:08.96,0:16:10.17,Petto_basic,Sumire,0,0,0,,What the heck was that?
-Dialogue: 0,0:16:10.17,0:16:12.17,Petto_basic,Fukushima,0,0,0,,Iwaya-san, I'm done with the calculations.
-Dialogue: 0,0:16:12.90,0:16:13.90,Petto_basic,Sumire,0,0,0,,Thank you.
-Dialogue: 0,0:16:19.01,0:16:21.88,Petto_basic,Fukushima,0,0,0,,But wow, you have some nerve to have a pet.
-Dialogue: 0,0:16:22.51,0:16:25.35,Petto_basic,Fukushima,0,0,0,,I just thought it was a normal case of double-dealing.
-Dialogue: 0,0:16:25.95,0:16:27.32,Petto_basic,Sumire,0,0,0,,I haven't done such a thing!
-Dialogue: 0,0:16:27.32,0:16:29.55,Petto_basic,Fukushima,0,0,0,,But it's the same to a man.
-Dialogue: 0,0:16:30.42,0:16:33.92,Petto_basic,Fukushima,0,0,0,,Then would you be fine with Hasumi-san having a woman pet at his house?
-Dialogue: 0,0:16:35.49,0:16:36.66,Petto_basic,Sumire,0,0,0,,Well…
-Dialogue: 0,0:16:37.03,0:16:38.96,Petto_basic,Fukushima,0,0,0,,Which are you going to choose?
-Dialogue: 0,0:16:39.93,0:16:43.80,Petto_basic,Fukushima,0,0,0,,If you're unsure, then why don't you just give Hasumi-san to me?
-Dialogue: 0,0:16:51.60,0:16:53.44,Petto_basic,Takeshi,0,0,0,,You're really serious about Hasumi-kun.
-Dialogue: 0,0:16:54.34,0:16:59.15,Petto_basic,Fukushima,0,0,0,,You're kidding, right? Why would I do something inefficient like truly falling for someone?
-Dialogue: 0,0:17:04.09,0:17:08.06,Petto_basic,Sumire,0,0,0,,Choose one or… the other?
-Dialogue: 0,0:17:13.33,0:17:15.73,Petto_basic,nanny,0,0,0,,Takeshi-san! Actually, you know…
-Dialogue: 0,0:17:15.73,0:17:17.07,Petto_basic,Takeshi,0,0,0,,You're still living here?
-Dialogue: 0,0:17:17.07,0:17:19.33,Petto_basic,nanny,0,0,0,,There's been an unforeseen happening.
-Dialogue: 0,0:17:19.33,0:17:21.37,Petto_basic,Takeshi,0,0,0,,Unforeseen? What's that have to do with me?
-Dialogue: 0,0:17:22.14,0:17:23.14,Petto_basic,mother,0,0,0,,Takeshi.
-Dialogue: 0,0:17:27.04,0:17:28.21,Petto_basic,Takeshi,0,0,0,,Mom.
-Dialogue: 0,0:17:34.52,0:17:35.38,Petto_basic,Takeshi,0,0,0,,Why?
-Dialogue: 0,0:17:40.36,0:17:42.09,Petto_basic,mother,0,0,0,,Why don't you sit down, instead of just standing there?
-Dialogue: 0,0:17:44.06,0:17:47.70,Petto_basic,mother,0,0,0,,Or would you like to invite me up to your home?
-Dialogue: 0,0:17:59.47,0:18:01.21,Petto_basic,landlord,0,0,0,,Hey, you guys…
-Dialogue: 0,0:18:00.71,0:18:03.65,Petto_basic_2,nanny,0,0,0,,Wa-wait… please don't bother them.
-Dialogue: 0,0:18:04.15,0:18:07.18,Petto_basic,landlord,0,0,0,,I've seen them before, but exactly who are they and what floor do they live on?
-Dialogue: 0,0:18:07.18,0:18:08.75,Petto_basic,nanny,0,0,0,,They're my wife and son.
-Dialogue: 0,0:18:09.22,0:18:10.15,Petto_basic,landlord,0,0,0,,You're kidding me!
-Dialogue: 0,0:18:10.15,0:18:10.69,Petto_basic,nanny,0,0,0,,Yes, I am.
-Dialogue: 0,0:18:11.75,0:18:13.66,Petto_basic,nanny,0,0,0,,It's a lie that I've always wanted to say.
-Dialogue: 0,0:18:14.36,0:18:15.06,Petto_basic,nanny,0,0,0,,Oh, really.
-Dialogue: 0,0:18:15.42,0:18:16.42,Petto_basic,nanny,0,0,0,,I'm very sorry.
-Dialogue: 0,0:18:17.06,0:18:17.86,Petto_basic,landlord,0,0,0,,I see.
-Dialogue: 0,0:18:23.33,0:18:24.87,Petto_basic,Takeshi,0,0,0,,You came to see me for something?
-Dialogue: 0,0:18:34.84,0:18:36.38,Petto_basic,mother,0,0,0,,My, my…
-Dialogue: 0,0:18:37.45,0:18:38.28,Petto_basic,Takeshi,0,0,0,,What?
-Dialogue: 0,0:18:38.78,0:18:41.02,Petto_basic,mother,0,0,0,,You've become so handsome.
-Dialogue: 0,0:18:42.88,0:18:44.49,Petto_basic,mother,0,0,0,,It pisses me off.
-Dialogue: 0,0:18:46.25,0:18:48.36,Petto_basic,mother,0,0,0,,You were so cute back in the day.
-Dialogue: 0,0:18:48.56,0:18:50.76,Petto_basic,Takeshi,0,0,0,,Don't say things that are hard for me to respond to.
-Dialogue: 0,0:18:53.16,0:18:55.10,Petto_basic,mother,0,0,0,,What's that scarf for?
-Dialogue: 0,0:18:55.10,0:18:58.20,Petto_basic,Takeshi,0,0,0,,It's not a scarf, leave it alone.
-Dialogue: 0,0:18:58.20,0:18:59.90,Petto_basic,mother,0,0,0,,You've grown taller, haven't you?
-Dialogue: 0,0:19:00.37,0:19:02.47,Petto_basic,Takeshi,0,0,0,,Well, I suppose I'm taller than I was four years ago.
-Dialogue: 0,0:19:02.87,0:19:07.04,Petto_basic,nanny,0,0,0,,The spring when you were 16 years old, when you ran away from home, you were still only 166 cm.
-Dialogue: 0,0:19:07.04,0:19:08.74,Petto_basic,nanny,0,0,0,,I think he's grown another 3 cm.
-Dialogue: 0,0:19:08.74,0:19:09.91,Petto_basic,mother,0,0,0,,Shut up.
-Dialogue: 0,0:19:08.74,0:19:09.91,Petto_basic_2,Takeshi,0,0,0,,Shut up.
-Dialogue: 0,0:19:13.28,0:19:14.38,Petto_basic,Takeshi,0,0,0,,Keep your mouth shut.
-Dialogue: 0,0:19:15.48,0:19:17.05,Petto_basic,mother,0,0,0,,Go elsewhere.
-Dialogue: 0,0:19:18.30,0:19:19.30,Petto_basic,nanny,0,0,0,,Yes.
-Dialogue: 0,0:19:27.46,0:19:29.93,Petto_basic,mother,0,0,0,,So you're owned by a woman here?
-Dialogue: 0,0:19:32.40,0:19:34.07,Petto_basic,mother,0,0,0,,Go to Germany.
-Dialogue: 0,0:19:34.60,0:19:35.24,Petto_basic,Takeshi,0,0,0,,What?
-Dialogue: 0,0:19:35.60,0:19:39.01,Petto_basic,mother,0,0,0,,I've just turned in your application for you.
-Dialogue: 0,0:19:39.34,0:19:40.11,Petto_basic,Takeshi,0,0,0,,You're joking!
-Dialogue: 0,0:19:40.11,0:19:42.11,Petto_basic,mother,0,0,0,,I don't have the time to waste making jokes.
-Dialogue: 0,0:19:42.98,0:19:45.81,Petto_basic,mother,0,0,0,,I took the time to cancel my lessons and come out to Tokyo.
-Dialogue: 0,0:19:46.38,0:19:47.82,Petto_basic,mother,0,0,0,,Why don't you show some more gratitude?
-Dialogue: 0,0:19:47.82,0:19:49.78,Petto_basic,Takeshi,0,0,0,,But this has nothing to do with you!
-Dialogue: 0,0:19:49.78,0:19:51.09,Petto_basic,mother,0,0,0,,What do you mean, nothing to do with me?
-Dialogue: 0,0:19:51.19,0:19:55.36,Petto_basic,Takeshi,0,0,0,,I'm an adult now, I can do things by myself.
-Dialogue: 0,0:19:55.36,0:19:58.73,Petto_basic,mother,0,0,0,,Don't act so haughty towards me when you're living like this.
-Dialogue: 0,0:20:00.23,0:20:06.43,Petto_basic,mother,0,0,0,,You thought that I didn't feel anything after you didn't call once for four years?
-Dialogue: 0,0:20:07.24,0:20:09.04,Petto_basic,mother,0,0,0,,Do you think I didn't worry?
-Dialogue: 0,0:20:09.74,0:20:15.41,Petto_basic,mother,0,0,0,,I thought that maybe you'd come home for your 20th birthday.
-Dialogue: 0,0:20:15.41,0:20:17.05,Petto_basic,mother,0,0,0,,I baked some flan and waited for you.
-Dialogue: 0,0:20:20.15,0:20:21.82,Petto_basic,Takeshi,0,0,0,,How should I know about that?
-Dialogue: 0,0:20:24.59,0:20:26.29,Petto_basic,Takeshi,0,0,0,,I don't regret leaving home.
-Dialogue: 0,0:20:25.89,0:20:26.96,Petto_basic_2,mother,0,0,0,,Stop!
-Dialogue: 0,0:20:27.32,0:20:28.59,Petto_basic,mother,0,0,0,,Don't talk.
-Dialogue: 0,0:20:31.73,0:20:32.99,Petto_basic,mother,0,0,0,,I feel like crying.
-Dialogue: 0,0:20:41.04,0:20:42.04,Petto_basic,mother,0,0,0,,I'm going home.
-Dialogue: 0,0:20:43.61,0:20:44.71,Petto_basic,Takeshi,0,0,0,,You're going home?
-Dialogue: 0,0:20:46.78,0:20:48.01,Petto_basic,mother,0,0,0,,I have lessons tonight.
-Dialogue: 0,0:20:49.31,0:20:52.15,Petto_basic,mother,0,0,0,,My students are waiting for me.
-Dialogue: 0,0:20:53.92,0:20:55.45,Petto_basic,Takeshi,0,0,0,,I'm not going to Germany.
-Dialogue: 0,0:20:58.95,0:21:00.52,Petto_basic,Takeshi,0,0,0,,I'm not going home either.
-Dialogue: 0,0:21:01.89,0:21:04.13,Petto_basic,Takeshi,0,0,0,,I've finally found my place.
-Dialogue: 0,0:21:11.83,0:21:15.47,Petto_basic,Sumire,0,0,0,,{\i1}I have to choose between Momo or Hasumi-senpai?
-Dialogue: 0,0:21:17.67,0:21:22.31,Petto_basic,Sumire,0,0,0,,{\i1}But if I choose one, I'll surely lose the other.
-Dialogue: 0,0:21:26.21,0:21:28.92,Petto_basic,Momo,0,0,0,,Hey, are you going to do your toenails? Let me do it.
-Dialogue: 0,0:21:29.95,0:21:32.19,Petto_basic,Sumire,0,0,0,,Fine, but don't mess it up.
-Dialogue: 0,0:21:32.19,0:21:33.25,Petto_basic,Momo,0,0,0,,I know.
-Dialogue: 0,0:21:36.86,0:21:38.46,Petto_basic,Momo,0,0,0,,For your date tonight.
-Dialogue: 0,0:21:40.86,0:21:43.20,Petto_basic,Momo,0,0,0,,Dang, your pinky toe is small!
-Dialogue: 0,0:21:43.40,0:21:45.57,Petto_basic,Sumire,0,0,0,,It would be scary if it were big! Stop it, that tickles!
-Dialogue: 0,0:21:45.57,0:21:48.57,Petto_basic,Momo,0,0,0,,Then is this okay?
-Dialogue: 0,0:21:47.17,0:21:48.67,Petto_basic_2,Sumire,0,0,0,,Don't touch me like that!
-Dialogue: 0,0:21:48.57,0:21:49.80,Petto_basic,Momo,0,0,0,,Then how should I touch you?
-Dialogue: 0,0:21:50.04,0:21:50.91,Petto_basic,Sumire,0,0,0,,Firmly.
-Dialogue: 0,0:21:50.91,0:21:51.84,Petto_basic,Momo,0,0,0,,Is this okay?
-Dialogue: 0,0:21:52.51,0:21:54.54,Petto_basic,Momo,0,0,0,,Don't move, I'm going to concentrate.
-Dialogue: 0,0:21:57.75,0:21:59.15,Petto_basic,Sumire,0,0,0,,Your face looks so serious.
-Dialogue: 0,0:21:59.15,0:22:01.52,Petto_basic,Momo,0,0,0,,I am serious! Let me focus!
-Dialogue: 0,0:22:03.49,0:22:05.99,Petto_basic,Momo,0,0,0,,Ah… you made me mess up!
-Dialogue: 0,0:22:07.29,0:22:08.56,Petto_basic,Momo,0,0,0,,Really, don't move.
-Dialogue: 0,0:22:08.56,0:22:09.36,Petto_basic,Sumire,0,0,0,,All right.
-Dialogue: 0,0:22:11.93,0:22:15.73,Petto_basic,Sumire,0,0,0,,Hey, your performance is this coming Saturday, right?
-Dialogue: 0,0:22:16.63,0:22:17.27,Petto_basic,Momo,0,0,0,,Yup.
-Dialogue: 0,0:22:19.13,0:22:21.20,Petto_basic,Sumire,0,0,0,,It's been a long time since I've seen you dance.
-Dialogue: 0,0:22:22.30,0:22:27.38,Petto_basic,Momo,0,0,0,,It's based on Greek mythology. I save a princess that's about to get eaten by a monster.
-Dialogue: 0,0:22:27.91,0:22:31.01,Petto_basic,Sumire,0,0,0,,Wow, I'm envious.
-Dialogue: 0,0:22:31.91,0:22:33.01,Petto_basic,Momo,0,0,0,,Of what?
-Dialogue: 0,0:22:33.31,0:22:36.48,Petto_basic,Sumire,0,0,0,,You get kind of envious of the princesses from back in the day.
-Dialogue: 0,0:22:36.48,0:22:39.65,Petto_basic,Sumire,0,0,0,,They feel happy just by being swept away by a prince.
-Dialogue: 0,0:22:40.56,0:22:43.09,Petto_basic,Sumire,0,0,0,,Women of today are too complicated.
-Dialogue: 0,0:22:44.86,0:22:47.26,Petto_basic,Momo,0,0,0,,If it were you, I'd go save you.
-Dialogue: 0,0:22:48.86,0:22:51.40,Petto_basic,Momo,0,0,0,,Whenever, wherever you may be.
-Dialogue: 0,0:22:55.77,0:23:00.54,Petto_basic,Sumire,0,0,0,,I'm not so weak as to be saved by a pet. I can knock down a monster with my aikidou.
-Dialogue: 0,0:23:01.21,0:23:02.81,Petto_basic,Momo,0,0,0,,Yeah, I know.
-Dialogue: 0,0:23:03.45,0:23:08.35,Petto_basic,Momo,0,0,0,,But don't you think that one person and a pet is a lot better than just one person alone?
-Dialogue: 0,0:23:13.72,0:23:15.66,Petto_basic,Momo,0,0,0,,Oops, I messed up again.
-Dialogue: 0,0:23:16.52,0:23:17.89,Petto_basic,Sumire,0,0,0,,After this dries,
-Dialogue: 0,0:23:19.83,0:23:21.70,Petto_basic,Sumire,0,0,0,,it's nice outside, so we can go for a walk.
-Dialogue: 0,0:23:22.46,0:23:23.03,Petto_basic,Momo,0,0,0,,Huh?
-Dialogue: 0,0:23:24.17,0:23:25.57,Petto_basic,Momo,0,0,0,,Yay! Yay!
-Dialogue: 0,0:23:25.73,0:23:28.37,Petto_basic,Momo,0,0,0,,This is the first time in a while that we've taken a walk!
-Dialogue: 0,0:23:29.34,0:23:30.84,Petto_basic,Sumire,0,0,0,,Come to think of it, that's true.
-Dialogue: 0,0:23:31.41,0:23:32.87,Petto_basic,Momo,0,0,0,,I feel kind of happy.
-Dialogue: 0,0:23:33.68,0:23:34.90,Petto_basic,Sumire,0,0,0,,What?
-Dialogue: 0,0:23:34.90,0:23:35.71,Petto_basic,Momo,0,0,0,,What?
-Dialogue: 0,0:23:35.71,0:23:37.75,Petto_basic,Sumire,0,0,0,,Stop it, don't hold my hand!
-Dialogue: 0,0:23:37.75,0:23:40.88,Petto_basic,Momo,0,0,0,,But we're taking a walk, right? This makes up for the leash.
-Dialogue: 0,0:23:40.88,0:23:43.62,Petto_basic,Sumire,0,0,0,,Wait, people will wonder what kind of a relationship we're in.
-Dialogue: 0,0:23:43.62,0:23:46.45,Petto_basic,Momo,0,0,0,,What kind? Well you're the master, and I'm the pet…
-Dialogue: 0,0:23:46.45,0:23:47.69,Petto_basic,Sumire,0,0,0,,Don't say it!
-Dialogue: 0,0:23:48.32,0:23:51.09,Petto_basic,Sumire,0,0,0,,Society isn't so nice as to just accept reality as it is.
-Dialogue: 0,0:23:51.09,0:23:53.23,Petto_basic,Momo,0,0,0,,But you're the one who told me to become a pet!
-Dialogue: 0,0:23:55.53,0:23:57.13,Petto_basic,Momo,0,0,0,,Man, this is boring!
-Dialogue: 0,0:23:57.47,0:23:59.57,Petto_basic,Sumire,0,0,0,,Wait, Momo!
-Dialogue: 0,0:24:01.40,0:24:03.27,Petto_basic,Momo,0,0,0,,Let's eat.
-Dialogue: 0,0:24:06.64,0:24:08.78,Petto_basic,Momo,0,0,0,,Wow, it looks good!
-Dialogue: 0,0:24:09.21,0:24:11.48,Petto_basic,Sumire,0,0,0,,Wait! Wipe your hands first!
-Dialogue: 0,0:24:11.75,0:24:12.71,Petto_basic,Momo,0,0,0,,Okay.
-Dialogue: 0,0:24:15.15,0:24:17.00,Petto_basic,Sumire,0,0,0,,Now you can eat.
-Dialogue: 0,0:24:17.00,0:24:18.90,Petto_basic,Momo,0,0,0,,All right! Itadakimasu~
-Dialogue: 0,0:24:21.09,0:24:23.36,Petto_basic,Momo,0,0,0,,Mmm… It's good!
-Dialogue: 0,0:24:24.53,0:24:25.76,Petto_basic,Sumire,0,0,0,,Do you want some sausage too?
-Dialogue: 0,0:24:27.06,0:24:28.33,Petto_basic,Sumire,0,0,0,,Here you go, catch!
-Dialogue: 0,0:24:31.30,0:24:32.47,Petto_basic,Sumire,0,0,0,,One more, one more!
-Dialogue: 0,0:24:32.47,0:24:33.37,Petto_basic,Sumire,0,0,0,,Here!
-Dialogue: 0,0:24:34.00,0:24:34.90,Petto_basic,Sumire,0,0,0,,Nice catch!
-Dialogue: 0,0:24:36.24,0:24:38.41,Petto_basic,Sumire,0,0,0,,Here's another one!
-Dialogue: 0,0:24:39.41,0:24:41.38,Petto_basic,Sumire,0,0,0,,I've trained you well!
-Dialogue: 0,0:24:43.68,0:24:45.08,Petto_basic,Momo,0,0,0,,Sumire-chan, tea!
-Dialogue: 0,0:24:45.45,0:24:46.31,Petto_basic,Sumire,0,0,0,,Here.
-Dialogue: 0,0:24:46.68,0:24:47.98,Petto_basic,Momo,0,0,0,,Hurry, hurry!
-Dialogue: 0,0:24:47.58,0:24:48.68,Petto_basic_2,Sumire,0,0,0,,There, there…
-Dialogue: 0,0:24:52.55,0:24:54.32,Petto_basic,Sumire,0,0,0,,You're really like a dog.
-Dialogue: 0,0:24:58.56,0:25:00.20,Petto_basic,Momo,0,0,0,,Today is so nice.
-Dialogue: 0,0:25:03.33,0:25:05.67,Petto_basic,Momo,0,0,0,,It would have been nice if I really were a dog.
-Dialogue: 0,0:25:09.20,0:25:13.71,Petto_basic,Momo,0,0,0,,Then, even if you got married, we could still always be together.
-Dialogue: 0,0:25:13.71,0:25:14.48,Petto_basic,Sumire,0,0,0,,Huh?
-Dialogue: 0,0:25:16.04,0:25:17.68,Petto_basic,Momo,0,0,0,,This quail looks like a chick.
-Dialogue: 0,0:25:17.68,0:25:19.11,Petto_basic,Sumire,0,0,0,,How did you know that?
-Dialogue: 0,0:25:19.81,0:25:23.95,Petto_basic,Momo,0,0,0,,I've told you, I can read what you're thinking.
-Dialogue: 0,0:25:24.89,0:25:26.76,Petto_basic,Momo,0,0,0,,This quail is cute.
-Dialogue: 0,0:25:26.76,0:25:29.22,Petto_basic,Momo,0,0,0,,Do you want to eat it, Sumire-chan?
-Dialogue: 0,0:25:30.16,0:25:31.99,Petto_basic,Sumire,0,0,0,,No, it's okay.
-Dialogue: 0,0:25:32.36,0:25:33.56,Petto_basic,Momo,0,0,0,,Then I'll eat it.
-Dialogue: 0,0:25:44.21,0:25:45.21,Petto_basic,Momo,0,0,0,,There we go.
-Dialogue: 0,0:25:54.22,0:25:57.15,Petto_basic,Momo,0,0,0,,Then don't marry him.
-Dialogue: 0,0:25:58.52,0:25:59.15,Petto_basic,Sumire,0,0,0,,What?
-Dialogue: 0,0:25:59.29,0:26:01.26,Petto_basic,Momo,0,0,0,,Because I'll always be by your side.
-Dialogue: 0,0:26:07.36,0:26:08.40,Petto_basic,Sumire,0,0,0,,That's not right.
-Dialogue: 0,0:26:12.67,0:26:16.64,Petto_basic,Sumire,0,0,0,,It's wrong to stay like this forever.
-Dialogue: 0,0:26:18.94,0:26:21.98,Petto_basic,Sumire,0,0,0,,Momo, you can't stay a pet forever either, right?
-Dialogue: 0,0:26:26.51,0:26:27.25,Petto_basic,Momo,0,0,0,,Yeah, I guess.
-Dialogue: 0,0:26:31.32,0:26:34.29,Petto_basic,Sumire,0,0,0,,Oh, today feels so good!
-Dialogue: 0,0:26:36.26,0:26:40.26,Petto_basic,Sumire,0,0,0,,{\i1}I kind of wish that time would just stop like this.
-Dialogue: 0,0:26:39.26,0:26:43.47,Petto_basic_2,Momo,0,0,0,,{\i1}If only time would stop like this.
-Dialogue: 0,0:26:45.63,0:26:47.84,Petto_basic,Sumire,0,0,0,,{\i1}This moment may be
-Dialogue: 0,0:26:48.64,0:26:53.24,Petto_basic,Sumire,0,0,0,,{\i1}the most comfortable time for me in my life.
-Dialogue: 0,0:26:51.47,0:26:54.88,Petto_basic_2,Momo,0,0,0,,{\i1}I could lock this moment
-Dialogue: 0,0:26:55.34,0:27:00.68,Petto_basic,Momo,0,0,0,,{\i1}in my memory for the rest of my life.
-Dialogue: 0,0:27:18.60,0:27:20.34,Petto_basic,Sumire,0,0,0,,Momo…
-Dialogue: 0,0:27:18.60,0:27:20.44,Petto_basic_2,Momo,0,0,0,,Momo…
-Dialogue: 0,0:27:26.21,0:27:27.31,Petto_basic,Sumire,0,0,0,,You're right.
-Dialogue: 0,0:27:30.68,0:27:32.65,Petto_basic,Sumire,0,0,0,,The sun is going to set soon.
-Dialogue: 0,0:27:35.55,0:27:37.45,Petto_basic,Sumire,0,0,0,,Let's finish our lunch.
-Dialogue: 0,0:27:37.55,0:27:38.35,Petto_basic,Momo,0,0,0,,Yeah.
-Dialogue: 0,0:27:39.99,0:27:41.42,Petto_basic,Momo,0,0,0,,Itadakimasu.
-Dialogue: 0,0:28:27.10,0:28:28.70,Petto_basic,Fukushima,0,0,0,,Hey, stop it!
-Dialogue: 0,0:28:29.84,0:28:33.54,Petto_basic,man,0,0,0,,Wait a minute! What do you mean?!
-Dialogue: 0,0:28:30.54,0:28:33.04,Petto_basic_2,man,0,0,0,,
-Dialogue: 0,0:28:34.11,0:28:36.04,Petto_basic,Fukushima,0,0,0,,That hurts!
-Dialogue: 0,0:28:36.18,0:28:38.21,Petto_basic,Fukushima,0,0,0,,Hey! What's going on?!
-Dialogue: 0,0:28:40.52,0:28:42.12,Petto_basic,Fukushima,0,0,0,,How dare you!
-Dialogue: 0,0:28:42.45,0:28:44.35,Petto_basic,man,0,0,0,,Give me back my money!
-Dialogue: 0,0:28:44.35,0:28:45.05,Petto_basic,Fukushima,0,0,0,,Stop!
-Dialogue: 0,0:28:45.05,0:28:46.22,Petto_basic,Hasumi,0,0,0,,What's going on here?
-Dialogue: 0,0:28:35.72,0:28:46.99,Petto_basic_2,man,0,0,0,,
-Dialogue: 0,0:28:47.26,0:28:48.32,Petto_basic,Hasumi,0,0,0,,Hey!
-Dialogue: 0,0:28:48.32,0:28:49.59,Petto_basic,man,0,0,0,,Where is it?
-Dialogue: 0,0:28:49.59,0:28:51.73,Petto_basic,Hasumi,0,0,0,,What are you doing to her?
-Dialogue: 0,0:28:51.99,0:28:53.46,Petto_basic,man,0,0,0,,Who the hell are you?
-Dialogue: 0,0:28:53.56,0:28:55.23,Petto_basic,Hasumi,0,0,0,,I'm an acquaintance of hers.
-Dialogue: 0,0:28:55.50,0:28:58.30,Petto_basic,Momo,0,0,0,,Oh, so you got tricked by her too?
-Dialogue: 0,0:28:58.30,0:28:58.80,Petto_basic,Hasumi,0,0,0,,What?
-Dialogue: 0,0:28:59.17,0:29:02.37,Petto_basic,Fukushima,0,0,0,,Are you stupid? You're the one that got tricked on your own.
-Dialogue: 0,0:29:02.37,0:29:04.84,Petto_basic,Fukushima,0,0,0,,Who in their right mind would seriously go out with you?
-Dialogue: 0,0:29:04.44,0:29:05.81,Petto_basic_2,man,0,0,0,,What'd you say?!
-Dialogue: 0,0:29:05.81,0:29:08.04,Petto_basic,Hasumi,0,0,0,,Stop it! Violence is not the solution!
-Dialogue: 0,0:29:08.04,0:29:10.95,Petto_basic,man,0,0,0,,Get out of the way, punk!
-Dialogue: 0,0:29:12.35,0:29:14.18,Petto_basic,Hasumi,0,0,0,,Oh, I'm sorry…
-Dialogue: 0,0:29:19.15,0:29:20.39,Petto_basic,man,0,0,0,,It hurts…
-Dialogue: 0,0:29:21.06,0:29:22.49,Petto_basic,Fukushima,0,0,0,,Oh, but he's…
-Dialogue: 0,0:29:21.70,0:29:23.76,Petto_basic_2,Fukushima,0,0,0,,It doesn't matter, hurry!
-Dialogue: 0,0:29:31.43,0:29:33.64,Petto_basic,Sumire,0,0,0,,I wonder if senpai's late…
-Dialogue: 0,0:29:45.45,0:29:46.51,Petto_basic,Hasumi,0,0,0,,Are you okay?
-Dialogue: 0,0:29:46.51,0:29:50.50,Petto_basic,Fukushima,0,0,0,,Why… why did you save me?
-Dialogue: 0,0:29:50.50,0:29:51.60,Petto_basic,Hasumi,0,0,0,,What do you mean, why?
-Dialogue: 0,0:29:51.62,0:29:54.19,Petto_basic,Fukushima,0,0,0,,You should know by now that I'm that kind of a woman.
-Dialogue: 0,0:29:54.46,0:29:58.39,Petto_basic,Fukushima,0,0,0,,I just catch rich guys and fling them around and do what I want!
-Dialogue: 0,0:30:00.43,0:30:02.06,Petto_basic,Fukushima,0,0,0,,Even with you, Hasumi-san…
-Dialogue: 0,0:30:07.14,0:30:10.47,Petto_basic,Hasumi,0,0,0,,Be careful when you go home. I'll see you at work.
-Dialogue: 0,0:30:18.68,0:30:19.85,Petto_basic,Fukushima,0,0,0,,Wait!
-Dialogue: 0,0:30:24.09,0:30:25.65,Petto_basic,Fukushima,0,0,0,,Don't go.
-Dialogue: 0,0:30:26.89,0:30:30.53,Petto_basic,Fukushima,0,0,0,,I… I like you, Hasumi-san.
-Dialogue: 0,0:30:31.59,0:30:33.70,Petto_basic,Fukushima,0,0,0,,I like you so much, I can't help it.
-Dialogue: 0,0:30:34.10,0:30:38.60,Petto_basic,Fukushima,0,0,0,,Even if you don't like me, I'll do anything. Please…
-Dialogue: 0,0:30:42.57,0:30:44.01,Petto_basic,Fukushima,0,0,0,,It can be just once…
-Dialogue: 0,0:30:48.28,0:30:49.88,Petto_basic,Fukushima,0,0,0,,Make love to me.
-Dialogue: 0,0:30:58.09,0:31:01.06,Petto_basic,Hasumi,0,0,0,,I don't think you should say something like that.
-Dialogue: 0,0:31:01.06,0:31:01.92,Petto_basic,Hasumi,0,0,0,,All right?
-Dialogue: 0,0:31:13.23,0:31:16.34,Petto_basic,Fukushima,0,0,0,,Heh… you should just take advantage of me.
-Dialogue: 0,0:31:16.50,0:31:18.34,Petto_basic,Fukushima,0,0,0,,What a boring man.
-Dialogue: 0,0:31:18.71,0:31:19.34,Petto_basic,Hasumi,0,0,0,,What?
-Dialogue: 0,0:31:19.34,0:31:23.58,Petto_basic,Fukushima,0,0,0,,If you're too good of a person, you'll be made a fool of. Like with Iwaya-san…
-Dialogue: 0,0:31:24.41,0:31:25.21,Petto_basic,Hasumi,0,0,0,,Iwaya?
-Dialogue: 0,0:31:37.93,0:31:39.66,Petto_basic,Sumire,0,0,0,,It must be some kind of mistake.
-Dialogue: 0,0:31:40.03,0:31:41.76,Petto_basic,Sumire,0,0,0,,Like she must have flung herself on him.
-Dialogue: 0,0:31:41.76,0:31:44.23,Petto_basic,Sumire,0,0,0,,Or maybe he was caring for someone that looks like Fukushima-san that collapsed.
-Dialogue: 0,0:31:44.23,0:31:46.07,Petto_basic,Sumire,0,0,0,,Or maybe it was a worker that looked just like senpai
-Dialogue: 0,0:31:46.07,0:31:48.30,Petto_basic,Sumire,0,0,0,,that was putting away a dummy that looked exactly like Fukushima-san.
-Dialogue: 0,0:31:51.64,0:31:52.87,Petto_basic,Sumire,0,0,0,,As if that could be.
-Dialogue: 0,0:32:20.84,0:32:22.34,Petto_basic,Sumire,0,0,0,,{\i1}Maybe I should go home…
-Dialogue: 0,0:32:33.28,0:32:34.38,Petto_basic,Hasumi,0,0,0,,Iwaya!
-Dialogue: 0,0:32:37.05,0:32:38.09,Petto_basic,Sumire,0,0,0,,Senpai…
-Dialogue: 0,0:32:38.09,0:32:41.49,Petto_basic,Hasumi,0,0,0,,I'm sorry, I got involved in a fight over there.
-Dialogue: 0,0:32:41.49,0:32:42.32,Petto_basic,Sumire,0,0,0,,A fight?
-Dialogue: 0,0:32:42.32,0:32:44.03,Petto_basic,Hasumi,0,0,0,,Yes, I'm sorry.
-Dialogue: 0,0:32:44.76,0:32:46.66,Petto_basic,Hasumi,0,0,0,,I made you wait 15 minutes!
-Dialogue: 0,0:32:46.66,0:32:48.56,Petto_basic,Sumire,0,0,0,,Oh no, not at all.
-Dialogue: 0,0:32:48.56,0:32:51.37,Petto_basic,Hasumi,0,0,0,,I'm glad you waited though.
-Dialogue: 0,0:32:52.57,0:32:54.04,Petto_basic,Sumire,0,0,0,,{\i1}Why can't I ask him?
-Dialogue: 0,0:32:55.84,0:32:58.74,Petto_basic,Sumire,0,0,0,,{\i1}Why can't I ask, "You were with Fukushima-san just now, weren't you?"
-Dialogue: 0,0:32:58.74,0:32:59.54,Petto_basic,Sumire,0,0,0,,All right.
-Dialogue: 0,0:33:06.08,0:33:07.95,Petto_basic,Sumire,0,0,0,,{\i1}I don't want to be seen as a troublesome woman.
-Dialogue: 0,0:33:07.95,0:33:09.22,Petto_basic,Sumire,0,0,0,,{\i1}I don't want to be thought of as jealous.
-Dialogue: 0,0:33:09.22,0:33:11.09,Petto_basic,Sumire,0,0,0,,{\i1}I want to always be cool. I don't want him to dislike me.
-Dialogue: 0,0:33:11.49,0:33:15.26,Petto_basic,Sumire,0,0,0,,{\i1}I want to stay the cute woman that knows nothing, and look like nothing ever bothers me.
-Dialogue: 0,0:33:17.49,0:33:20.90,Petto_basic,Sumire,0,0,0,,{\i1}Oh… I have a headache.
-Dialogue: 0,0:33:24.83,0:33:27.97,Petto_basic,Sumire,0,0,0,,What he sees of me, is actually not myself.
-Dialogue: 0,0:33:28.17,0:33:29.27,Petto_basic,counsel,0,0,0,,I see.
-Dialogue: 0,0:33:30.11,0:33:33.31,Petto_basic,Sumire,0,0,0,,He told me he likes how I have a good hold of myself,
-Dialogue: 0,0:33:33.48,0:33:37.25,Petto_basic,Sumire,0,0,0,,and how I'm gentle and share the same values as him.
-Dialogue: 0,0:33:39.08,0:33:43.15,Petto_basic,Sumire,0,0,0,,But the actual me is easily affected, pitiful, and pretty deceptive.
-Dialogue: 0,0:33:43.15,0:33:46.09,Petto_basic,Sumire,0,0,0,,My personality's bad, and I get jealous easily.
-Dialogue: 0,0:33:46.49,0:33:50.12,Petto_basic,Sumire,0,0,0,,And it's just that I try my best to match my preferences and values to him.
-Dialogue: 0,0:33:49.52,0:33:50.29,Petto_basic_2,counsel,0,0,0,,Wait, wait…
-Dialogue: 0,0:34:00.00,0:34:01.60,Petto_basic,counsel,0,0,0,,Self-respect, pride.
-Dialogue: 0,0:34:03.74,0:34:05.77,Petto_basic,counsel,0,0,0,,Self-absorption, narcissism.
-Dialogue: 0,0:34:06.01,0:34:08.48,Petto_basic,counsel,0,0,0,,This is very imbalance for you.
-Dialogue: 0,0:34:08.48,0:34:11.08,Petto_basic,counsel,0,0,0,,Your pride is much larger.
-Dialogue: 0,0:34:11.65,0:34:15.75,Petto_basic,counsel,0,0,0,,To put it simply, you are too scared to put your true self out there,
-Dialogue: 0,0:34:15.75,0:34:17.75,Petto_basic,counsel,0,0,0,,and you try to become the person that people expect you to be.
-Dialogue: 0,0:34:18.02,0:34:22.69,Petto_basic,counsel,0,0,0,,You can only show the part of you that doesn't show any weaknesses and is flawless.
-Dialogue: 0,0:34:23.69,0:34:29.90,Petto_basic,counsel,0,0,0,,This lack of balance is what continually bothers and pricks at your heart.
-Dialogue: 0,0:34:32.00,0:34:42.58,Petto_basic,counsel,0,0,0,,And currently, Momo-chan is in the role of freeing you to go towards narcissism.
-Dialogue: 0,0:34:47.88,0:34:49.11,Petto_basic,counsel,0,0,0,,I was also like this.
-Dialogue: 0,0:34:49.35,0:34:52.39,Petto_basic,counsel,0,0,0,,That's why I brought my dog into my marriage.
-Dialogue: 0,0:34:52.55,0:34:54.16,Petto_basic,counsel,0,0,0,,But it proved to be a failure.
-Dialogue: 0,0:34:54.76,0:35:02.63,Petto_basic,counsel,0,0,0,,I could only show my true self to my dog, and I caused my wife great stress.
-Dialogue: 0,0:35:02.96,0:35:04.57,Petto_basic,Sumire,0,0,0,,So that's how it was…
-Dialogue: 0,0:35:05.17,0:35:07.64,Petto_basic,counsel,0,0,0,,This is the child of that dog.
-Dialogue: 0,0:35:08.50,0:35:13.31,Petto_basic,counsel,0,0,0,,In order for me not to overly love my dog, I've been careful to call it a different name every day.
-Dialogue: 0,0:35:14.18,0:35:17.05,Petto_basic,Sumire,0,0,0,,What is that dog's real name?
-Dialogue: 0,0:35:17.98,0:35:18.85,Petto_basic,counsel,0,0,0,,Fusae.
-Dialogue: 0,0:35:19.45,0:35:20.22,Petto_basic,Sumire,0,0,0,,Fusae?
-Dialogue: 0,0:35:20.68,0:35:22.45,Petto_basic,counsel,0,0,0,,It's my previous wife's name.
-Dialogue: 0,0:35:29.82,0:35:30.99,Petto_basic,nanny,0,0,0,,To your right.
-Dialogue: 0,0:35:33.03,0:35:35.16,Petto_basic,woman,0,0,0,,The performance has started, so please take your seats immediately.
-Dialogue: 0,0:35:36.23,0:35:39.40,Petto_basic,nanny,0,0,0,,Sensei, your ticket… sensei… your ticket!
-Dialogue: 0,0:38:06.51,0:38:07.88,Petto_basic,girl,0,0,0,,Hey, isn't that Goda Yoshie?
-Dialogue: 0,0:38:07.88,0:38:09.15,Petto_basic,girl,0,0,0,,Wow, you're kidding me!
-Dialogue: 0,0:38:10.22,0:38:11.32,Petto_basic,Takeshi,0,0,0,,Mom…
-Dialogue: 0,0:38:23.37,0:38:27.57,Petto_basic,Takeshi,0,0,0,,Mom, everyone's watching.
-Dialogue: 0,0:38:28.80,0:38:31.17,Petto_basic,mother,0,0,0,,You really do piss me off.
-Dialogue: 0,0:38:31.81,0:38:35.28,Petto_basic,mother,0,0,0,,How hard you must have worked while I wasn't around to watch you.
-Dialogue: 0,0:38:41.02,0:38:46.76,Petto_basic,mother,0,0,0,,Takeshi, you still don't understand your talent.
-Dialogue: 0,0:38:48.62,0:38:50.86,Petto_basic,mother,0,0,0,,You can still fly so much higher.
-Dialogue: 0,0:38:54.50,0:38:56.53,Petto_basic,mother,0,0,0,,How long are you going to keep running away from it?
-Dialogue: 0,0:39:00.00,0:39:03.51,Petto_basic,Takeshi,0,0,0,,Speak for yourself, you should've just broken up with Dad by now.
-Dialogue: 0,0:39:05.11,0:39:06.41,Petto_basic,mother,0,0,0,,That's none of your business.
-Dialogue: 0,0:39:10.51,0:39:11.78,Petto_basic,mother,0,0,0,,Well, it's all right…
-Dialogue: 0,0:39:12.65,0:39:16.99,Petto_basic,mother,0,0,0,,Wherever you fly off to, you are my son that'll always make me proud.
-Dialogue: 0,0:39:25.16,0:39:26.23,Petto_basic,Takeshi,0,0,0,,Mom.
-Dialogue: 0,0:39:29.96,0:39:33.30,Petto_basic,Takeshi,0,0,0,,I love my life.
-Dialogue: 0,0:39:37.07,0:39:38.81,Petto_basic,Takeshi,0,0,0,,I'm grateful to you too.
-Dialogue: 0,0:39:39.87,0:39:40.98,Petto_basic,mother,0,0,0,,So saucy.
-Dialogue: 0,0:39:57.03,0:39:58.89,Petto_basic,Sumire,0,0,0,,I wonder when Momo's going to come out.
-Dialogue: 0,0:40:00.60,0:40:01.83,Petto_basic,girl,0,0,0,,Goda-san's coming!
-Dialogue: 0,0:40:03.77,0:40:04.27,Petto_basic,Sumire,0,0,0,,Mo—
-Dialogue: 0,0:40:05.77,0:40:08.47,Petto_basic,Sumire,0,0,0,,Not Momo, umm…
-Dialogue: 0,0:40:08.77,0:40:09.94,Petto_basic,Momo,0,0,0,,Sumire-chan!
-Dialogue: 0,0:40:28.59,0:40:30.03,Petto_basic_ending,Sumire,0,0,0,,Momo?
-Dialogue: 0,0:40:30.30,0:40:31.10,Petto_basic_ending,Momo,0,0,0,,Yeah?
-Dialogue: 0,0:40:34.33,0:40:35.33,Petto_basic_ending,Sumire,0,0,0,,Great job.
-Dialogue: 0,0:40:36.60,0:40:38.37,Petto_basic_ending,Sumire,0,0,0,,You looked really cool.
-Dialogue: 0,0:40:40.07,0:40:41.24,Petto_basic_ending,Momo,0,0,0,,Of course.
-Dialogue: 0,0:40:43.71,0:40:45.67,Petto_basic_ending,Momo,0,0,0,,I worked hard so I could get this.
-Dialogue: 0,0:40:46.71,0:40:48.18,Petto_basic_ending,Sumire,0,0,0,,Whatever you say…
-Dialogue: 0,0:40:53.85,0:40:54.95,Petto_basic_ending,Momo,0,0,0,,Thanks.
-Dialogue: 0,0:40:56.15,0:40:58.02,Petto_basic_ending,Momo,0,0,0,,Today is omelette one rice, okay?
-Dialogue: 0,0:41:02.86,0:41:04.73,Petto_basic_ending,Sumire,0,0,0,,Darn it, how did I let him do that to me?
-Dialogue: 0,0:41:10.90,0:41:13.03,Petto_basic_ending,man,0,0,0,,Oh, Iwaya-san?
-Dialogue: 0,0:41:21.80,0:41:23.05,Petto_basic_ending,Sumire,0,0,0,,Senpai…
-Dialogue: 0,0:41:26.21,0:41:27.18,Petto_basic_ending,Hasumi,0,0,0,,Excuse me.
-Dialogue: 0,0:41:28.45,0:41:30.39,Petto_basic_ending,Sumire,0,0,0,,Hey, wait!
-Dialogue: 0,0:41:30.39,0:41:30.79,Petto_basic_ending,Sumire,0,0,0,,Senpai!
-Dialogue: 0,0:41:36.53,0:41:37.43,Petto_basic_ending,Sumire,0,0,0,,Senpai!
-Dialogue: 0,0:41:38.79,0:41:41.33,Petto_basic_ending,Sumire,0,0,0,,Senpai, will you wait a moment?
-Dialogue: 0,0:41:46.00,0:41:47.34,Petto_basic_ending,Hasumi,0,0,0,,What was that back there?
-Dialogue: 0,0:41:49.30,0:41:50.14,Petto_basic_ending,Sumire,0,0,0,,Him…
-Dialogue: 0,0:41:52.47,0:41:54.44,Petto_basic_ending,Hasumi,0,0,0,,What kind of a relationship are you two in?
-Dialogue: 0,0:42:00.00,0:42:01.08,Petto_basic_ending,Sumire,0,0,0,,Oh…
-Dialogue: 0,0:42:03.95,0:42:05.19,Petto_basic,Sumire,0,0,0,,Umm…
-Dialogue: 0,0:42:10.06,0:42:11.09,Petto_basic,Sumire,0,0,0,,He is…
-Dialogue: 0,0:42:12.80,0:42:13.80,Petto_basic,Sumire,0,0,0,,I…
-Dialogue: 0,0:42:14.23,0:42:15.96,Petto_basic,Takeshi,0,0,0,,Sorry, Hasumi-kun!
-Dialogue: 0,0:42:19.97,0:42:21.14,Petto_basic,Takeshi,0,0,0,,I'm really sorry.
-Dialogue: 0,0:42:22.20,0:42:26.51,Petto_basic,Takeshi,0,0,0,,Actually, to tell the truth, I like Sumire-chan.
-Dialogue: 0,0:42:29.44,0:42:33.31,Petto_basic,Takeshi,0,0,0,,I liked her for the longest time. I really admired her.
-Dialogue: 0,0:42:34.35,0:42:40.26,Petto_basic,Takeshi,0,0,0,,So today, I kind of forced her, asking her to come see me with a huge bouquet of flowers.
-Dialogue: 0,0:42:42.22,0:42:45.46,Petto_basic,Takeshi,0,0,0,,I'm actually going to Germany next week.
-Dialogue: 0,0:42:46.90,0:42:47.80,Petto_basic,Hasumi,0,0,0,,Germany?
-Dialogue: 0,0:42:47.80,0:42:50.23,Petto_basic,Takeshi,0,0,0,,Yeah, I'm going abroad to study in Frankfurt.
-Dialogue: 0,0:42:50.87,0:42:56.64,Petto_basic,Takeshi,0,0,0,,There's a pretty big contemporary dance group over there.
-Dialogue: 0,0:42:57.54,0:43:03.01,Petto_basic,Takeshi,0,0,0,,I'm going to go there, and my dream is to become a great, world-famous international dancer.
-Dialogue: 0,0:43:03.18,0:43:06.05,Petto_basic,Takeshi,0,0,0,,But then I won't be able to see Sumire-chan anymore.
-Dialogue: 0,0:43:06.38,0:43:10.19,Petto_basic,Takeshi,0,0,0,,So to mark my final goodbye, I stole a kiss from her.
-Dialogue: 0,0:43:11.79,0:43:13.05,Petto_basic,Takeshi,0,0,0,,Sorry, Sumire-chan.
-Dialogue: 0,0:43:15.66,0:43:18.36,Petto_basic,Takeshi,0,0,0,,You proposed to her, right?
-Dialogue: 0,0:43:19.86,0:43:23.53,Petto_basic,Takeshi,0,0,0,,I heard from my older sister that Sumire-chan got a gorgeous ring from you.
-Dialogue: 0,0:43:28.97,0:43:33.88,Petto_basic,Takeshi,0,0,0,,I wish you two happiness from a far away sky.
-Dialogue: 0,0:43:35.51,0:43:36.01,Petto_basic,Takeshi,0,0,0,,Bye.
-Dialogue: 0,0:43:45.29,0:43:46.02,Petto_basic,Hasumi,0,0,0,,I'm sorry.
-Dialogue: 0,0:43:48.16,0:43:51.69,Petto_basic,Hasumi,0,0,0,,I misjudged you.
-Dialogue: 0,0:43:54.00,0:43:55.26,Petto_basic,Sumire,0,0,0,,It's not like that.
-Dialogue: 0,0:43:58.80,0:44:00.00,Petto_basic,Sumire,0,0,0,,He…
-Dialogue: 0,0:44:03.30,0:44:04.81,Petto_basic,Sumire,0,0,0,,He is my…
-Dialogue: 0,0:44:04.91,0:44:06.57,Petto_basic,landlord,0,0,0,,Hey, Iwaya-san!
-Dialogue: 0,0:44:06.78,0:44:08.88,Petto_basic,landlord,0,0,0,,What a coincidence.
-Dialogue: 0,0:44:08.88,0:44:10.15,Petto_basic,Sumire,0,0,0,,The landlord…
-Dialogue: 0,0:44:10.15,0:44:16.32,Petto_basic,landlord,0,0,0,,Actually we got tickets from one of our residents. Are you two on a date?
-Dialogue: 0,0:44:16.82,0:44:19.29,Petto_basic,Hasumi,0,0,0,,No, I just got off work.
-Dialogue: 0,0:44:33.97,0:44:34.87,Petto_basic,Sumire,0,0,0,,I'm home.
-Dialogue: 0,0:44:41.64,0:44:43.18,Petto_basic,Momo,0,0,0,,Welcome back.
-Dialogue: 0,0:44:45.51,0:44:47.02,Petto_basic,Momo,0,0,0,,Where's the omelette rice you promised?
-Dialogue: 0,0:44:49.95,0:44:51.12,Petto_basic,Sumire,0,0,0,,Just give me a minute.
-Dialogue: 0,0:44:55.99,0:44:57.76,Petto_basic,Momo,0,0,0,,Thanks for the bouquet.
-Dialogue: 0,0:44:59.33,0:45:00.76,Petto_basic,Momo,0,0,0,,It made me really happy.
-Dialogue: 0,0:45:00.90,0:45:05.00,Petto_basic,Sumire,0,0,0,,No, I have to thank you for lying for me like that.
-Dialogue: 0,0:45:05.77,0:45:07.40,Petto_basic,Sumire,0,0,0,,I was so surprised.
-Dialogue: 0,0:45:07.40,0:45:09.44,Petto_basic,Sumire,0,0,0,,You're so good at lying, Momo.
-Dialogue: 0,0:45:09.44,0:45:12.67,Petto_basic,Sumire,0,0,0,,Things like Germany and studying abroad, you tell lies that sound like the truth.
-Dialogue: 0,0:45:12.67,0:45:14.04,Petto_basic,Sumire,0,0,0,,Even I almost thought they were true…
-Dialogue: 0,0:45:12.67,0:45:14.04,Petto_basic_2,Momo,0,0,0,,They're true.
-Dialogue: 0,0:45:16.08,0:45:16.64,Petto_basic,Sumire,0,0,0,,Huh?
-Dialogue: 0,0:45:18.05,0:45:21.68,Petto_basic,Momo,0,0,0,,Sorry… it's true that I'm going abroad.
-Dialogue: 0,0:45:23.59,0:45:24.15,Petto_basic,Sumire,0,0,0,,What?
-Dialogue: 0,0:45:25.39,0:45:26.96,Petto_basic,Momo,0,0,0,,I'm going to Germany next week.
-Dialogue: 0,0:45:29.26,0:45:30.99,Petto_basic,Momo,0,0,0,,I was planning on it from the start.
-Dialogue: 0,0:45:31.19,0:45:35.30,Petto_basic,Momo,0,0,0,,I was wondering when I should tell you,\Nbut I guess I just couldn't find the right timing.
-Dialogue: 0,0:45:37.17,0:45:38.63,Petto_basic,Sumire,0,0,0,,You're joking, what are you talking about?
-Dialogue: 0,0:45:38.63,0:45:39.77,Petto_basic,Momo,0,0,0,,It's not a joke.
-Dialogue: 0,0:45:43.70,0:45:44.80,Petto_basic,Momo,0,0,0,,So…
-Dialogue: 0,0:45:47.28,0:45:51.25,Petto_basic,Momo,0,0,0,,Let's have a good time for the remaining week…
-Dialogue: 0,0:45:52.28,0:45:53.55,Petto_basic,Momo,0,0,0,,Master.
+Dialogue: 0,0:03:16.12,0:03:18.43,petto,Yuri,0,0,0,,In a sense, it's ideal…
+Dialogue: 0,0:03:18.63,0:03:22.40,petto,Yuri,0,0,0,,Getting proposed to by your beloved on your 29th birthday.
+Dialogue: 0,0:03:22.40,0:03:27.30,petto,Sumire,0,0,0,,But you know, I think senpai thought I would be more excited like, "Oh my gosh, I'd love to get married!"
+Dialogue: 0,0:03:27.67,0:03:29.14,petto,Sumire,0,0,0,,But I totally let him down.
+Dialogue: 0,0:03:29.14,0:03:30.91,petto,Yuri,0,0,0,,So what are you going to do now?
+Dialogue: 0,0:03:32.54,0:03:33.61,petto,Sumire,0,0,0,,I don't know.
+Dialogue: 0,0:03:34.54,0:03:36.88,petto,Sumire,0,0,0,,I like him, but it's still early for marriage.
+Dialogue: 0,0:03:36.88,0:03:39.35,petto,Yuri,0,0,0,,You're right, you guys haven't even had sex yet.
+Dialogue: 0,0:03:42.62,0:03:43.08,petto,Yuri,0,0,0,,Wait.
+Dialogue: 0,0:03:43.85,0:03:44.52,petto,Sumire,0,0,0,,
+Dialogue: 0,0:03:45.05,0:03:46.99,petto,Yuri,0,0,0,,You're kidding me, you've done it?
+Dialogue: 0,0:03:50.33,0:03:51.63,petto,Yuri,0,0,0,,You've done it!
+Dialogue: 0,0:03:52.89,0:03:54.33,petto,Sumire,0,0,0,,Just a litle while ago, finally.
+Dialogue: 0,0:03:54.33,0:03:57.50,petto,Yuri,0,0,0,,I'm so happy for you!
+Dialogue: 0,0:03:57.50,0:03:59.00,petto,Yuri,0,0,0,,And? And? And?
+Dialogue: 0,0:03:59.01,0:04:00.37,petto,Yuri,0,0,0,,How was it?
+Dialogue: 0,0:04:00.37,0:04:01.47,petto,Sumire,0,0,0,,What do you mean, how was it?
+Dialogue: 0,0:04:01.80,0:04:06.51,petto,Sumire,0,0,0,,Actually, he was pretty good. His technique was pretty impressive.
+Dialogue: 0,0:04:06.51,0:04:09.91,petto,Yuri,0,0,0,,That's to be expected, since he's such a good catch.
+Dialogue: 0,0:04:09.91,0:04:11.65,petto,Sumire,0,0,0,,But you know, honestly…
+Dialogue: 0,0:04:11.65,0:04:14.92,petto,Sumire,0,0,0,,things like marriage and Rio de Janeiro were going round and round in my head.
+Dialogue: 0,0:04:14.92,0:04:16.89,petto,Sumire,0,0,0,,Honestly, I wasn't able to concentrate very well.
+Dialogue: 0,0:04:16.89,0:04:18.32,petto,Yuri,0,0,0,,Oh, what a waste…
+Dialogue: 0,0:04:18.32,0:04:23.99,petto,Sumire,0,0,0,,But most of all, senpai can just take me to Rio de Janeiro, and work his butt off, but I…
+Dialogue: 0,0:04:23.99,0:04:26.49,petto,Yuri,0,0,0,,Will lose your career as well as your current life.
+Dialogue: 0,0:04:27.13,0:04:27.96,petto,Sumire,0,0,0,,Exactly.
+Dialogue: 0,0:04:28.33,0:04:31.90,petto,Yuri,0,0,0,,But you know, there are women who think of that as happiness.
+Dialogue: 0,0:04:34.97,0:04:35.67,petto,Sumire,0,0,0,,Yeah…
+Dialogue: 0,0:04:37.94,0:04:42.14,petto,Sumire,0,0,0,,I can't do this, I don't think I'm mature enough for marriage yet.
+Dialogue: 0,0:04:42.14,0:04:44.28,petto,Yuri,0,0,0,,What are you saying at the age of 29?
+Dialogue: 0,0:04:44.28,0:04:45.48,petto,Yuri,0,0,0,,Let me tell you this…
+Dialogue: 0,0:04:45.48,0:04:49.05,petto,Yuri,0,0,0,,It's not that you're not mature enough, it's just that you don't want to become mature.
+Dialogue: 0,0:04:49.05,0:04:51.59,petto,Sumire,0,0,0,,That's not true, it's been seven years since I left my parents' house.
+Dialogue: 0,0:04:51.59,0:04:54.26,petto,Yuri,0,0,0,,Financial independence and psychological independence are different.
+Dialogue: 0,0:04:54.29,0:04:57.36,petto,Yuri,0,0,0,,You are still stuck in a sea of moratorium.
+Dialogue: 0,0:04:57.59,0:04:58.86,petto,Sumire,0,0,0,,Moratorium?
+Dialogue: 0,0:04:59.03,0:05:00.40,petto,Momo,0,0,0,,I'm home!
+Dialogue: 0,0:05:00.40,0:05:02.90,petto,Yuri,0,0,0,,Yup, with him.
+Dialogue: 0,0:05:04.67,0:05:06.50,petto,Momo,0,0,0,,Sumire-chan, sorry I was late!
+Dialogue: 0,0:05:06.50,0:05:08.20,petto,Sumire,0,0,0,,Wait a minute. Let go of me, Momo!
+Dialogue: 0,0:05:08.77,0:05:09.30,petto,Momo,0,0,0,,
+Dialogue: 0,0:05:11.34,0:05:13.00,petto,Momo,0,0,0,,The shampoo doesn't smell like ours.
+Dialogue: 0,0:05:13.00,0:05:14.51,petto,Sumire,0,0,0,,What?! Just don't stick to me like that!
+Dialogue: 0,0:05:15.88,0:05:18.85,petto,Yuri,0,0,0,,That's because it's the smell of the shampoo at Hasumi-san's.
+Dialogue: 0,0:05:20.28,0:05:22.05,petto,Sumire,0,0,0,,Yuri-chan, don't talk about that in front of the pet…
+Dialogue: 0,0:05:22.05,0:05:24.00,petto,Momo,0,0,0,,You're joking! Even though it was a daytime date?
+Dialogue: 0,0:05:24.00,0:05:26.80,petto,Yuri,0,0,0,,On top of that, it was the memorable first time!
+Dialogue: 0,0:05:26.86,0:05:28.82,petto,Momo,0,0,0,,Really?! You hadn't done it with him yet?
+Dialogue: 0,0:05:28.82,0:05:31.73,petto,Yuri,0,0,0,,Well, there were apparently a few attempts until now…
+Dialogue: 0,0:05:31.79,0:05:34.00,petto,Momo,0,0,0,,Wow, and on your birthday too!
+Dialogue: 0,0:05:34.00,0:05:36.46,petto,Momo,0,0,0,,I can see Hasumi-kun liking that kind of a sappy situation.
+Dialogue: 0,0:05:36.46,0:05:39.47,petto,Yuri,0,0,0,,I know! And in the day, even though he has night duty!
+Dialogue: 0,0:05:40.54,0:05:43.64,petto,Sumire,0,0,0,,Hey, you two… stop making a conversation over people's sex lives!
+Dialogue: 0,0:05:45.11,0:05:46.74,petto,Sumire,0,0,0,,I wonder if I have another bottle of wine…
+Dialogue: 0,0:05:51.81,0:05:52.78,petto,Momo,0,0,0,,What?
+Dialogue: 0,0:05:53.08,0:05:54.92,petto,Yuri,0,0,0,,You're not hurt by this… are you?
+Dialogue: 0,0:05:55.95,0:05:56.95,petto,Momo,0,0,0,,No way.
+Dialogue: 0,0:05:56.95,0:06:01.36,petto,Momo,0,0,0,,If I were to get hurt by a little thing like my master having sex, being a pet would be a tough job.
+Dialogue: 0,0:06:14.80,0:06:16.91,petto,Momo,0,0,0,,What a tough job…
+Dialogue: 0,0:06:40.73,0:06:45.20,petto,counsel,0,0,0,,But to be asked for relationship advice at this late hour is rather unpleasant.
+Dialogue: 0,0:06:45.20,0:06:48.14,petto,Sumire,0,0,0,,Please forgive me. Today is my birthday.
+Dialogue: 0,0:06:49.37,0:06:52.24,petto,counsel,0,0,0,,I see… then it can't be helped.
+Dialogue: 0,0:06:52.87,0:06:57.28,petto,counsel,0,0,0,,Then I'll only listen to you for three minutes.
+Dialogue: 0,0:06:58.28,0:07:02.02,petto,counsel,0,0,0,,Iwaya-san, are you having a difficult time deciding on marriage?
+Dialogue: 0,0:07:02.82,0:07:04.52,petto,Sumire,0,0,0,,Yes, that's the problem.
+Dialogue: 0,0:07:05.09,0:07:06.29,petto,counsel,0,0,0,,And why is that?
+Dialogue: 0,0:07:07.52,0:07:09.59,petto,Sumire,0,0,0,,I don't know myself…
+Dialogue: 0,0:07:09.59,0:07:11.33,petto,counsel,0,0,0,,Are you dissatisfied with him at all?
+Dialogue: 0,0:07:11.80,0:07:12.70,petto,Sumire,0,0,0,,No.
+Dialogue: 0,0:07:13.36,0:07:15.26,petto,counsel,0,0,0,,Is there another man who interests you?
+Dialogue: 0,0:07:15.70,0:07:16.70,petto,Sumire,0,0,0,,No.
+Dialogue: 0,0:07:16.97,0:07:18.30,petto,counsel,0,0,0,,The sex isn't all that great.
+Dialogue: 0,0:07:18.30,0:07:18.99,petto,Sumire,0,0,0,,No!
+Dialogue: 0,0:07:19.50,0:07:20.30,petto,Sumire,0,0,0,,Excuse me…
+Dialogue: 0,0:07:20.90,0:07:24.21,petto,Sumire,0,0,0,,I just don't think I have the will to throw away my current lifestyle, my career,
+Dialogue: 0,0:07:24.31,0:07:30.37,petto,Sumire,0,0,0,,my house, my last name, nor my pet all at once.
+Dialogue: 0,0:07:30.37,0:07:34.78,petto,Sumire,0,0,0,,I just feel that women have to sacrifice more than men for the sake of marriage.
+Dialogue: 0,0:07:37.09,0:07:39.35,petto,Sumire,0,0,0,,I don't feel dissatisfaction with him at all.
+Dialogue: 0,0:07:39.65,0:07:43.63,petto,counsel,0,0,0,,But you think you'll feel cramped when it comes to spending the rest of your lives together.
+Dialogue: 0,0:07:44.09,0:07:45.53,petto,Sumire,0,0,0,,Yeah, maybe there's a little bit of that.
+Dialogue: 0,0:07:45.83,0:07:46.70,petto,counsel,0,0,0,,Makes sense.
+Dialogue: 0,0:07:48.50,0:07:49.56,petto,counsel,0,0,0,,I see.
+Dialogue: 0,0:07:51.13,0:07:53.17,petto,counsel,0,0,0,,Then maybe it's too early for you to marry.
+Dialogue: 0,0:07:53.37,0:07:56.60,petto,Sumire,0,0,0,,But it'll be so hard to be so far away from senpai.
+Dialogue: 0,0:07:56.60,0:08:00.28,petto,Sumire,0,0,0,,And starting todat, I'm already 29, and I feel bad sending him overseas on his own.
+Dialogue: 0,0:08:00.51,0:08:03.88,petto,counsel,0,0,0,,But it's not possible to choose both.
+Dialogue: 0,0:08:06.85,0:08:11.75,petto,Sumire,0,0,0,,If I was a little younger, I could get married just for the feeling of love.
+Dialogue: 0,0:08:13.32,0:08:14.62,petto,Sumire,0,0,0,,But now…
+Dialogue: 0,0:08:18.33,0:08:20.86,petto,Sumire,0,0,0,,But now, I want to stay like this a little longer…
+Dialogue: 0,0:08:20.86,0:08:23.90,petto,counsel,0,0,0,,Moratorium doesn't last forever.
+Dialogue: 0,0:08:30.14,0:08:31.17,petto,counsel,0,0,0,,You're out of time.
+Dialogue: 0,0:08:31.67,0:08:35.21,petto,counsel,0,0,0,,Well then, happy birthday to you ~
+Dialogue: 0,0:08:35.34,0:08:36.85,petto,Sumire,0,0,0,,Hey, wait…
+Dialogue: 0,0:08:54.83,0:08:56.97,petto,counsel,0,0,0,,She can't just keep running away.
+Dialogue: 0,0:09:02.80,0:09:04.24,petto,Momo,0,0,0,,Sumire-chan, the bathtub's free.
+Dialogue: 0,0:09:06.57,0:09:09.78,petto,Momo,0,0,0,,Are you serious?! Did you empty the entire bottle while I was taking a bath?
+Dialogue: 0,0:09:12.95,0:09:15.38,petto,Momo,0,0,0,,Sumire-chan, you'll catch a cold.
+Dialogue: 0,0:09:25.79,0:09:27.60,petto,Momo,0,0,0,,Sumire-chan, are you okay?
+Dialogue: 0,0:09:34.14,0:09:36.60,petto,Momo,0,0,0,,How defenseless you look.
+Dialogue: 0,0:09:38.51,0:09:40.08,petto,Momo,0,0,0,,Let's get you to bed.
+Dialogue: 0,0:09:40.58,0:09:43.14,petto,Momo,0,0,0,,C'mon, wake up! Come on!
+Dialogue: 0,0:09:44.61,0:09:47.75,petto,Momo,0,0,0,,Hey, Sumire! I'll check out your panties!
+Dialogue: 0,0:09:51.19,0:09:52.79,petto,Sumire,0,0,0,,I'll charge 100 yen if you do…
+Dialogue: 0,0:09:53.02,0:09:55.30,petto,Momo,0,0,0,,100 yen? Isn't that a little too cheap?
+Dialogue: 0,0:09:55.30,0:09:57.00,petto,Momo,0,0,0,,You have to value yourself more.
+Dialogue: 0,0:10:03.87,0:10:05.67,petto,Momo,0,0,0,,Geez, give me a break.
+Dialogue: 0,0:10:16.04,0:10:17.58,petto,Momo,0,0,0,,She's so heavy…
+Dialogue: 0,0:11:09.76,0:11:10.33,petto,man,0,0,0,,Hey!
+Dialogue: 0,0:11:11.47,0:11:13.64,petto,Hasumi,0,0,0,,Oh, Nishida-san!
+Dialogue: 0,0:11:13.64,0:11:16.20,petto,man,0,0,0,,Sorry, sorry… I didn't mean to surprise you like that.
+Dialogue: 0,0:11:17.34,0:11:20.38,petto,man,0,0,0,,Hey, isn't this Goda Takeshi?
+Dialogue: 0,0:11:20.48,0:11:21.54,petto,Hasumi,0,0,0,,You know him?
+Dialogue: 0,0:11:21.54,0:11:22.48,petto,man,0,0,0,,Sure I do.
+Dialogue: 0,0:11:22.48,0:11:25.15,petto,man,0,0,0,,Anyone who has an interest in dance should know him.
+Dialogue: 0,0:11:25.38,0:11:26.48,petto,man,0,0,0,,Is this your article?
+Dialogue: 0,0:11:26.48,0:11:28.68,petto,Hasumi,0,0,0,,No, no… I've just met him before, that's all.
+Dialogue: 0,0:11:28.88,0:11:30.75,petto,man,0,0,0,,Can you introduce him to me then?
+Dialogue: 0,0:11:30.95,0:11:34.09,petto,man,0,0,0,,I don't know his address. He seems to have run away from home.
+Dialogue: 0,0:11:34.42,0:11:34.96,petto,Hasumi,0,0,0,,What?
+Dialogue: 0,0:11:35.49,0:11:39.09,petto,man,0,0,0,,I heard he's going to have a performance soon at "Forest Hall 21".
+Dialogue: 0,0:11:40.00,0:11:43.23,petto,man,0,0,0,,I've been keeping an eye on him even before I had entered the Culture department.
+Dialogue: 0,0:12:02.52,0:12:03.69,petto,Sumire,0,0,0,,Momo?
+Dialogue: 0,0:12:06.25,0:12:11.96,petto,Sumire,0,0,0,,Huh? Why am I in bed? Huh? Pajamas…
+Dialogue: 0,0:12:11.96,0:12:14.50,petto,Momo,0,0,0,,Don't worry, I didn't take off your bra and panties.
+Dialogue: 0,0:12:14.50,0:12:15.56,petto,Sumire,0,0,0,,What?! Why—
+Dialogue: 0,0:12:16.43,0:12:18.37,petto,Sumire,0,0,0,,Oh, my head hurts…
+Dialogue: 0,0:12:18.90,0:12:20.07,petto,Momo,0,0,0,,Here's water.
+Dialogue: 0,0:12:22.04,0:12:23.20,petto,Sumire,0,0,0,,Thanks.
+Dialogue: 0,0:12:26.81,0:12:28.18,petto,Momo,0,0,0,,Here's some medicine.
+Dialogue: 0,0:12:32.81,0:12:34.22,petto,Sumire,0,0,0,,I don't feel so good.
+Dialogue: 0,0:12:36.25,0:12:38.69,petto,Momo,0,0,0,,Here's a barf bag. I'll put it behind you.
+Dialogue: 0,0:12:45.23,0:12:47.00,petto,Sumire,0,0,0,,What time is it now?
+Dialogue: 0,0:12:47.23,0:12:50.97,petto,Momo,0,0,0,,2:30 AM. Your birthday's over.
+Dialogue: 0,0:12:51.93,0:12:55.57,petto,Sumire,0,0,0,,This sucks, to drink too much and be sick on my birthday.
+Dialogue: 0,0:12:56.64,0:13:00.38,petto,Momo,0,0,0,,Don't worry about it, it can be just another memory for you.
+Dialogue: 0,0:13:02.01,0:13:02.98,petto,Sumire,0,0,0,,A memory?
+Dialogue: 0,0:13:03.00,0:13:04.00,petto,Momo,0,0,0,,Yeah.
+Dialogue: 0,0:13:19.83,0:13:24.40,petto,Momo,0,0,0,,You know, I'll stay around until you tell me to get out.
+Dialogue: 0,0:13:30.77,0:13:31.57,petto,Sumire,0,0,0,,Always?
+Dialogue: 0,0:13:33.17,0:13:34.08,petto,Momo,0,0,0,,Always.
+Dialogue: 0,0:13:36.41,0:13:37.81,petto,Sumire,0,0,0,,Even if it's decades?
+Dialogue: 0,0:13:38.81,0:13:41.72,petto,Momo,0,0,0,,Yup, even decades.
+Dialogue: 0,0:13:49.32,0:13:53.66,petto,Sumire,0,0,0,,Even if I become a grandma?
+Dialogue: 0,0:13:55.86,0:14:00.64,petto,Momo,0,0,0,,Yeah, even if you become a grandma, Sumire-chan.
+Dialogue: 0,0:14:15.08,0:14:17.69,petto,Rumi,0,0,0,,Hey, is it true that you've decided to not go to Germany?
+Dialogue: 0,0:14:17.69,0:14:19.09,petto,Takeshi,0,0,0,,Yup, I decided not to.
+Dialogue: 0,0:14:19.09,0:14:20.96,petto,Rumi,0,0,0,,Are you serious? I can't believe you.
+Dialogue: 0,0:14:20.96,0:14:22.69,petto,Takeshi,0,0,0,,Germany's so hard!
+Dialogue: 0,0:14:22.69,0:14:24.96,petto,Rumi,0,0,0,,You're lying. It's because of that woman, isn't it?
+Dialogue: 0,0:14:26.26,0:14:28.03,petto,Takeshi,0,0,0,,Yes, but is that anything to you?
+Dialogue: 0,0:14:28.23,0:14:29.16,petto,Rumi,0,0,0,,Why?
+Dialogue: 0,0:14:29.16,0:14:31.20,petto,Rumi,0,0,0,,It's not like she's your girlfriend, right?
+Dialogue: 0,0:14:31.20,0:14:33.30,petto,Rumi,0,0,0,,You're just a pet to her.
+Dialogue: 0,0:14:32.23,0:14:34.50,petto overlap,Takeshi,0,0,0,,Whoa, what's that?!
+Dialogue: 0,0:14:35.54,0:14:38.57,petto,Rumi,0,0,0,,You're kidding me. What happened, Junpei?
+Dialogue: 0,0:14:39.34,0:14:41.71,petto,Junpei,0,0,0,,Nothing… I just came back from job interviews.
+Dialogue: 0,0:14:42.08,0:14:44.41,petto,Takeshi,0,0,0,,It looks great on you, Junpei!
+Dialogue: 0,0:14:44.01,0:14:45.75,petto overlap,Rumi,0,0,0,,Yeah, it's not bad at all.
+Dialogue: 0,0:14:46.45,0:14:49.78,petto,Rumi,0,0,0,,Actually, I think I'm going to be able to get into a 2-year university too.
+Dialogue: 0,0:14:49.78,0:14:53.46,petto,Junpei,0,0,0,,Oh? That's going to work out for you? That's awesome!
+Dialogue: 0,0:14:54.26,0:14:56.12,petto,Rumi,0,0,0,,Everyone's changing so quickly.
+Dialogue: 0,0:14:56.96,0:14:59.66,petto,Junpei,0,0,0,,Is it really okay that you stay like that forever?
+Dialogue: 0,0:15:00.43,0:15:03.47,petto,girl,0,0,0,,And, he said that he wasn't in a rush, but he wanted an answer!
+Dialogue: 0,0:15:03.47,0:15:05.37,petto,girl,0,0,0,,Are you serious?! A real proposal?!
+Dialogue: 0,0:15:05.37,0:15:09.84,petto,girl,0,0,0,,Ohno-san from the Society department saw Hasumi-san giving her the ring at a restaurant!
+Dialogue: 0,0:15:10.01,0:15:12.01,petto,girl,0,0,0,,Then it's coming up!
+Dialogue: 0,0:15:12.01,0:15:14.98,petto,Kuraki,0,0,0,,Isn't that a shock?! You were such a fan of Hasumi-san's.
+Dialogue: 0,0:15:14.98,0:15:17.31,petto,Fukushima,0,0,0,,Not really. I was just a little disappointed.
+Dialogue: 0,0:15:17.31,0:15:22.68,petto,Fukushima,0,0,0,,Besides, right now I'm doing pretty well with a young dealer of foreign cars.
+Dialogue: 0,0:15:22.68,0:15:23.85,petto,Kuraki,0,0,0,,Oh, really?
+Dialogue: 0,0:15:23.85,0:15:26.19,petto,girl,0,0,0,,So do you think they're going to have the wedding ceremony and then fly over there?
+Dialogue: 0,0:15:32.89,0:15:34.10,petto,Ishida,0,0,0,,Umm, Iwaya-san?
+Dialogue: 0,0:15:34.10,0:15:35.03,petto,Sumire,0,0,0,,Yes?
+Dialogue: 0,0:15:35.80,0:15:38.87,petto,Ishida,0,0,0,,You're not going to quit your job, are you?
+Dialogue: 0,0:15:39.93,0:15:40.54,petto,Sumire,0,0,0,,
+Dialogue: 0,0:15:40.90,0:15:44.67,petto,Ishida,0,0,0,,I heard a rumor that you were going to get married and go to Rio de Janeiro.
+Dialogue: 0,0:15:44.84,0:15:47.14,petto,Sumire,0,0,0,,How did it get out so soon? No, I'm not really…
+Dialogue: 0,0:15:47.14,0:15:51.01,petto,boss2,0,0,0,,If you're going to quit just for marriage, then you shouldn't start working in the first place.
+Dialogue: 0,0:15:51.01,0:15:52.15,petto,Sumire,0,0,0,,What's that supposed to mean?
+Dialogue: 0,0:15:52.15,0:15:55.32,petto,Ishida,0,0,0,,But it can't really be helped if they're going overseas.
+Dialogue: 0,0:15:55.62,0:15:57.02,petto,boss2,0,0,0,,That's why I don't like women.
+Dialogue: 0,0:15:57.02,0:15:59.59,petto,boss2,0,0,0,,When you think they finally adapted to their jobs, they quit so easily.
+Dialogue: 0,0:15:59.59,0:16:01.46,petto,Ishida,0,0,0,,But you know… it hasn't been decided yet, right?
+Dialogue: 0,0:16:01.46,0:16:02.82,petto,Sumire,0,0,0,,Umm… I haven't said anything about quitting…
+Dialogue: 0,0:16:02.82,0:16:05.20,petto,boss2,0,0,0,,All right, let's go to lunch! Let's go.
+Dialogue: 0,0:16:05.20,0:16:06.20,petto,colleague,0,0,0,,Yes.
+Dialogue: 0,0:16:08.96,0:16:10.17,petto,Sumire,0,0,0,,What the heck was that?
+Dialogue: 0,0:16:10.17,0:16:12.17,petto,Fukushima,0,0,0,,Iwaya-san, I'm done with the calculations.
+Dialogue: 0,0:16:12.90,0:16:13.90,petto,Sumire,0,0,0,,Thank you.
+Dialogue: 0,0:16:19.01,0:16:21.88,petto,Fukushima,0,0,0,,But wow, you have some nerve to have a pet.
+Dialogue: 0,0:16:22.51,0:16:25.35,petto,Fukushima,0,0,0,,I just thought it was a normal case of double-dealing.
+Dialogue: 0,0:16:25.95,0:16:27.32,petto,Sumire,0,0,0,,I haven't done such a thing!
+Dialogue: 0,0:16:27.32,0:16:29.55,petto,Fukushima,0,0,0,,But it's the same to a man.
+Dialogue: 0,0:16:30.42,0:16:33.92,petto,Fukushima,0,0,0,,Then would you be fine with Hasumi-san having a woman pet at his house?
+Dialogue: 0,0:16:35.49,0:16:36.66,petto,Sumire,0,0,0,,Well…
+Dialogue: 0,0:16:37.03,0:16:38.96,petto,Fukushima,0,0,0,,Which are you going to choose?
+Dialogue: 0,0:16:39.93,0:16:43.80,petto,Fukushima,0,0,0,,If you're unsure, then why don't you just give Hasumi-san to me?
+Dialogue: 0,0:16:51.60,0:16:53.44,petto,Takeshi,0,0,0,,You're really serious about Hasumi-kun.
+Dialogue: 0,0:16:54.34,0:16:59.15,petto,Fukushima,0,0,0,,You're kidding, right? Why would I do something inefficient like truly falling for someone?
+Dialogue: 0,0:17:04.09,0:17:08.06,petto,Sumire,0,0,0,,Choose one or… the other?
+Dialogue: 0,0:17:13.33,0:17:15.73,petto,nanny,0,0,0,,Takeshi-san! Actually, you know…
+Dialogue: 0,0:17:15.73,0:17:17.07,petto,Takeshi,0,0,0,,You're still living here?
+Dialogue: 0,0:17:17.07,0:17:19.33,petto,nanny,0,0,0,,There's been an unforeseen happening.
+Dialogue: 0,0:17:19.33,0:17:21.37,petto,Takeshi,0,0,0,,Unforeseen? What's that have to do with me?
+Dialogue: 0,0:17:22.14,0:17:23.14,petto,mother,0,0,0,,Takeshi.
+Dialogue: 0,0:17:27.04,0:17:28.21,petto,Takeshi,0,0,0,,Mom.
+Dialogue: 0,0:17:34.52,0:17:35.38,petto,Takeshi,0,0,0,,Why?
+Dialogue: 0,0:17:40.36,0:17:42.09,petto,mother,0,0,0,,Why don't you sit down, instead of just standing there?
+Dialogue: 0,0:17:44.06,0:17:47.70,petto,mother,0,0,0,,Or would you like to invite me up to your home?
+Dialogue: 0,0:17:59.47,0:18:01.21,petto,landlord,0,0,0,,Hey, you guys…
+Dialogue: 0,0:18:00.71,0:18:03.65,petto overlap,nanny,0,0,0,,Wa-wait… please don't bother them.
+Dialogue: 0,0:18:04.15,0:18:07.18,petto,landlord,0,0,0,,I've seen them before, but exactly who are they and what floor do they live on?
+Dialogue: 0,0:18:07.18,0:18:08.75,petto,nanny,0,0,0,,They're my wife and son.
+Dialogue: 0,0:18:09.22,0:18:10.15,petto,landlord,0,0,0,,You're kidding me!
+Dialogue: 0,0:18:10.15,0:18:10.69,petto,nanny,0,0,0,,Yes, I am.
+Dialogue: 0,0:18:11.75,0:18:13.66,petto,nanny,0,0,0,,It's a lie that I've always wanted to say.
+Dialogue: 0,0:18:14.36,0:18:15.06,petto,nanny,0,0,0,,Oh, really.
+Dialogue: 0,0:18:15.42,0:18:16.42,petto,nanny,0,0,0,,I'm very sorry.
+Dialogue: 0,0:18:17.06,0:18:17.86,petto,landlord,0,0,0,,I see.
+Dialogue: 0,0:18:23.33,0:18:24.87,petto,Takeshi,0,0,0,,You came to see me for something?
+Dialogue: 0,0:18:34.84,0:18:36.38,petto,mother,0,0,0,,My, my…
+Dialogue: 0,0:18:37.45,0:18:38.28,petto,Takeshi,0,0,0,,What?
+Dialogue: 0,0:18:38.78,0:18:41.02,petto,mother,0,0,0,,You've become so handsome.
+Dialogue: 0,0:18:42.88,0:18:44.49,petto,mother,0,0,0,,It pisses me off.
+Dialogue: 0,0:18:46.25,0:18:48.36,petto,mother,0,0,0,,You were so cute back in the day.
+Dialogue: 0,0:18:48.56,0:18:50.76,petto,Takeshi,0,0,0,,Don't say things that are hard for me to respond to.
+Dialogue: 0,0:18:53.16,0:18:55.10,petto,mother,0,0,0,,What's that scarf for?
+Dialogue: 0,0:18:55.10,0:18:58.20,petto,Takeshi,0,0,0,,It's not a scarf, leave it alone.
+Dialogue: 0,0:18:58.20,0:18:59.90,petto,mother,0,0,0,,You've grown taller, haven't you?
+Dialogue: 0,0:19:00.37,0:19:02.47,petto,Takeshi,0,0,0,,Well, I suppose I'm taller than I was four years ago.
+Dialogue: 0,0:19:02.87,0:19:07.04,petto,nanny,0,0,0,,The spring when you were 16 years old, when you ran away from home, you were still only 166 cm.
+Dialogue: 0,0:19:07.04,0:19:08.74,petto,nanny,0,0,0,,I think he's grown another 3 cm.
+Dialogue: 0,0:19:08.74,0:19:09.91,petto,mother,0,0,0,,Shut up.
+Dialogue: 0,0:19:08.74,0:19:09.91,petto overlap,Takeshi,0,0,0,,Shut up.
+Dialogue: 0,0:19:13.28,0:19:14.38,petto,Takeshi,0,0,0,,Keep your mouth shut.
+Dialogue: 0,0:19:15.48,0:19:17.05,petto,mother,0,0,0,,Go elsewhere.
+Dialogue: 0,0:19:18.30,0:19:19.30,petto,nanny,0,0,0,,Yes.
+Dialogue: 0,0:19:27.46,0:19:29.93,petto,mother,0,0,0,,So you're owned by a woman here?
+Dialogue: 0,0:19:32.40,0:19:34.07,petto,mother,0,0,0,,Go to Germany.
+Dialogue: 0,0:19:34.60,0:19:35.24,petto,Takeshi,0,0,0,,What?
+Dialogue: 0,0:19:35.60,0:19:39.01,petto,mother,0,0,0,,I've just turned in your application for you.
+Dialogue: 0,0:19:39.34,0:19:40.11,petto,Takeshi,0,0,0,,You're joking!
+Dialogue: 0,0:19:40.11,0:19:42.11,petto,mother,0,0,0,,I don't have the time to waste making jokes.
+Dialogue: 0,0:19:42.98,0:19:45.81,petto,mother,0,0,0,,I took the time to cancel my lessons and come out to Tokyo.
+Dialogue: 0,0:19:46.38,0:19:47.82,petto,mother,0,0,0,,Why don't you show some more gratitude?
+Dialogue: 0,0:19:47.82,0:19:49.78,petto,Takeshi,0,0,0,,But this has nothing to do with you!
+Dialogue: 0,0:19:49.78,0:19:51.09,petto,mother,0,0,0,,What do you mean, nothing to do with me?
+Dialogue: 0,0:19:51.19,0:19:55.36,petto,Takeshi,0,0,0,,I'm an adult now, I can do things by myself.
+Dialogue: 0,0:19:55.36,0:19:58.73,petto,mother,0,0,0,,Don't act so haughty towards me when you're living like this.
+Dialogue: 0,0:20:00.23,0:20:06.43,petto,mother,0,0,0,,You thought that I didn't feel anything after you didn't call once for four years?
+Dialogue: 0,0:20:07.24,0:20:09.04,petto,mother,0,0,0,,Do you think I didn't worry?
+Dialogue: 0,0:20:09.74,0:20:15.41,petto,mother,0,0,0,,I thought that maybe you'd come home for your 20th birthday.
+Dialogue: 0,0:20:15.41,0:20:17.05,petto,mother,0,0,0,,I baked some flan and waited for you.
+Dialogue: 0,0:20:20.15,0:20:21.82,petto,Takeshi,0,0,0,,How should I know about that?
+Dialogue: 0,0:20:24.59,0:20:26.29,petto,Takeshi,0,0,0,,I don't regret leaving home.
+Dialogue: 0,0:20:25.89,0:20:26.96,petto overlap,mother,0,0,0,,Stop!
+Dialogue: 0,0:20:27.32,0:20:28.59,petto,mother,0,0,0,,Don't talk.
+Dialogue: 0,0:20:31.73,0:20:32.99,petto,mother,0,0,0,,I feel like crying.
+Dialogue: 0,0:20:41.04,0:20:42.04,petto,mother,0,0,0,,I'm going home.
+Dialogue: 0,0:20:43.61,0:20:44.71,petto,Takeshi,0,0,0,,You're going home?
+Dialogue: 0,0:20:46.78,0:20:48.01,petto,mother,0,0,0,,I have lessons tonight.
+Dialogue: 0,0:20:49.31,0:20:52.15,petto,mother,0,0,0,,My students are waiting for me.
+Dialogue: 0,0:20:53.92,0:20:55.45,petto,Takeshi,0,0,0,,I'm not going to Germany.
+Dialogue: 0,0:20:58.95,0:21:00.52,petto,Takeshi,0,0,0,,I'm not going home either.
+Dialogue: 0,0:21:01.89,0:21:04.13,petto,Takeshi,0,0,0,,I've finally found my place.
+Dialogue: 0,0:21:11.83,0:21:15.47,petto,Sumire,0,0,0,,{\i1}I have to choose between Momo or Hasumi-senpai?
+Dialogue: 0,0:21:17.67,0:21:22.31,petto,Sumire,0,0,0,,{\i1}But if I choose one, I'll surely lose the other.
+Dialogue: 0,0:21:26.21,0:21:28.92,petto,Momo,0,0,0,,Hey, are you going to do your toenails? Let me do it.
+Dialogue: 0,0:21:29.95,0:21:32.19,petto,Sumire,0,0,0,,Fine, but don't mess it up.
+Dialogue: 0,0:21:32.19,0:21:33.25,petto,Momo,0,0,0,,I know.
+Dialogue: 0,0:21:36.86,0:21:38.46,petto,Momo,0,0,0,,For your date tonight.
+Dialogue: 0,0:21:40.86,0:21:43.20,petto,Momo,0,0,0,,Dang, your pinky toe is small!
+Dialogue: 0,0:21:43.40,0:21:45.57,petto,Sumire,0,0,0,,It would be scary if it were big! Stop it, that tickles!
+Dialogue: 0,0:21:45.57,0:21:48.57,petto,Momo,0,0,0,,Then is this okay?
+Dialogue: 0,0:21:47.17,0:21:48.67,petto overlap,Sumire,0,0,0,,Don't touch me like that!
+Dialogue: 0,0:21:48.57,0:21:49.80,petto,Momo,0,0,0,,Then how should I touch you?
+Dialogue: 0,0:21:50.04,0:21:50.91,petto,Sumire,0,0,0,,Firmly.
+Dialogue: 0,0:21:50.91,0:21:51.84,petto,Momo,0,0,0,,Is this okay?
+Dialogue: 0,0:21:52.51,0:21:54.54,petto,Momo,0,0,0,,Don't move, I'm going to concentrate.
+Dialogue: 0,0:21:57.75,0:21:59.15,petto,Sumire,0,0,0,,Your face looks so serious.
+Dialogue: 0,0:21:59.15,0:22:01.52,petto,Momo,0,0,0,,I am serious! Let me focus!
+Dialogue: 0,0:22:03.49,0:22:05.99,petto,Momo,0,0,0,,Ah… you made me mess up!
+Dialogue: 0,0:22:07.29,0:22:08.56,petto,Momo,0,0,0,,Really, don't move.
+Dialogue: 0,0:22:08.56,0:22:09.36,petto,Sumire,0,0,0,,All right.
+Dialogue: 0,0:22:11.93,0:22:15.73,petto,Sumire,0,0,0,,Hey, your performance is this coming Saturday, right?
+Dialogue: 0,0:22:16.63,0:22:17.27,petto,Momo,0,0,0,,Yup.
+Dialogue: 0,0:22:19.13,0:22:21.20,petto,Sumire,0,0,0,,It's been a long time since I've seen you dance.
+Dialogue: 0,0:22:22.30,0:22:27.38,petto,Momo,0,0,0,,It's based on Greek mythology. I save a princess that's about to get eaten by a monster.
+Dialogue: 0,0:22:27.91,0:22:31.01,petto,Sumire,0,0,0,,Wow, I'm envious.
+Dialogue: 0,0:22:31.91,0:22:33.01,petto,Momo,0,0,0,,Of what?
+Dialogue: 0,0:22:33.31,0:22:36.48,petto,Sumire,0,0,0,,You get kind of envious of the princesses from back in the day.
+Dialogue: 0,0:22:36.48,0:22:39.65,petto,Sumire,0,0,0,,They feel happy just by being swept away by a prince.
+Dialogue: 0,0:22:40.56,0:22:43.09,petto,Sumire,0,0,0,,Women of today are too complicated.
+Dialogue: 0,0:22:44.86,0:22:47.26,petto,Momo,0,0,0,,If it were you, I'd go save you.
+Dialogue: 0,0:22:48.86,0:22:51.40,petto,Momo,0,0,0,,Whenever, wherever you may be.
+Dialogue: 0,0:22:55.77,0:23:00.54,petto,Sumire,0,0,0,,I'm not so weak as to be saved by a pet. I can knock down a monster with my aikidou.
+Dialogue: 0,0:23:01.21,0:23:02.81,petto,Momo,0,0,0,,Yeah, I know.
+Dialogue: 0,0:23:03.45,0:23:08.35,petto,Momo,0,0,0,,But don't you think that one person and a pet is a lot better than just one person alone?
+Dialogue: 0,0:23:13.72,0:23:15.66,petto,Momo,0,0,0,,Oops, I messed up again.
+Dialogue: 0,0:23:16.52,0:23:17.89,petto,Sumire,0,0,0,,After this dries,
+Dialogue: 0,0:23:19.83,0:23:21.70,petto,Sumire,0,0,0,,it's nice outside, so we can go for a walk.
+Dialogue: 0,0:23:22.46,0:23:23.03,petto,Momo,0,0,0,,Huh?
+Dialogue: 0,0:23:24.17,0:23:25.57,petto,Momo,0,0,0,,Yay! Yay!
+Dialogue: 0,0:23:25.73,0:23:28.37,petto,Momo,0,0,0,,This is the first time in a while that we've taken a walk!
+Dialogue: 0,0:23:29.34,0:23:30.84,petto,Sumire,0,0,0,,Come to think of it, that's true.
+Dialogue: 0,0:23:31.41,0:23:32.87,petto,Momo,0,0,0,,I feel kind of happy.
+Dialogue: 0,0:23:33.68,0:23:34.90,petto,Sumire,0,0,0,,What?
+Dialogue: 0,0:23:34.90,0:23:35.71,petto,Momo,0,0,0,,What?
+Dialogue: 0,0:23:35.71,0:23:37.75,petto,Sumire,0,0,0,,Stop it, don't hold my hand!
+Dialogue: 0,0:23:37.75,0:23:40.88,petto,Momo,0,0,0,,But we're taking a walk, right? This makes up for the leash.
+Dialogue: 0,0:23:40.88,0:23:43.62,petto,Sumire,0,0,0,,Wait, people will wonder what kind of a relationship we're in.
+Dialogue: 0,0:23:43.62,0:23:46.45,petto,Momo,0,0,0,,What kind? Well you're the master, and I'm the pet…
+Dialogue: 0,0:23:46.45,0:23:47.69,petto,Sumire,0,0,0,,Don't say it!
+Dialogue: 0,0:23:48.32,0:23:51.09,petto,Sumire,0,0,0,,Society isn't so nice as to just accept reality as it is.
+Dialogue: 0,0:23:51.09,0:23:53.23,petto,Momo,0,0,0,,But you're the one who told me to become a pet!
+Dialogue: 0,0:23:55.53,0:23:57.13,petto,Momo,0,0,0,,Man, this is boring!
+Dialogue: 0,0:23:57.47,0:23:59.57,petto,Sumire,0,0,0,,Wait, Momo!
+Dialogue: 0,0:24:01.40,0:24:03.27,petto,Momo,0,0,0,,Let's eat.
+Dialogue: 0,0:24:06.64,0:24:08.78,petto,Momo,0,0,0,,Wow, it looks good!
+Dialogue: 0,0:24:09.21,0:24:11.48,petto,Sumire,0,0,0,,Wait! Wipe your hands first!
+Dialogue: 0,0:24:11.75,0:24:12.71,petto,Momo,0,0,0,,Okay.
+Dialogue: 0,0:24:15.15,0:24:17.00,petto,Sumire,0,0,0,,Now you can eat.
+Dialogue: 0,0:24:17.00,0:24:18.90,petto,Momo,0,0,0,,All right! Itadakimasu~
+Dialogue: 0,0:24:21.09,0:24:23.36,petto,Momo,0,0,0,,Mmm… It's good!
+Dialogue: 0,0:24:24.53,0:24:25.76,petto,Sumire,0,0,0,,Do you want some sausage too?
+Dialogue: 0,0:24:27.06,0:24:28.33,petto,Sumire,0,0,0,,Here you go, catch!
+Dialogue: 0,0:24:31.30,0:24:32.47,petto,Sumire,0,0,0,,One more, one more!
+Dialogue: 0,0:24:32.47,0:24:33.37,petto,Sumire,0,0,0,,Here!
+Dialogue: 0,0:24:34.00,0:24:34.90,petto,Sumire,0,0,0,,Nice catch!
+Dialogue: 0,0:24:36.24,0:24:38.41,petto,Sumire,0,0,0,,Here's another one!
+Dialogue: 0,0:24:39.41,0:24:41.38,petto,Sumire,0,0,0,,I've trained you well!
+Dialogue: 0,0:24:43.68,0:24:45.08,petto,Momo,0,0,0,,Sumire-chan, tea!
+Dialogue: 0,0:24:45.45,0:24:46.31,petto,Sumire,0,0,0,,Here.
+Dialogue: 0,0:24:46.68,0:24:47.98,petto,Momo,0,0,0,,Hurry, hurry!
+Dialogue: 0,0:24:47.58,0:24:48.68,petto overlap,Sumire,0,0,0,,There, there…
+Dialogue: 0,0:24:52.55,0:24:54.32,petto,Sumire,0,0,0,,You're really like a dog.
+Dialogue: 0,0:24:58.56,0:25:00.20,petto,Momo,0,0,0,,Today is so nice.
+Dialogue: 0,0:25:03.33,0:25:05.67,petto,Momo,0,0,0,,It would have been nice if I really were a dog.
+Dialogue: 0,0:25:09.20,0:25:13.71,petto,Momo,0,0,0,,Then, even if you got married, we could still always be together.
+Dialogue: 0,0:25:13.71,0:25:14.48,petto,Sumire,0,0,0,,Huh?
+Dialogue: 0,0:25:16.04,0:25:17.68,petto,Momo,0,0,0,,This quail looks like a chick.
+Dialogue: 0,0:25:17.68,0:25:19.11,petto,Sumire,0,0,0,,How did you know that?
+Dialogue: 0,0:25:19.81,0:25:23.95,petto,Momo,0,0,0,,I've told you, I can read what you're thinking.
+Dialogue: 0,0:25:24.89,0:25:26.76,petto,Momo,0,0,0,,This quail is cute.
+Dialogue: 0,0:25:26.76,0:25:29.22,petto,Momo,0,0,0,,Do you want to eat it, Sumire-chan?
+Dialogue: 0,0:25:30.16,0:25:31.99,petto,Sumire,0,0,0,,No, it's okay.
+Dialogue: 0,0:25:32.36,0:25:33.56,petto,Momo,0,0,0,,Then I'll eat it.
+Dialogue: 0,0:25:44.21,0:25:45.21,petto,Momo,0,0,0,,There we go.
+Dialogue: 0,0:25:54.22,0:25:57.15,petto,Momo,0,0,0,,Then don't marry him.
+Dialogue: 0,0:25:58.52,0:25:59.15,petto,Sumire,0,0,0,,What?
+Dialogue: 0,0:25:59.29,0:26:01.26,petto,Momo,0,0,0,,Because I'll always be by your side.
+Dialogue: 0,0:26:07.36,0:26:08.40,petto,Sumire,0,0,0,,That's not right.
+Dialogue: 0,0:26:12.67,0:26:16.64,petto,Sumire,0,0,0,,It's wrong to stay like this forever.
+Dialogue: 0,0:26:18.94,0:26:21.98,petto,Sumire,0,0,0,,Momo, you can't stay a pet forever either, right?
+Dialogue: 0,0:26:26.51,0:26:27.25,petto,Momo,0,0,0,,Yeah, I guess.
+Dialogue: 0,0:26:31.32,0:26:34.29,petto,Sumire,0,0,0,,Oh, today feels so good!
+Dialogue: 0,0:26:36.26,0:26:40.26,petto,Sumire,0,0,0,,{\i1}I kind of wish that time would just stop like this.
+Dialogue: 0,0:26:39.26,0:26:43.47,petto overlap,Momo,0,0,0,,{\i1}If only time would stop like this.
+Dialogue: 0,0:26:45.63,0:26:47.84,petto,Sumire,0,0,0,,{\i1}This moment may be
+Dialogue: 0,0:26:48.64,0:26:53.24,petto,Sumire,0,0,0,,{\i1}the most comfortable time for me in my life.
+Dialogue: 0,0:26:51.47,0:26:54.88,petto overlap,Momo,0,0,0,,{\i1}I could lock this moment
+Dialogue: 0,0:26:55.34,0:27:00.68,petto,Momo,0,0,0,,{\i1}in my memory for the rest of my life.
+Dialogue: 0,0:27:18.60,0:27:20.34,petto,Sumire,0,0,0,,Momo…
+Dialogue: 0,0:27:18.60,0:27:20.44,petto overlap,Momo,0,0,0,,Momo…
+Dialogue: 0,0:27:26.21,0:27:27.31,petto,Sumire,0,0,0,,You're right.
+Dialogue: 0,0:27:30.68,0:27:32.65,petto,Sumire,0,0,0,,The sun is going to set soon.
+Dialogue: 0,0:27:35.55,0:27:37.45,petto,Sumire,0,0,0,,Let's finish our lunch.
+Dialogue: 0,0:27:37.55,0:27:38.35,petto,Momo,0,0,0,,Yeah.
+Dialogue: 0,0:27:39.99,0:27:41.42,petto,Momo,0,0,0,,Itadakimasu.
+Dialogue: 0,0:28:27.10,0:28:28.70,petto,Fukushima,0,0,0,,Hey, stop it!
+Dialogue: 0,0:28:29.84,0:28:33.54,petto,man,0,0,0,,Wait a minute! What do you mean?!
+Dialogue: 0,0:28:30.54,0:28:33.04,petto overlap,man,0,0,0,,
+Dialogue: 0,0:28:34.11,0:28:36.04,petto,Fukushima,0,0,0,,That hurts!
+Dialogue: 0,0:28:36.18,0:28:38.21,petto,Fukushima,0,0,0,,Hey! What's going on?!
+Dialogue: 0,0:28:40.52,0:28:42.12,petto,Fukushima,0,0,0,,How dare you!
+Dialogue: 0,0:28:42.45,0:28:44.35,petto,man,0,0,0,,Give me back my money!
+Dialogue: 0,0:28:44.35,0:28:45.05,petto,Fukushima,0,0,0,,Stop!
+Dialogue: 0,0:28:45.05,0:28:46.22,petto,Hasumi,0,0,0,,What's going on here?
+Dialogue: 0,0:28:35.72,0:28:46.99,petto overlap,man,0,0,0,,
+Dialogue: 0,0:28:47.26,0:28:48.32,petto,Hasumi,0,0,0,,Hey!
+Dialogue: 0,0:28:48.32,0:28:49.59,petto,man,0,0,0,,Where is it?
+Dialogue: 0,0:28:49.59,0:28:51.73,petto,Hasumi,0,0,0,,What are you doing to her?
+Dialogue: 0,0:28:51.99,0:28:53.46,petto,man,0,0,0,,Who the hell are you?
+Dialogue: 0,0:28:53.56,0:28:55.23,petto,Hasumi,0,0,0,,I'm an acquaintance of hers.
+Dialogue: 0,0:28:55.50,0:28:58.30,petto,Momo,0,0,0,,Oh, so you got tricked by her too?
+Dialogue: 0,0:28:58.30,0:28:58.80,petto,Hasumi,0,0,0,,What?
+Dialogue: 0,0:28:59.17,0:29:02.37,petto,Fukushima,0,0,0,,Are you stupid? You're the one that got tricked on your own.
+Dialogue: 0,0:29:02.37,0:29:04.84,petto,Fukushima,0,0,0,,Who in their right mind would seriously go out with you?
+Dialogue: 0,0:29:04.44,0:29:05.81,petto overlap,man,0,0,0,,What'd you say?!
+Dialogue: 0,0:29:05.81,0:29:08.04,petto,Hasumi,0,0,0,,Stop it! Violence is not the solution!
+Dialogue: 0,0:29:08.04,0:29:10.95,petto,man,0,0,0,,Get out of the way, punk!
+Dialogue: 0,0:29:12.35,0:29:14.18,petto,Hasumi,0,0,0,,Oh, I'm sorry…
+Dialogue: 0,0:29:19.15,0:29:20.39,petto,man,0,0,0,,It hurts…
+Dialogue: 0,0:29:21.06,0:29:22.49,petto,Fukushima,0,0,0,,Oh, but he's…
+Dialogue: 0,0:29:21.70,0:29:23.76,petto overlap,Fukushima,0,0,0,,It doesn't matter, hurry!
+Dialogue: 0,0:29:31.43,0:29:33.64,petto,Sumire,0,0,0,,I wonder if senpai's late…
+Dialogue: 0,0:29:45.45,0:29:46.51,petto,Hasumi,0,0,0,,Are you okay?
+Dialogue: 0,0:29:46.51,0:29:50.50,petto,Fukushima,0,0,0,,Why… why did you save me?
+Dialogue: 0,0:29:50.50,0:29:51.60,petto,Hasumi,0,0,0,,What do you mean, why?
+Dialogue: 0,0:29:51.62,0:29:54.19,petto,Fukushima,0,0,0,,You should know by now that I'm that kind of a woman.
+Dialogue: 0,0:29:54.46,0:29:58.39,petto,Fukushima,0,0,0,,I just catch rich guys and fling them around and do what I want!
+Dialogue: 0,0:30:00.43,0:30:02.06,petto,Fukushima,0,0,0,,Even with you, Hasumi-san…
+Dialogue: 0,0:30:07.14,0:30:10.47,petto,Hasumi,0,0,0,,Be careful when you go home. I'll see you at work.
+Dialogue: 0,0:30:18.68,0:30:19.85,petto,Fukushima,0,0,0,,Wait!
+Dialogue: 0,0:30:24.09,0:30:25.65,petto,Fukushima,0,0,0,,Don't go.
+Dialogue: 0,0:30:26.89,0:30:30.53,petto,Fukushima,0,0,0,,I… I like you, Hasumi-san.
+Dialogue: 0,0:30:31.59,0:30:33.70,petto,Fukushima,0,0,0,,I like you so much, I can't help it.
+Dialogue: 0,0:30:34.10,0:30:38.60,petto,Fukushima,0,0,0,,Even if you don't like me, I'll do anything. Please…
+Dialogue: 0,0:30:42.57,0:30:44.01,petto,Fukushima,0,0,0,,It can be just once…
+Dialogue: 0,0:30:48.28,0:30:49.88,petto,Fukushima,0,0,0,,Make love to me.
+Dialogue: 0,0:30:58.09,0:31:01.06,petto,Hasumi,0,0,0,,I don't think you should say something like that.
+Dialogue: 0,0:31:01.06,0:31:01.92,petto,Hasumi,0,0,0,,All right?
+Dialogue: 0,0:31:13.23,0:31:16.34,petto,Fukushima,0,0,0,,Heh… you should just take advantage of me.
+Dialogue: 0,0:31:16.50,0:31:18.34,petto,Fukushima,0,0,0,,What a boring man.
+Dialogue: 0,0:31:18.71,0:31:19.34,petto,Hasumi,0,0,0,,What?
+Dialogue: 0,0:31:19.34,0:31:23.58,petto,Fukushima,0,0,0,,If you're too good of a person, you'll be made a fool of. Like with Iwaya-san…
+Dialogue: 0,0:31:24.41,0:31:25.21,petto,Hasumi,0,0,0,,Iwaya?
+Dialogue: 0,0:31:37.93,0:31:39.66,petto,Sumire,0,0,0,,It must be some kind of mistake.
+Dialogue: 0,0:31:40.03,0:31:41.76,petto,Sumire,0,0,0,,Like she must have flung herself on him.
+Dialogue: 0,0:31:41.76,0:31:44.23,petto,Sumire,0,0,0,,Or maybe he was caring for someone that looks like Fukushima-san that collapsed.
+Dialogue: 0,0:31:44.23,0:31:46.07,petto,Sumire,0,0,0,,Or maybe it was a worker that looked just like senpai
+Dialogue: 0,0:31:46.07,0:31:48.30,petto,Sumire,0,0,0,,that was putting away a dummy that looked exactly like Fukushima-san.
+Dialogue: 0,0:31:51.64,0:31:52.87,petto,Sumire,0,0,0,,As if that could be.
+Dialogue: 0,0:32:20.84,0:32:22.34,petto,Sumire,0,0,0,,{\i1}Maybe I should go home…
+Dialogue: 0,0:32:33.28,0:32:34.38,petto,Hasumi,0,0,0,,Iwaya!
+Dialogue: 0,0:32:37.05,0:32:38.09,petto,Sumire,0,0,0,,Senpai…
+Dialogue: 0,0:32:38.09,0:32:41.49,petto,Hasumi,0,0,0,,I'm sorry, I got involved in a fight over there.
+Dialogue: 0,0:32:41.49,0:32:42.32,petto,Sumire,0,0,0,,A fight?
+Dialogue: 0,0:32:42.32,0:32:44.03,petto,Hasumi,0,0,0,,Yes, I'm sorry.
+Dialogue: 0,0:32:44.76,0:32:46.66,petto,Hasumi,0,0,0,,I made you wait 15 minutes!
+Dialogue: 0,0:32:46.66,0:32:48.56,petto,Sumire,0,0,0,,Oh no, not at all.
+Dialogue: 0,0:32:48.56,0:32:51.37,petto,Hasumi,0,0,0,,I'm glad you waited though.
+Dialogue: 0,0:32:52.57,0:32:54.04,petto,Sumire,0,0,0,,{\i1}Why can't I ask him?
+Dialogue: 0,0:32:55.84,0:32:58.74,petto,Sumire,0,0,0,,{\i1}Why can't I ask, "You were with Fukushima-san just now, weren't you?"
+Dialogue: 0,0:32:58.74,0:32:59.54,petto,Sumire,0,0,0,,All right.
+Dialogue: 0,0:33:06.08,0:33:07.95,petto,Sumire,0,0,0,,{\i1}I don't want to be seen as a troublesome woman.
+Dialogue: 0,0:33:07.95,0:33:09.22,petto,Sumire,0,0,0,,{\i1}I don't want to be thought of as jealous.
+Dialogue: 0,0:33:09.22,0:33:11.09,petto,Sumire,0,0,0,,{\i1}I want to always be cool. I don't want him to dislike me.
+Dialogue: 0,0:33:11.49,0:33:15.26,petto,Sumire,0,0,0,,{\i1}I want to stay the cute woman that knows nothing, and look like nothing ever bothers me.
+Dialogue: 0,0:33:17.49,0:33:20.90,petto,Sumire,0,0,0,,{\i1}Oh… I have a headache.
+Dialogue: 0,0:33:24.83,0:33:27.97,petto,Sumire,0,0,0,,What he sees of me, is actually not myself.
+Dialogue: 0,0:33:28.17,0:33:29.27,petto,counsel,0,0,0,,I see.
+Dialogue: 0,0:33:30.11,0:33:33.31,petto,Sumire,0,0,0,,He told me he likes how I have a good hold of myself,
+Dialogue: 0,0:33:33.48,0:33:37.25,petto,Sumire,0,0,0,,and how I'm gentle and share the same values as him.
+Dialogue: 0,0:33:39.08,0:33:43.15,petto,Sumire,0,0,0,,But the actual me is easily affected, pitiful, and pretty deceptive.
+Dialogue: 0,0:33:43.15,0:33:46.09,petto,Sumire,0,0,0,,My personality's bad, and I get jealous easily.
+Dialogue: 0,0:33:46.49,0:33:50.12,petto,Sumire,0,0,0,,And it's just that I try my best to match my preferences and values to him.
+Dialogue: 0,0:33:49.52,0:33:50.29,petto overlap,counsel,0,0,0,,Wait, wait…
+Dialogue: 0,0:34:00.00,0:34:01.60,petto,counsel,0,0,0,,Self-respect, pride.
+Dialogue: 0,0:34:03.74,0:34:05.77,petto,counsel,0,0,0,,Self-absorption, narcissism.
+Dialogue: 0,0:34:06.01,0:34:08.48,petto,counsel,0,0,0,,This is very imbalance for you.
+Dialogue: 0,0:34:08.48,0:34:11.08,petto,counsel,0,0,0,,Your pride is much larger.
+Dialogue: 0,0:34:11.65,0:34:15.75,petto,counsel,0,0,0,,To put it simply, you are too scared to put your true self out there,
+Dialogue: 0,0:34:15.75,0:34:17.75,petto,counsel,0,0,0,,and you try to become the person that people expect you to be.
+Dialogue: 0,0:34:18.02,0:34:22.69,petto,counsel,0,0,0,,You can only show the part of you that doesn't show any weaknesses and is flawless.
+Dialogue: 0,0:34:23.69,0:34:29.90,petto,counsel,0,0,0,,This lack of balance is what continually bothers and pricks at your heart.
+Dialogue: 0,0:34:32.00,0:34:42.58,petto,counsel,0,0,0,,And currently, Momo-chan is in the role of freeing you to go towards narcissism.
+Dialogue: 0,0:34:47.88,0:34:49.11,petto,counsel,0,0,0,,I was also like this.
+Dialogue: 0,0:34:49.35,0:34:52.39,petto,counsel,0,0,0,,That's why I brought my dog into my marriage.
+Dialogue: 0,0:34:52.55,0:34:54.16,petto,counsel,0,0,0,,But it proved to be a failure.
+Dialogue: 0,0:34:54.76,0:35:02.63,petto,counsel,0,0,0,,I could only show my true self to my dog, and I caused my wife great stress.
+Dialogue: 0,0:35:02.96,0:35:04.57,petto,Sumire,0,0,0,,So that's how it was…
+Dialogue: 0,0:35:05.17,0:35:07.64,petto,counsel,0,0,0,,This is the child of that dog.
+Dialogue: 0,0:35:08.50,0:35:13.31,petto,counsel,0,0,0,,In order for me not to overly love my dog, I've been careful to call it a different name every day.
+Dialogue: 0,0:35:14.18,0:35:17.05,petto,Sumire,0,0,0,,What is that dog's real name?
+Dialogue: 0,0:35:17.98,0:35:18.85,petto,counsel,0,0,0,,Fusae.
+Dialogue: 0,0:35:19.45,0:35:20.22,petto,Sumire,0,0,0,,Fusae?
+Dialogue: 0,0:35:20.68,0:35:22.45,petto,counsel,0,0,0,,It's my previous wife's name.
+Dialogue: 0,0:35:29.82,0:35:30.99,petto,nanny,0,0,0,,To your right.
+Dialogue: 0,0:35:33.03,0:35:35.16,petto,woman,0,0,0,,The performance has started, so please take your seats immediately.
+Dialogue: 0,0:35:36.23,0:35:39.40,petto,nanny,0,0,0,,Sensei, your ticket… sensei… your ticket!
+Dialogue: 0,0:38:06.51,0:38:07.88,petto,girl,0,0,0,,Hey, isn't that Goda Yoshie?
+Dialogue: 0,0:38:07.88,0:38:09.15,petto,girl,0,0,0,,Wow, you're kidding me!
+Dialogue: 0,0:38:10.22,0:38:11.32,petto,Takeshi,0,0,0,,Mom…
+Dialogue: 0,0:38:23.37,0:38:27.57,petto,Takeshi,0,0,0,,Mom, everyone's watching.
+Dialogue: 0,0:38:28.80,0:38:31.17,petto,mother,0,0,0,,You really do piss me off.
+Dialogue: 0,0:38:31.81,0:38:35.28,petto,mother,0,0,0,,How hard you must have worked while I wasn't around to watch you.
+Dialogue: 0,0:38:41.02,0:38:46.76,petto,mother,0,0,0,,Takeshi, you still don't understand your talent.
+Dialogue: 0,0:38:48.62,0:38:50.86,petto,mother,0,0,0,,You can still fly so much higher.
+Dialogue: 0,0:38:54.50,0:38:56.53,petto,mother,0,0,0,,How long are you going to keep running away from it?
+Dialogue: 0,0:39:00.00,0:39:03.51,petto,Takeshi,0,0,0,,Speak for yourself, you should've just broken up with Dad by now.
+Dialogue: 0,0:39:05.11,0:39:06.41,petto,mother,0,0,0,,That's none of your business.
+Dialogue: 0,0:39:10.51,0:39:11.78,petto,mother,0,0,0,,Well, it's all right…
+Dialogue: 0,0:39:12.65,0:39:16.99,petto,mother,0,0,0,,Wherever you fly off to, you are my son that'll always make me proud.
+Dialogue: 0,0:39:25.16,0:39:26.23,petto,Takeshi,0,0,0,,Mom.
+Dialogue: 0,0:39:29.96,0:39:33.30,petto,Takeshi,0,0,0,,I love my life.
+Dialogue: 0,0:39:37.07,0:39:38.81,petto,Takeshi,0,0,0,,I'm grateful to you too.
+Dialogue: 0,0:39:39.87,0:39:40.98,petto,mother,0,0,0,,So saucy.
+Dialogue: 0,0:39:57.03,0:39:58.89,petto,Sumire,0,0,0,,I wonder when Momo's going to come out.
+Dialogue: 0,0:40:00.60,0:40:01.83,petto,girl,0,0,0,,Goda-san's coming!
+Dialogue: 0,0:40:03.77,0:40:04.27,petto,Sumire,0,0,0,,Mo—
+Dialogue: 0,0:40:05.77,0:40:08.47,petto,Sumire,0,0,0,,Not Momo, umm…
+Dialogue: 0,0:40:08.77,0:40:09.94,petto,Momo,0,0,0,,Sumire-chan!
+Dialogue: 0,0:40:28.59,0:40:30.03,petto,Sumire,0,0,0,,Momo?
+Dialogue: 0,0:40:30.30,0:40:31.10,petto,Momo,0,0,0,,Yeah?
+Dialogue: 0,0:40:34.33,0:40:35.33,petto,Sumire,0,0,0,,Great job.
+Dialogue: 0,0:40:36.60,0:40:38.37,petto,Sumire,0,0,0,,You looked really cool.
+Dialogue: 0,0:40:40.07,0:40:41.24,petto,Momo,0,0,0,,Of course.
+Dialogue: 0,0:40:43.71,0:40:45.67,petto,Momo,0,0,0,,I worked hard so I could get this.
+Dialogue: 0,0:40:46.71,0:40:48.18,petto,Sumire,0,0,0,,Whatever you say…
+Dialogue: 0,0:40:53.85,0:40:54.95,petto,Momo,0,0,0,,Thanks.
+Dialogue: 0,0:40:56.15,0:40:58.02,petto,Momo,0,0,0,,Today is omelette one rice, okay?
+Dialogue: 0,0:41:02.86,0:41:04.73,petto,Sumire,0,0,0,,Darn it, how did I let him do that to me?
+Dialogue: 0,0:41:10.90,0:41:13.03,petto,man,0,0,0,,Oh, Iwaya-san?
+Dialogue: 0,0:41:21.80,0:41:23.05,petto,Sumire,0,0,0,,Senpai…
+Dialogue: 0,0:41:26.21,0:41:27.18,petto,Hasumi,0,0,0,,Excuse me.
+Dialogue: 0,0:41:28.45,0:41:30.39,petto,Sumire,0,0,0,,Hey, wait!
+Dialogue: 0,0:41:30.39,0:41:30.79,petto,Sumire,0,0,0,,Senpai!
+Dialogue: 0,0:41:36.53,0:41:37.43,petto,Sumire,0,0,0,,Senpai!
+Dialogue: 0,0:41:38.79,0:41:41.33,petto,Sumire,0,0,0,,Senpai, will you wait a moment?
+Dialogue: 0,0:41:46.00,0:41:47.34,petto,Hasumi,0,0,0,,What was that back there?
+Dialogue: 0,0:41:49.30,0:41:50.14,petto,Sumire,0,0,0,,Him…
+Dialogue: 0,0:41:52.47,0:41:54.44,petto,Hasumi,0,0,0,,What kind of a relationship are you two in?
+Dialogue: 0,0:42:00.00,0:42:01.08,petto,Sumire,0,0,0,,Oh…
+Dialogue: 0,0:42:03.95,0:42:05.19,petto,Sumire,0,0,0,,Umm…
+Dialogue: 0,0:42:10.06,0:42:11.09,petto,Sumire,0,0,0,,He is…
+Dialogue: 0,0:42:12.80,0:42:13.80,petto,Sumire,0,0,0,,I…
+Dialogue: 0,0:42:14.23,0:42:15.96,petto,Takeshi,0,0,0,,Sorry, Hasumi-kun!
+Dialogue: 0,0:42:19.97,0:42:21.14,petto,Takeshi,0,0,0,,I'm really sorry.
+Dialogue: 0,0:42:22.20,0:42:26.51,petto,Takeshi,0,0,0,,Actually, to tell the truth, I like Sumire-chan.
+Dialogue: 0,0:42:29.44,0:42:33.31,petto,Takeshi,0,0,0,,I liked her for the longest time. I really admired her.
+Dialogue: 0,0:42:34.35,0:42:40.26,petto,Takeshi,0,0,0,,So today, I kind of forced her, asking her to come see me with a huge bouquet of flowers.
+Dialogue: 0,0:42:42.22,0:42:45.46,petto,Takeshi,0,0,0,,I'm actually going to Germany next week.
+Dialogue: 0,0:42:46.90,0:42:47.80,petto,Hasumi,0,0,0,,Germany?
+Dialogue: 0,0:42:47.80,0:42:50.23,petto,Takeshi,0,0,0,,Yeah, I'm going abroad to study in Frankfurt.
+Dialogue: 0,0:42:50.87,0:42:56.64,petto,Takeshi,0,0,0,,There's a pretty big contemporary dance group over there.
+Dialogue: 0,0:42:57.54,0:43:03.01,petto,Takeshi,0,0,0,,I'm going to go there, and my dream is to become a great, world-famous international dancer.
+Dialogue: 0,0:43:03.18,0:43:06.05,petto,Takeshi,0,0,0,,But then I won't be able to see Sumire-chan anymore.
+Dialogue: 0,0:43:06.38,0:43:10.19,petto,Takeshi,0,0,0,,So to mark my final goodbye, I stole a kiss from her.
+Dialogue: 0,0:43:11.79,0:43:13.05,petto,Takeshi,0,0,0,,Sorry, Sumire-chan.
+Dialogue: 0,0:43:15.66,0:43:18.36,petto,Takeshi,0,0,0,,You proposed to her, right?
+Dialogue: 0,0:43:19.86,0:43:23.53,petto,Takeshi,0,0,0,,I heard from my older sister that Sumire-chan got a gorgeous ring from you.
+Dialogue: 0,0:43:28.97,0:43:33.88,petto,Takeshi,0,0,0,,I wish you two happiness from a far away sky.
+Dialogue: 0,0:43:35.51,0:43:36.01,petto,Takeshi,0,0,0,,Bye.
+Dialogue: 0,0:43:45.29,0:43:46.02,petto,Hasumi,0,0,0,,I'm sorry.
+Dialogue: 0,0:43:48.16,0:43:51.69,petto,Hasumi,0,0,0,,I misjudged you.
+Dialogue: 0,0:43:54.00,0:43:55.26,petto,Sumire,0,0,0,,It's not like that.
+Dialogue: 0,0:43:58.80,0:44:00.00,petto,Sumire,0,0,0,,He…
+Dialogue: 0,0:44:03.30,0:44:04.81,petto,Sumire,0,0,0,,He is my…
+Dialogue: 0,0:44:04.91,0:44:06.57,petto,landlord,0,0,0,,Hey, Iwaya-san!
+Dialogue: 0,0:44:06.78,0:44:08.88,petto,landlord,0,0,0,,What a coincidence.
+Dialogue: 0,0:44:08.88,0:44:10.15,petto,Sumire,0,0,0,,The landlord…
+Dialogue: 0,0:44:10.15,0:44:16.32,petto,landlord,0,0,0,,Actually we got tickets from one of our residents. Are you two on a date?
+Dialogue: 0,0:44:16.82,0:44:19.29,petto,Hasumi,0,0,0,,No, I just got off work.
+Dialogue: 0,0:44:33.97,0:44:34.87,petto,Sumire,0,0,0,,I'm home.
+Dialogue: 0,0:44:41.64,0:44:43.18,petto,Momo,0,0,0,,Welcome back.
+Dialogue: 0,0:44:45.51,0:44:47.02,petto,Momo,0,0,0,,Where's the omelette rice you promised?
+Dialogue: 0,0:44:49.95,0:44:51.12,petto,Sumire,0,0,0,,Just give me a minute.
+Dialogue: 0,0:44:55.99,0:44:57.76,petto,Momo,0,0,0,,Thanks for the bouquet.
+Dialogue: 0,0:44:59.33,0:45:00.76,petto,Momo,0,0,0,,It made me really happy.
+Dialogue: 0,0:45:00.90,0:45:05.00,petto,Sumire,0,0,0,,No, I have to thank you for lying for me like that.
+Dialogue: 0,0:45:05.77,0:45:07.40,petto,Sumire,0,0,0,,I was so surprised.
+Dialogue: 0,0:45:07.40,0:45:09.44,petto,Sumire,0,0,0,,You're so good at lying, Momo.
+Dialogue: 0,0:45:09.44,0:45:12.67,petto,Sumire,0,0,0,,Things like Germany and studying abroad, you tell lies that sound like the truth.
+Dialogue: 0,0:45:12.67,0:45:14.04,petto,Sumire,0,0,0,,Even I almost thought they were true…
+Dialogue: 0,0:45:12.67,0:45:14.04,petto overlap,Momo,0,0,0,,They're true.
+Dialogue: 0,0:45:16.08,0:45:16.64,petto,Sumire,0,0,0,,Huh?
+Dialogue: 0,0:45:18.05,0:45:21.68,petto,Momo,0,0,0,,Sorry… it's true that I'm going abroad.
+Dialogue: 0,0:45:23.59,0:45:24.15,petto,Sumire,0,0,0,,What?
+Dialogue: 0,0:45:25.39,0:45:26.96,petto,Momo,0,0,0,,I'm going to Germany next week.
+Dialogue: 0,0:45:29.26,0:45:30.99,petto,Momo,0,0,0,,I was planning on it from the start.
+Dialogue: 0,0:45:31.19,0:45:35.30,petto,Momo,0,0,0,,I was wondering when I should tell you,\Nbut I guess I just couldn't find the right timing.
+Dialogue: 0,0:45:37.17,0:45:38.63,petto,Sumire,0,0,0,,You're joking, what are you talking about?
+Dialogue: 0,0:45:38.63,0:45:39.77,petto,Momo,0,0,0,,It's not a joke.
+Dialogue: 0,0:45:43.70,0:45:44.80,petto,Momo,0,0,0,,So…
+Dialogue: 0,0:45:47.28,0:45:51.25,petto,Momo,0,0,0,,Let's have a good time for the remaining week…
+Dialogue: 0,0:45:52.28,0:45:53.55,petto,Momo,0,0,0,,Master.
