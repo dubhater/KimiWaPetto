@@ -20,8 +20,6 @@ Video Position: 14134
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Petto_b_bottom,Verdana,26,&H00FFFFFF,&H009F9F9F,&H80000008,&H80000008,0,0,0,0,100,100,0,0,1,2,0,2,30,30,50,204
-Style: Petto_b_top,Verdana,26,&H00FFFFFF,&H009F9F9F,&H80000008,&H80000008,0,0,0,0,100,100,0,0,1,2,0,2,30,30,210,204
 Style: petto,Fansub,30,&H00FFFFFF,&H009F9F9F,&H00000000,&H00000000,0,0,0,0,82,100,0,0,1,2.5,0,2,30,30,45,1
 Style: petto overlap,Fansub,30,&H0073FFD9,&H008F8F8F,&H00000000,&H00000000,0,0,0,0,82,100,0,0,1,2.5,0,2,30,30,45,1
 Style: episode,Droid Sans,32,&H008342D3,&H00F3E8FF,&H00400080,&H00400080,0,0,0,0,82,100,0,0,1,0,0,2,30,30,85,1
