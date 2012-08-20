@@ -8,14 +8,15 @@ Collisions: Normal
 PlayResX: 868
 PlayResY: 480
 Last Style Storage: petto
-Scroll Position: 372
-Active Line: 374
+Scroll Position: 624
+Active Line: 62
 Video File: ../../raws/petto-03.mkv
 Video Colorspace: BT.601
 Video Aspect Ratio: c1.80625
-Video Zoom Percent: 1
+Video Zoom Percent: 0.875
 YCbCr Matrix: TV.601
-Video Position: 81700
+Audio URI: ../../audio/petto-03.mka
+Video Position: 14134
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -90,12 +91,12 @@ Dialogue: 0,0:03:29.07,0:03:29.80,petto,Sumire,0,0,0,,Huh?
 Dialogue: 0,0:03:30.71,0:03:32.14,petto,Sumire,0,0,0,,Wha— What?
 Dialogue: 0,0:03:33.88,0:03:35.84,petto,Sumire,0,0,0,,What are you talking about? There's no way…
 Dialogue: 0,0:03:35.84,0:03:38.11,petto,Sumire,0,0,0,,I was so worried about your injury…
-Dialogue: 0,0:03:38.20,0:03:41.30,Petto_b_top,Sumire,0,0,0,,{\i1}How did he figure that out?
-Dialogue: 0,0:03:41.30,0:03:45.00,Petto_b_top,Sumire,0,0,0,,{\i1}It's true. I mean, the unrequited love\N{\i1}of 4 years ago has finally come true!
-Dialogue: 0,0:03:45.05,0:03:48.70,Petto_b_top,Sumire,0,0,0,,{\i1}So I don't really have the right\N{\i1}state of mind to be thinking about other things.
+Dialogue: 0,0:03:38.20,0:03:41.30,petto,Sumire,0,0,70,,{\an8\i1}How did he figure that out?
+Dialogue: 0,0:03:41.30,0:03:45.00,petto,Sumire,0,0,70,,{\an8\i1}It's true. I mean, the unrequited love\N{\i1}of 4 years ago has finally come true!
+Dialogue: 0,0:03:45.05,0:03:48.70,petto,Sumire,0,0,70,,{\an8\i1}So I don't really have the right\N{\i1}state of mind to be thinking about other things.
 Dialogue: 0,0:03:49.89,0:03:53.09,petto,Sumire,0,0,0,,See? So I'll give you a bath. We have to wash your hair.
-Dialogue: 0,0:03:53.19,0:03:55.80,Petto_b_bottom,Sumire,0,0,0,,{\i1}I guess I can cover it up by giving him a bath.
-Dialogue: 0,0:03:55.80,0:03:58.37,Petto_b_bottom,Sumire,0,0,0,,{\i1}I'll have to keep him in a good mood.
+Dialogue: 0,0:03:53.19,0:03:55.80,petto,Sumire,0,0,75,,{\i1}I guess I can cover it up by giving him a bath.
+Dialogue: 0,0:03:55.80,0:03:58.37,petto,Sumire,0,0,75,,{\i1}I'll have to keep him in a good mood.
 Dialogue: 0,0:04:00.17,0:04:01.44,petto,Momo,0,0,0,,It's all right.
 Dialogue: 0,0:04:01.60,0:04:03.35,petto,Sumire,0,0,0,,Wait… Momo, your bath!
 Dialogue: 0,0:04:03.40,0:04:05.54,petto,Momo,0,0,0,,It's fine, I can do it alone.
