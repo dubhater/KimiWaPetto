@@ -44,7 +44,7 @@ Dialogue: 0,0:00:50.68,0:00:55.48,petto,Sumire,0,0,0,,{\i1}And this is the pet I
 Dialogue: 0,0:00:58.69,0:01:01.76,petto,Sumire,0,0,0,,{\i1}It was on a rainy day two weeks ago.
 Dialogue: 0,0:01:00.01,0:01:04.13,signs,text,0,0,0,,{\pos(434,303)\fad(950,917)}Two weeks ago
 Dialogue: 0,0:01:03.06,0:01:05.09,petto,Sumire,0,0,0,,Let me see…
-Dialogue: 0,0:01:05.23,0:01:07.73,petto,Sumire,0,0,0,,the last time I cried, I was in middle school.
+Dialogue: 0,0:01:05.23,0:01:07.73,petto,Sumire,0,0,0,,The last time I cried, I was in middle school.
 Dialogue: 0,0:01:07.73,0:01:11.07,petto,Sumire,0,0,0,,It was when my pet got sick and died.
 Dialogue: 0,0:01:11.57,0:01:13.14,petto,Sumire,0,0,0,,Since then, I've never cried again.
 Dialogue: 0,0:01:13.44,0:01:15.54,petto,Sumire,0,0,0,,Oh, and when I broke a bone during Aikidou,
@@ -250,7 +250,7 @@ Dialogue: 0,0:21:02.29,0:21:04.56,petto,Momo,0,0,0,,Oh, welcome home!
 Dialogue: 0,0:21:05.53,0:21:07.76,petto,Sumire,0,0,0,,Why are you still here?
 Dialogue: 0,0:21:07.76,0:21:10.80,petto,Momo,0,0,0,,Oh, I didn't have any money to ride the train.
 Dialogue: 0,0:21:14.14,0:21:15.54,petto,Momo,0,0,0,,Thanks for the food.
-Dialogue: 0,0:21:15.64,0:21:17.54,petto,Momo,0,0,0,,It was de~licious!
+Dialogue: 0,0:21:15.64,0:21:17.54,petto,Momo,0,0,0,,It was delicious!
 Dialogue: 0,0:21:19.44,0:21:21.81,petto,Sumire,0,0,0,,Really? I'm happy to see you're feeling better.
 Dialogue: 0,0:21:21.88,0:21:25.15,petto,Momo,0,0,0,,Yeah, thanks to you, I'm feeling great!
 Dialogue: 0,0:21:25.15,0:21:26.65,petto,Sumire,0,0,0,,Then please go home.
@@ -407,7 +407,7 @@ Dialogue: 0,0:29:18.29,0:29:19.32,petto,Momo,0,0,0,,Oh…
 Dialogue: 0,0:29:19.65,0:29:20.62,petto,Momo,0,0,0,,sorry.
 Dialogue: 0,0:29:21.06,0:29:23.12,petto,Sumire,0,0,0,,It's all right, I don't care.
 Dialogue: 0,0:29:23.12,0:29:25.03,petto,Momo,0,0,0,,I see.
-Dialogue: 0,0:29:26.13,0:29:28.83,petto,Momo,0,0,0,,Oh man, forgot something important.
+Dialogue: 0,0:29:26.13,0:29:28.83,petto,Momo,0,0,0,,Oh man, I forgot something important.
 Dialogue: 0,0:29:28.83,0:29:29.36,petto,Sumire,0,0,0,,What is it?
 Dialogue: 0,0:29:29.36,0:29:31.20,petto,Momo,0,0,0,,Your name. I haven't asked it yet.
 Dialogue: 0,0:29:31.20,0:29:32.20,petto,Sumire,0,0,0,,Oh, I'm Iwaya.
@@ -415,14 +415,14 @@ Dialogue: 0,0:29:32.20,0:29:35.30,petto,Momo,0,0,0,,I know that, it's on your fr
 Dialogue: 0,0:29:36.37,0:29:37.57,petto,Sumire,0,0,0,,Iwaya Sumire.
 Dialogue: 0,0:29:38.01,0:29:38.71,petto,Momo,0,0,0,,Sumire?
 Dialogue: 0,0:29:40.24,0:29:42.18,petto,Momo,0,0,0,,I see, Sumire-chan.
-Dialogue: 0,0:29:43.14,0:29:45.68,petto,Momo,0,0,0,,Sumire-san,\NSumire-chan,\NSumire-kun,
+Dialogue: 0,0:29:43.14,0:29:45.68,petto,Momo,0,0,0,,Sumire-san, Sumire-chan, Sumire-kun,
 Dialogue: 0,0:29:45.68,0:29:46.55,petto,Momo,0,0,0,,Yo Sumire!
 Dialogue: 0,0:29:46.55,0:29:47.38,petto,Momo,0,0,0,,Hey, hey!
 Dialogue: 0,0:29:46.55,0:29:47.78,petto overlap,Sumire,0,0,0,,SUMIRE!
 Dialogue: 0,0:29:47.78,0:29:48.15,petto,Momo,0,0,0,,Yes?
 Dialogue: 0,0:29:48.82,0:29:51.39,petto,Sumire,0,0,0,,Can you not repeat it like that? I don't like that name.
 Dialogue: 0,0:29:51.39,0:29:53.46,petto,Momo,0,0,0,,Then what do people call you?
-Dialogue: 0,0:29:53.46,0:29:54.79,petto,Sumire,0,0,0,,"Iwaya-san.'
+Dialogue: 0,0:29:53.46,0:29:54.79,petto,Sumire,0,0,0,,"Iwaya-san."
 Dialogue: 0,0:29:55.29,0:29:56.62,petto,Momo,0,0,0,,Even your ex?
 Dialogue: 0,0:29:56.73,0:29:57.99,petto,Sumire,0,0,0,,Yes, is there something wrong with that?
 Dialogue: 0,0:29:57.99,0:30:00.00,petto,Momo,0,0,0,,You don't have any nicknames?
@@ -640,7 +640,7 @@ Dialogue: 0,0:43:25.93,0:43:27.24,petto,ex-boyfriend,0,0,0,,I wonder if it's kic
 Dialogue: 0,0:43:27.24,0:43:29.90,petto,girl,0,0,0,,I dunno, but it's moving.
 Dialogue: 0,0:44:13.65,0:44:16.18,petto,Momo,0,0,0,,Hey, about me…
 Dialogue: 0,0:44:19.22,0:44:23.22,petto,Momo,0,0,0,,You should've lied and said I was your new boyfriend.
-Dialogue: 0,0:44:23.22,0:44:25.29,petto,Momo,0,0,0,,That' was him, right? Your ex-boyfriend.
+Dialogue: 0,0:44:23.22,0:44:25.29,petto,Momo,0,0,0,,That was him, right? Your ex-boyfriend.
 Dialogue: 0,0:44:26.03,0:44:27.86,petto,Sumire,0,0,0,,It has nothing to do with you, does it?
 Dialogue: 0,0:44:28.26,0:44:29.10,petto,Momo,0,0,0,,Oh really?
 Dialogue: 0,0:44:29.30,0:44:33.54,petto,Momo,0,0,0,,But I thought you were a lot cuter than that girl.
@@ -767,8 +767,7 @@ Dialogue: 0,0:54:54.39,0:54:55.69,petto,Sumire,0,0,0,,I'm sad…
 Dialogue: 0,0:54:59.66,0:55:01.20,petto,Sumire,0,0,0,,I'm so sad.
 Dialogue: 0,0:55:17.65,0:55:19.08,petto,Momo,0,0,0,,{\i1}It was this moment,
 Dialogue: 0,0:55:20.55,0:55:26.22,petto,Momo,0,0,0,,{\i1}as I watched her beautiful tears, that I thought I would like to stay her pet a little longer.
-Dialogue: 0,0:55:27.62,0:55:30.00,petto,Momo,0,0,0,,{\i1}At least until spring comes to an end.***
-Dialogue: 0,0:55:32.00,0:55:34.40,petto,Momo,0,0,0,,{\i1}At least until spring comes to an end.
+Dialogue: 0,0:55:27.62,0:55:34.40,petto,Momo,0,0,0,,{\i1}At least until spring comes to an end.
 Dialogue: 0,0:55:37.03,0:55:38.40,petto,Momo,0,0,0,,{\i1}That's how I felt.
 Dialogue: 0,0:55:45.76,0:55:50.32,signs,text,0,0,0,,{\pos(434,303)\bord1.5\fad(1016,908)\3c&H272727&}In the office
 Dialogue: 0,0:55:51.31,0:55:53.71,petto,Ishida,0,0,0,,Iwaya-san, Dr. Ogawa's data has come in.
