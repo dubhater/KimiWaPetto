@@ -176,7 +176,7 @@ Dialogue: 0,0:09:56.19,0:09:56.96,petto,Takeshi,0,0,0,,What?
 Dialogue: 0,0:09:57.63,0:09:59.83,petto,Junpei,0,0,0,,Always flying around freely.
 Dialogue: 0,0:10:00.80,0:10:02.63,petto,Junpei,0,0,0,,It's something I could never do.
 Dialogue: 0,0:10:30.73,0:10:34.50,petto,Hasumi,0,0,0,,Even when we're together, I feel uneasy sometimes.
-Dialogue: 0,0:10:35.73,0:10:40.84,petto,Hasumi,0,0,0,,She was always kind of awkward in her manner, and has loved her life in an uptight way.
+Dialogue: 0,0:10:35.73,0:10:40.84,petto,Hasumi,0,0,0,,She was always kind of awkward in her manner, and has lived her life in an uptight way.
 Dialogue: 0,0:10:41.54,0:10:46.17,petto,Hasumi,0,0,0,,Even while sleeping, she furrows her brow.
 Dialogue: 0,0:10:46.54,0:10:48.21,petto,counsel,0,0,0,,Was it a little scary?
 Dialogue: 0,0:10:48.68,0:10:50.75,petto,Hasumi,0,0,0,,Yes, a little…
@@ -281,7 +281,7 @@ Dialogue: 0,0:16:42.76,0:16:46.07,petto,Sumire,0,0,0,,I understand. I understand
 Dialogue: 0,0:16:46.33,0:16:48.24,petto,Yuri,0,0,0,,What are you saying all of a sudden?
 Dialogue: 0,0:16:48.24,0:16:49.30,petto,Sumire,0,0,0,,It's just a pet.
 Dialogue: 0,0:16:49.30,0:16:52.67,petto,Sumire,0,0,0,,On top of that, I just lost to him, and he made me make him a pet.
-Dialogue: 0,0:16:52.67,0:16:58.98,petto,Sumire,0,0,0,,I didn't even plan on keeping him that long. I don't know why I'm feeling all emotional now.
+Dialogue: 0,0:16:52.67,0:16:58.98,petto,Sumire,0,0,0,,I didn't even plan on keeping him that long.\NI don't know why I'm feeling all emotional now.
 Dialogue: 0,0:16:59.45,0:17:03.05,petto,Sumire,0,0,0,,I was just taking care of an abandoned dog for two months, and that's all.
 Dialogue: 0,0:17:03.28,0:17:06.05,petto,Sumire,0,0,0,,So from tomorrow onwards, I think I'm going to look forward and just enjoy myself.
 Dialogue: 0,0:17:06.05,0:17:08.06,petto,Sumire,0,0,0,,Enjoy my present petless life.
@@ -295,7 +295,7 @@ Dialogue: 0,0:17:37.52,0:17:39.59,petto,Sumire,0,0,0,,{\i1}I must have hurt him 
 Dialogue: 0,0:17:40.96,0:17:44.06,petto,Sumire,0,0,0,,{\i1}That time… and that time…
 Dialogue: 0,0:17:45.43,0:17:46.66,petto,Sumire,0,0,0,,Don't come home.
 Dialogue: 0,0:17:46.66,0:17:47.83,petto,Sumire,0,0,0,,{\i1}And that time…
-Dialogue: 0,0:17:51.57,0:17:53.17,petto,Sumire,0,0,0,,He won't come back anymore.
+Dialogue: 0,0:17:51.57,0:17:53.17,petto,Sumire,0,0,0,,{\i1}He won't come back anymore.
 Dialogue: 0,0:17:56.10,0:17:59.31,petto,Sumire,0,0,0,,Momo is no longer in this world.
 Dialogue: 0,0:18:13.15,0:18:14.42,petto,Takeshi,0,0,0,,Higher.
 Dialogue: 0,0:18:22.66,0:18:23.37,petto,Momo,0,0,0,,Ruff!
@@ -441,7 +441,7 @@ Dialogue: 0,0:29:19.79,0:29:24.13,petto,Takeshi,0,0,0,,Well, I probably wouldn't
 Dialogue: 0,0:29:26.36,0:29:27.96,petto,ex-boyfriend,0,0,0,,That's true, but…
 Dialogue: 0,0:29:32.80,0:29:36.71,petto,Takeshi,0,0,0,,I just wanted to be together.
 Dialogue: 0,0:29:39.34,0:29:42.94,petto,Takeshi,0,0,0,,If I became her pet, I could stay by her side.
-Dialogue: 0,0:29:44.11,0:29:53.25,petto,Takeshi,0,0,0,,Although there was no sex involved, she needed me more than any other human.
+Dialogue: 0,0:29:44.11,0:29:53.25,petto,Takeshi,0,0,0,,Although there was no sex involved,\Nshe needed me more than any other human.
 Dialogue: 0,0:29:55.32,0:29:56.83,petto,Takeshi,0,0,0,,Not human?
 Dialogue: 0,0:29:57.79,0:30:00.76,petto,Sumire,0,0,0,,Yup, I have no human rights.
 Dialogue: 0,0:30:02.96,0:30:06.13,petto,ex-boyfriend,0,0,0,,Isn't that kind of hard?
@@ -456,7 +456,7 @@ Dialogue: 0,0:30:43.44,0:30:44.74,petto,Takeshi,0,0,0,,You aren't either.
 Dialogue: 0,0:30:45.67,0:30:51.75,petto,ex-boyfriend,0,0,0,,Please take care of Iwaya-san. She's actually a very fragile person.
 Dialogue: 0,0:30:52.95,0:31:04.89,petto,ex-boyfriend,0,0,0,,She never showed me her efforts nor her tears, but she was probably holding in a lot…
 Dialogue: 0,0:31:05.79,0:31:09.90,petto,ex-boyfriend,0,0,0,,At first, she didn't even know how to cook.
-Dialogue: 0,0:31:10.30,0:31:14.64,petto,ex-boyfriend,0,0,0,,I don't know when she started practicing, but she soon became like a professional chef.
+Dialogue: 0,0:31:10.30,0:31:14.64,petto,ex-boyfriend,0,0,0,,I don't know when she started practicing,\Nbut she soon became like a professional chef.
 Dialogue: 0,0:31:16.54,0:31:17.64,petto,Takeshi,0,0,0,,I see…
 Dialogue: 0,0:31:19.34,0:31:21.78,petto,Takeshi,0,0,0,,So the cooking was indebted to you.
 Dialogue: 0,0:31:22.24,0:31:23.11,petto,ex-boyfriend,0,0,0,,What?
@@ -507,7 +507,7 @@ Dialogue: 0,0:36:07.86,0:36:10.37,petto,Sumire,0,0,0,,Let's go back home, Momo.
 Dialogue: 0,0:36:22.18,0:36:23.11,petto,Sumire,0,0,0,,Come here.
 Dialogue: 0,0:36:32.22,0:36:35.56,petto,Takeshi,0,0,0,,{\i1}If I take this hand now,
 Dialogue: 0,0:36:37.13,0:36:40.53,petto,Takeshi,0,0,0,,{\i1}I'll go back to being Momo again.
-Dialogue: 0,0:36:41.76,0:36:45.27,petto,Takeshi,0,0,0,,{\i1}That sweer, but bitter life as a pet.
+Dialogue: 0,0:36:41.76,0:36:45.27,petto,Takeshi,0,0,0,,{\i1}That sweet, but bitter life as a pet.
 Dialogue: 0,0:37:04.92,0:37:05.75,petto,Sumire,0,0,0,,Momo.
 Dialogue: 0,0:37:11.19,0:37:12.59,petto,Momo,0,0,0,,It's okay that I come back?
 Dialogue: 0,0:37:23.41,0:37:24.41,petto,Sumire,0,0,0,,It's okay.
@@ -553,7 +553,7 @@ Dialogue: 0,0:41:24.01,0:41:25.05,petto,Sumire,0,0,0,,Do it yourself!
 Dialogue: 0,0:41:25.48,0:41:27.72,petto,Junpei,0,0,0,,So you went back to your master?
 Dialogue: 0,0:41:27.72,0:41:30.52,petto,Takeshi,0,0,0,,Yup. Right now, she's on a date with her boyfriend.
 Dialogue: 0,0:41:30.62,0:41:32.39,petto,Junpei,0,0,0,,I see…
-Dialogue: 0,0:41:33.62,0:41:36.52,petto,dancer_boss,0,0,0,,Takeshi~, one of your fans is here again.
+Dialogue: 0,0:41:33.62,0:41:36.52,petto,dancer_boss,0,0,0,,Takeshi, one of your fans is here again.
 Dialogue: 0,0:41:36.69,0:41:38.43,petto,Takeshi,0,0,0,,Oh, all right. Thanks.
 Dialogue: 0,0:41:41.33,0:41:42.33,petto,Fukuhima,0,0,0,,Hello.
 Dialogue: 0,0:41:42.53,0:41:43.83,petto,Fukuhima,0,0,0,,Nice to meet you.
@@ -582,7 +582,7 @@ Dialogue: 0,0:43:11.79,0:43:13.92,petto,Fukuhima,0,0,0,,I want Hasumi-san.
 Dialogue: 0,0:43:16.36,0:43:18.63,petto,Fukuhima,0,0,0,,So I want you to steal that woman away from him.
 Dialogue: 0,0:43:24.90,0:43:27.84,petto,Fukuhima,0,0,0,,If you don't know how to do it, I can teach you.
 Dialogue: 0,0:43:30.14,0:43:32.61,petto,Takeshi,0,0,0,,Oh, I get it.
-Dialogue: 0,0:43:33.41,0:43:37.35,petto,Takeshi,0,0,0,,You can't win just by being on the offensive, so you're trying to break things from the inside.
+Dialogue: 0,0:43:33.41,0:43:37.35,petto,Takeshi,0,0,0,,You can't win just by being on the offensive,\Nso you're trying to break things from the inside.
 Dialogue: 0,0:43:43.12,0:43:48.46,petto,Takeshi,0,0,0,,Wow, you're really serious about Hasumi-kun. You're kinda cute.
 Dialogue: 0,0:43:49.36,0:43:52.43,petto,Fukuhima,0,0,0,,I'm not serious about him. I just want him, that's all.
 Dialogue: 0,0:43:55.63,0:43:58.97,petto,Fukuhima,0,0,0,,So you seem to be pretty smooth with girls.
