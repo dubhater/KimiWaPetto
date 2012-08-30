@@ -53,7 +53,7 @@ Dialogue: 0,0:01:14.84,0:01:19.14,petto,Momo,0,0,0,,I don't know, but we were pr
 Dialogue: 0,0:01:19.64,0:01:21.31,petto,Momo,0,0,0,,that this would end someday.
 Dialogue: 0,0:01:22.11,0:01:23.04,petto,Momo,0,0,0,,Am I wrong? {orig: Aren't I right?}
 Dialogue: 0,0:01:28.12,0:01:29.52,petto,Sumire,0,0,0,,Even so...
-Dialogue: 0,0:01:31.12,0:01:34.29,petto,Sumire,0,0,0,,You can't just decide on you own like that, with just a week left!
+Dialogue: 0,0:01:31.12,0:01:34.29,petto,Sumire,0,0,0,,You can't just decide on your own like that, with just a week left!
 Dialogue: 0,0:01:34.46,0:01:38.43,petto,Momo,0,0,0,,Well, to be specific, more like six days and two hours.
 Dialogue: 0,0:01:38.83,0:01:42.10,petto,Momo,0,0,0,,But then Monday, Tuesday, Wednesday...
 Dialogue: 0,0:01:42.10,0:01:44.40,petto,Momo,0,0,0,,I think I should leave here around Thursday.
@@ -125,12 +125,12 @@ Dialogue: 0,0:07:23.44,0:07:25.44,petto,Takeshi,0,0,0,,How are you?
 Dialogue: 0,0:07:25.84,0:07:26.78,petto,dancer_boss,0,0,0,,Thank you!
 Dialogue: 0,0:07:26.91,0:07:28.28,petto,dancer_boss,0,0,0,,I'm doing very well!
 Dialogue: 0,0:07:28.41,0:07:29.58,petto,Takeshi,0,0,0,,Thank you, thank you.
-Dialogue: 0,0:07:29.57,0:07:32.01,petto overlap,Junpei,0,0,0,,Huh? What are you two saying?
+Dialogue: 0,0:07:29.57,0:07:32.01,petto,Junpei,0,0,0,,Huh? What are you two saying?
 Dialogue: 0,0:07:32.65,0:07:36.38,petto,dancer_boss,0,0,0,,I'm impressed, Takeshi! You can speak German!
 Dialogue: 0,0:07:36.38,0:07:39.69,petto,Takeshi,0,0,0,,I've been there a few times when I was a child.
 Dialogue: 0,0:07:40.32,0:07:41.69,petto,Rumi,0,0,0,,Wait, what?
 Dialogue: 0,0:07:41.69,0:07:42.26,petto,Takeshi,0,0,0,,Good morning.
-Dialogue: 0,0:07:42.26,0:07:44.70,petto,Rumi,0,0,0,,Good morning.
+Dialogue: 0,0:07:42.26,0:07:44.70,petto,Rumi,0,0,0,,So are you going to Germany after all?
 Dialogue: 0,0:07:44.70,0:07:46.29,petto,Takeshi,0,0,0,,Don't come with me, I'm going to change.
 Dialogue: 0,0:07:46.29,0:07:48.90,petto,Rumi,0,0,0,,Then what do you mean? Did you break up with her?
 Dialogue: 0,0:07:48.90,0:07:52.13,petto,Takeshi,0,0,0,,Nope. I told her I'd leave first.
@@ -256,7 +256,7 @@ Dialogue: 0,0:15:59.02,0:16:01.09,petto,Rumi,0,0,0,,That's really low of you, to
 Dialogue: 0,0:16:01.46,0:16:03.93,petto,counsel,0,0,0,,...won't last forever.
 Dialogue: 0,0:16:01.56,0:16:03.73,petto overlap,Fukushima,0,0,0,,Which are you going to choose?
 Dialogue: 0,0:16:03.93,0:16:04.59,petto,Hasumi,0,0,0,,I believe in you.
-Dialogue: 0,0:16:04.39,0:16:05.86,petto overlap,Momo,0,0,0,,{\i1}What am I to you?
+Dialogue: 0,0:16:04.39,0:16:05.86,petto overlap,Momo,0,0,0,,What am I to you?
 Dialogue: 0,0:16:18.41,0:16:19.61,petto,Sumire,0,0,0,,I'm sorry!
 Dialogue: 0,0:16:20.38,0:16:21.44,petto,Ishida,0,0,0,,Iwaya-san?
 Dialogue: 0,0:16:21.44,0:16:23.61,petto,Sumire,0,0,0,,I apologise. I'm the one at fault. I understand that well.
@@ -314,7 +314,7 @@ Dialogue: 0,0:18:35.78,0:18:37.95,petto,Kuraki,0,0,0,,Why? Why aren't you going?
 Dialogue: 0,0:18:37.95,0:18:41.22,petto,Nobu,0,0,0,,Hey, you shouldn't go digging into people's business like that.
 Dialogue: 0,0:18:41.22,0:18:42.82,petto,Kuraki,0,0,0,,I'm sorry.
 Dialogue: 0,0:18:42.82,0:18:46.55,petto,Kuraki,0,0,0,,Aww, Nobu-chan, you're too cute!
-Dialogue: 0,0:18:45.55,0:18:48.19,petto overlap,Sumire,0,0,0,,{\i1}I don't even know why myself.
+Dialogue: 0,0:18:45.55,0:18:48.19,petto overlap,Sumire,0,0,0,,I don't even know why myself.
 Dialogue: 0,0:18:48.96,0:18:50.06,petto,Sumire,0,0,0,,If you'll excuse me.
 Dialogue: 0,0:18:51.63,0:18:54.16,petto,Sumire,0,0,0,,{\i1}Why am I so tangled up and immobile?
 Dialogue: 0,0:18:54.93,0:18:58.07,petto,Sumire,0,0,0,,{\i1}I don't have the courage to get married nor to go to Rio de Janeiro.
@@ -409,7 +409,7 @@ Dialogue: 0,0:24:30.57,0:24:33.30,petto,counsel,0,0,0,,But they can't take their
 Dialogue: 0,0:24:33.54,0:24:38.24,petto,counsel,0,0,0,,That's why they love their pets too much.
 Dialogue: 0,0:24:38.24,0:24:39.77,petto,nice_girl,0,0,0,,An armor...?
 Dialogue: 0,0:24:39.47,0:24:42.38,petto overlap,counsel,0,0,0,,Oh, yes, a heavy, super-hard armor.
-Dialogue: 0,0:24:42.84,0:24:44.99,petto,counsel,0,0,0,,You know, with those elite, highly educated women.
+Dialogue: 0,0:24:42.84,0:24:44.99,petto,counsel,0,0,0,,You know, with those elite, highly educated women,
 Dialogue: 0,0:24:44.99,0:24:50.79,petto,counsel,0,0,0,,they have this aura that screams, "Don't touch me!" It's so impudent.
 Dialogue: 0,0:24:50.79,0:24:53.59,petto,counsel,0,0,0,,That's why, honestly, men back off.
 Dialogue: 0,0:24:54.32,0:24:57.99,petto,counsel,0,0,0,,"Oh, really? Then go live your lives however you want to!"
@@ -419,7 +419,7 @@ Dialogue: 0,0:25:04.70,0:25:05.83,petto,counsel,0,0,0,,What, why?
 Dialogue: 0,0:25:05.83,0:25:08.77,petto,nice_girl,0,0,0,,It seems that I am a disciple of Iwaya-san's.
 Dialogue: 0,0:25:12.14,0:25:13.61,petto,counsel,0,0,0,,But on your resume you wrote...
 Dialogue: 0,0:25:13.61,0:25:17.61,petto,nice_girl,0,0,0,,I lied. I'm currently in my fourth year at the Literature department of Tokyo University.
-Dialogue: 0,0:25:19.61,0:25:23.59,petto,nice_girl,0,0,0,,Because you wouldn't have hired me if I was a smart woman, would you, doctor?
+Dialogue: 0,0:25:19.61,0:25:23.59,petto,nice_girl,0,0,0,,Because you wouldn't have hired me if\NI was a smart woman, would you, doctor?
 Dialogue: 0,0:25:26.92,0:25:27.66,petto,counsel,0,0,0,,Correct.
 Dialogue: 0,0:25:29.92,0:25:34.50,petto,Hasumi,0,0,0,,Come to think of it, you've never stayed over at my place before, have you, Iwaya?
 Dialogue: 0,0:25:35.96,0:25:38.07,petto,Sumire,0,0,0,,Oh, yes, that's right.
@@ -516,9 +516,9 @@ Dialogue: 0,0:32:52.57,0:32:53.74,petto overlap,Momo,0,0,0,,No, I don't need any
 Dialogue: 0,0:32:53.74,0:32:55.37,petto,Momo,0,0,0,,I can go home on my own.
 Dialogue: 0,0:32:55.37,0:32:57.87,petto,nanny,0,0,0,,No, it would be awful if you got into an accident on the way.
 Dialogue: 0,0:32:57.87,0:32:58.54,petto,Momo,0,0,0,,I won't.
-Dialogue: 0,0:32:58.54,0:33:01.28,petto,nanny,0,0,0,,No, you're actually pretty spaced out at time, so it's a necessary precaution.
+Dialogue: 0,0:32:58.54,0:33:01.28,petto,nanny,0,0,0,,No, you're actually pretty spaced out at times, so it's a necessary precaution.
 Dialogue: 0,0:33:01.28,0:33:04.71,petto,nanny,0,0,0,,And we will take you straight back to your home in Chiba, and we will finish packing.
-Dialogue: 0,0:33:04.71,0:33:06.92,petto,nanny,0,0,0,,and three days later, on June 14th, 13:00,
+Dialogue: 0,0:33:04.71,0:33:06.92,petto,nanny,0,0,0,,Three days later, on June 14th, 13:00,
 Dialogue: 0,0:33:06.92,0:33:09.72,petto,nanny,0,0,0,,your plane is scheduled to leave from Narita Airport.
 Dialogue: 0,0:33:08.82,0:33:09.85,petto overlap,Momo,0,0,0,,Hey, you...
 Dialogue: 0,0:33:09.95,0:33:10.99,petto,nanny,0,0,0,,Yes?
@@ -611,14 +611,14 @@ Dialogue: 0,0:38:10.02,0:38:11.02,petto,Momo,0,0,0,,That tickles!
 Dialogue: 0,0:38:11.02,0:38:11.86,petto,Sumire,0,0,0,,What is it?!
 Dialogue: 0,0:38:11.86,0:38:13.50,petto,Momo,0,0,0,,Then I'll do yours.
 Dialogue: 0,0:38:13.56,0:38:16.12,petto,Sumire,0,0,0,,No, no, you don't have to. I'm ticklish too.
-Dialogue: 0,0:38:19.53,0:38:20.46,petto,Momo,0,0,0,,Yeah.
-Dialogue: 0,0:38:21.53,0:38:22.33,petto,Sumire,0,0,0,,Yeah.
+Comment: 0,0:38:19.53,0:38:20.46,petto,Momo,0,0,0,,Yeah.
+Comment: 0,0:38:21.53,0:38:22.33,petto,Sumire,0,0,0,,Yeah.
 Dialogue: 0,0:38:30.27,0:38:31.41,petto,Momo,0,0,0,,What?
 Dialogue: 0,0:38:32.51,0:38:35.71,petto,Sumire,0,0,0,,If we don't decide soon, the night will be over.
 Dialogue: 0,0:38:38.21,0:38:41.38,petto,Momo,0,0,0,,Then how about telling fun stories?
 Dialogue: 0,0:38:41.38,0:38:42.35,petto,Sumire,0,0,0,,Stories?
 Dialogue: 0,0:38:42.35,0:38:44.02,petto,Momo,0,0,0,,Yeah, stories about love.
-Dialogue: 0,0:38:44.19,0:38:47.26,petto,Momo,0,0,0,,Like, "When was your first love?" and, "When did you lose your virginity?"
+Dialogue: 0,0:38:44.19,0:38:47.26,petto,Momo,0,0,0,,Like, "When was your first love?"\Nand, "When did you lose your virginity?"
 Dialogue: 0,0:38:47.26,0:38:48.09,petto,Momo,0,0,0,,Stuff like that.
 Dialogue: 0,0:38:48.09,0:38:49.56,petto,Sumire,0,0,0,,I don't want to talk about such things.
 Dialogue: 0,0:38:49.56,0:38:51.03,petto,Momo,0,0,0,,Then I'll go first.
@@ -641,7 +641,7 @@ Dialogue: 0,0:39:46.75,0:39:49.12,petto,Momo,0,0,0,,He was actually planning on 
 Dialogue: 0,0:39:49.25,0:39:52.69,petto,Momo,0,0,0,,But before he knew it, the dog came to really like the castle.
 Dialogue: 0,0:39:53.29,0:39:57.56,petto,Momo,0,0,0,,Why? Because the princess who couldn't shed tears
 Dialogue: 0,0:39:58.43,0:40:02.80,petto,Momo,0,0,0,,would shed beautiful tears, only in front of the dog.
-Dialogue: 0,0:40:06.00,0:40:12.57,petto,Momo,0,0,0,,But, right after that, there appeared a handsome prince before the princess.
+Dialogue: 0,0:40:06.00,0:40:12.57,petto,Momo,0,0,0,,But, right after that, there appeared\Na handsome prince before the princess.
 Dialogue: 0,0:40:13.51,0:40:20.75,petto,Momo,0,0,0,,The dog was slightly shocked, but as long as he stayed a dog, the princess treasured him.
 Dialogue: 0,0:40:20.75,0:40:23.69,petto,Momo,0,0,0,,So he decided to continue being a dog for a little while longer.
 Dialogue: 0,0:40:24.25,0:40:25.59,petto,Momo,0,0,0,,Momo...
